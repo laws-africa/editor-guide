@@ -1,23 +1,10 @@
-# Initial page
+# Welcome
 
-## Getting Super Powers
+Welcome to the Laws.Africa Editor Guide.
 
-Becoming a super hero is a fairly straight forward process:
+This guide explains how to use the Laws.Africa platform to manage, markup and consolidate legislation.
 
-```
-$ give me super-powers
-```
+### Editing a Document
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
+{% page-ref page="editing-a-document/indented-lists.md" %}
 
