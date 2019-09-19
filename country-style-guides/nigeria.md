@@ -4,17 +4,15 @@ description: Style guide for importing and marking up legislation for Nigeria.
 
 # Nigeria
 
-## Cleaning up 
+## Cleaning up
 
-### DO NOT remove amendment remarks
+### Editorial remarks
 
 {% hint style="danger" %}
 Do not remove remarks that indicate amendments, such as `[1992 No. 59]`.
 {% endhint %}
 
 ![](../.gitbook/assets/remark-act.png)
-
-### Editorial remarks
 
 Remove remarks that reference Caps and Schedules.
 
