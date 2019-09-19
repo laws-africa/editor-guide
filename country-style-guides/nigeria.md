@@ -24,7 +24,11 @@ Remove the headings for empty subsidiary legislations, including the primary Act
 
 ## Use Sections in Schedules
 
-Prefer to use Sections in Schedules rather than Crossheadings. If a title appears to belong to only one numbered Section, mark it as a Section, not as a Crossheading.
+Prefer to use Sections in Schedules rather than Crossheadings.
+
+{% hint style="info" %}
+If a title appears to belong to only one numbered Section, mark it as a Section, not as a Crossheading.
+{% endhint %}
 
 ![](../.gitbook/assets/schedule-section-titles.png)
 
