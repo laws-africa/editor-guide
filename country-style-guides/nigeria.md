@@ -22,6 +22,8 @@ Remove remarks that reference Caps and Schedules.
 
 Remove the headings for empty subsidiary legislations, including the primary Act's title, if it's included.
 
+![](../.gitbook/assets/subleg.png)
+
 ## Use Sections in Schedules
 
 Prefer to use Sections in Schedules rather than Crossheadings.
