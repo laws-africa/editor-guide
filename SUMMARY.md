@@ -6,3 +6,7 @@
 
 * [Indented lists](editing-a-document/indented-lists.md)
 
+## Country Style Guides
+
+* [Nigeria](country-style-guides/nigeria.md)
+
