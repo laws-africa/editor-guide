@@ -32,7 +32,7 @@ Prefer to use Sections in Schedules rather than Crossheadings.
 If a title appears to belong to only one numbered Section, mark it as a Section, not as a Crossheading.
 {% endhint %}
 
-![](../.gitbook/assets/schedule-section-titles%20%281%29.png)
+![](../.gitbook/assets/schedule-section-titles.png)
 
 Markup these sections like this:
 

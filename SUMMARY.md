@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Terminology Guide](terminology-guide.md)
+
+## Managing Works
+
+* [Creating and editing works](managing-works/creating-and-editing-works.md)
 
 ## Editing a Document
 
