@@ -75,13 +75,21 @@ To choose a primary work, click Choose primary work and search for the Act in te
 Do not use Primary work to link an amending Act to the Act which it amends. Instead, use the amending Act to create a new point in time for the amended Act. 
 {% endhint %}
 
+{% page-ref page="../terminology-guide.md" %}
+
 ### Stub
 
 Marking a work as a stub indicates that we will not capture the content of the work, we will only capture the work metadata.
 
 Check the stub checkbox if this is work only amends, commences or repeals another work, and has no substantive provisions of its own.
 
+## Edit the Publication details
 
+### Publication date
 
-{% page-ref page="../terminology-guide.md" %}
+### Publication name
+
+### Publication number
+
+### Attaching a publication document
 
