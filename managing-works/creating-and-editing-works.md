@@ -51,17 +51,11 @@ South African by-laws, and other works, sometimes don't have numbers. In this ca
 * remove references to the name of the municipality or town, since this is already captured
 * remove the word "by-law" and phrases such as "relating to"
 
-For example: for the "Cape Town By-law relating to the consumption of Strawberries", the number would be "consumption-of-strawberries".
-
-Yum, strawberries. 🍓
+For example: for the "Cape Town By-law relating to the consumption of Strawberries", the number would be "consumption-of-strawberries". Yum, strawberries. 🍓
 
 ### Work subtype
 
-Leave this blank for Acts. For other types of works, choose an option from the dropdown list. Options depend on the country. Examples include:
-
-* by-law
-* legal notice \(ln\)
-* statutory instrument \(si\)
+Leave this blank for Acts. For other types of works, choose an option from the dropdown list. Options depend on the country. Examples include by-law, legal notice \(ln\) and statutory instrument \(si\).
 
 ### Primary work
 
@@ -85,11 +79,23 @@ Check the stub checkbox if this is work only amends, commences or repeals anothe
 
 ## Edit the Publication details
 
+The publication details refer to when and where the work was first published in an official government publication, such as the Government Gazette.
+
 ### Publication date
+
+Use the date of the original publication.
 
 ### Publication name
 
+Use the name of the original publication, such as Government Gazette. Choose an option from the dropdown list, if possible.
+
 ### Publication number
+
+The number of the publication or gazette. Together with the publication date, this uniquely identifies the publication.
+
+{% hint style="warning" %}
+In general, do not use: volume number, part number, or supplement number.
+{% endhint %}
 
 ### Attaching a publication document
 
