@@ -8,13 +8,13 @@ description: >-
 
 ## Creating a new work
 
-To create a new work, open the works page for the appropriate country or locality, and then click New work button. Then fill in the details as described below.
+To create a new work, open the works page for the appropriate country or locality, and then click **New work**.
 
 ![](../.gitbook/assets/new-work-button.png)
 
-## Editing an existing work
+Then fill in the details as described below.
 
-To edit an existing work, on the work detail page, click the Edit work button.
+To edit an existing work, click **Edit work** on the work detail page.
 
 ## Edit the Work details
 
@@ -81,20 +81,16 @@ Check the stub checkbox if this is work only amends, commences or repeals anothe
 
 The publication details refer to when and where the work was first published in an official government publication, such as the Government Gazette.
 
-### Publication date
+### Publication date, name and number
 
-Use the date of the original publication.
+For the **publication date**, use the date of the original publication.
 
-### Publication name
+For the **publication name**, use the name of the publication, such as Government Gazette. Choose an option from the dropdown list, if possible.
 
-Use the name of the original publication, such as Government Gazette. Choose an option from the dropdown list, if possible.
-
-### Publication number
-
-The number of the publication or gazette. Together with the publication date, this uniquely identifies the publication.
+The **publication number** is the number of the publication or gazette. Together with the publication date, this uniquely identifies the publication.
 
 {% hint style="warning" %}
-In general, do not use: volume number, part number, or supplement number.
+Do not use volume number, part number, or supplement number for the publication number.
 {% endhint %}
 
 ### Attaching a publication document
