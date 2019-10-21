@@ -25,7 +25,7 @@ Indented lists are useful for simple numbered lists.
 
 ## Exercise
 
-* [ ] Copy and paste the text below into the editor.
+1. Copy and paste the text below into the editor.
 
 ```text
 (3) The municipality may, subject to any law which may be applicable and after obtaining permission of the owner and the occupier of the land concerned, if any—
@@ -39,12 +39,12 @@ Indented lists are useful for simple numbered lists.
 (b) divert storm water from or under a public road onto private property other than land containing buildings, other structures or improvements.
 ```
 
-* [ ] Click Update. The list will be auto-indented.
-* [ ] Click Edit again. You can see how the edit view reflects the indentation.
-* [ ] Change the indenting of `(i)` and `(ii)` to align with `(a)` and `(b)`. \(Use Shift+TAB to un-indent.\)
-* [ ] Click Update. All the items in the list are now at the same level.
-* [ ] Click Edit again, and highlight all the lines.
-* [ ] Use Shift+TAB to un-indent all the lines all the way to the left margin.
-* [ ] Click Update.
-* [ ] Laws.Africa indents the list automatically, because it was completely unindented.
+1. Click **Update**. The list will be auto-indented.
+2. Click **Edit** again. You can see how the edit view reflects the indentation.
+3. Change the indenting of `(i)` and `(ii)` to align with `(a)` and `(b)`. \(Use Shift+TAB to un-indent.\)
+4. Click **Update**. All the items in the list are now at the same level.
+5. Click **Edit** again, and highlight all the lines.
+6. Use Shift+TAB to un-indent all the lines all the way to the left margin.
+7. Click **Update**.
+8. Laws.Africa indents the list automatically, because it was completely unindented.
 
