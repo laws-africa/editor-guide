@@ -63,7 +63,7 @@ Leave this blank for Acts.
 
 For subsidiary legislation and regulations, this indicates the work to which the subsidiary legislation or regulation is related.
 
-To choose a primary work, click Choose primary work and search for the Act in terms of which these regulations have been promulgated.
+To choose a primary work, click **Choose primary work** and search for the Act in terms of which these regulations have been promulgated.
 
 {% hint style="warning" %}
 Do not use Primary work to link an amending Act to the Act which it amends. Instead, use the amending Act to create a new point in time for the amended Act. 
@@ -94,4 +94,38 @@ Do not use volume number, part number, or supplement number for the publication 
 {% endhint %}
 
 ### Attaching a publication document
+
+Having a record of the work as it was originally published by the relevant authority enables end users to verify any content published using the platform.
+
+Once the publication date, name and number have been filled in, an option to 'Attach document' will appear in places where we already have a collection of  gazettes and the relevant gazette was found in that collection. You can Ctrl/Cmd+click the link ending in `.pdf` to open it in a new tab and verify that this is the right gazette before attaching it.
+
+![](https://lh3.googleusercontent.com/Wnj7c9vk9--1KPxSLIMKOVrl-KcbRE2S95j9FZ4yAgbY1zrkVZhJ3CQNbIVAhrPR-CH2NC8vUqlEIeczmS_2a8Vl7vNyP4qr8j-LU_tzEuYzN0rZzKfztNcjcYN0Y9JGjuxkHOtf)
+
+If the option does not appear, double-check the details you have entered. If you're certain of them and have a copy of the original work to hand, upload it using the `Browse...` or similar option.
+
+## Edit the Commencement and Assent details
+
+Enter the **commencement** and **assent dates**.
+
+If the work has a commencing work, click **Choose commencing work** and search for it. 
+
+![](https://lh6.googleusercontent.com/EdLRHuNsjfFSZYw1xTDQk-tzUqrl9eHr_9Y27dmCplvLjhdFikm-kHVngBK6dnO4-hbOQ6Ekw6fm5lx40kNikzMh5c3WZf6K3iCKVBfzzd8OD1E49A9-XII4epj1Zq4_JlZtE7Yi)
+
+{% hint style="info" %}
+The commencing work must be created separately on the platform.
+{% endhint %}
+
+{% page-ref page="../terminology-guide.md" %}
+
+## Provide Repeal details
+
+If the work has been repealed, click **Choose repealing work** and search for the repealing work.
+
+The date will auto-fill as the date of commencement of the repealing work. Double-check that this is the right date before saving.
+
+![](https://lh3.googleusercontent.com/HH2iF_TP7wFyTOL8bUhqAGHLE0U5Baqif0pkjtUy2dr1Pl2KJPjvv6jc4gu2sZzcynysMhdzNZccenz0X-dP-zO8sK2eI9CqSAVlAYcz9zcsc7ECgwq61_QtAi109uCAnz6AwH92)
+
+{% hint style="info" %}
+The repealing work must be created separately on the platform.
+{% endhint %}
 

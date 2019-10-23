@@ -18,5 +18,5 @@ This guide explains how to use the Laws.Africa platform to manage, markup and co
 
 ### Country Style Guides
 
-{% page-ref page="country-style-guides/nigeria.md" %}
+{% page-ref page="country-style-guides/nigeria/" %}
 

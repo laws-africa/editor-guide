@@ -17,11 +17,9 @@ Indented lists are useful for simple numbered lists.
 3. At the start of a line, use Shift+TAB to un-indent the line.
 4. Highlight multiple lines and use TAB or Shift+TAB to adjust the indent for a block of lines.
 
-## Tips
-
 * Laws.Africa will try to indent numbered lists for you, if they aren't indented already.
 * Laws.Africa only automatically indents list items that use brackets, such as `(a)` or `(ii)`.
-* You must manually indent numbered lists that don't use brackets, such as `2.1` or `3.1.a`.
+* You must manually indent numbered lists that don't use brackets, such as `2.1` or `3.1.a`,  as well as subparagraphs in Schedule paragraphs that have no headings.
 
 ## Exercise
 
@@ -47,4 +45,14 @@ Indented lists are useful for simple numbered lists.
 6. Use Shift+TAB to un-indent all the lines all the way to the left margin.
 7. Click **Update**.
 8. Laws.Africa indents the list automatically, because it was completely unindented.
+
+## Common pitfalls
+
+Text should not 'break' a list:
+
+![&apos;Provided that &#x2026;&apos; breaks the \(a\), \(b\), \(c\) list here and implies that subsection \(6\) is now wrapping up.](https://lh3.googleusercontent.com/1gM4-pB0MOHJcm8D4OtlOHClTL072ejYdTXj3qIT3jw415-ORffZSMSgrCT7lPY7v0DRYqEd4QRpVKsD8sFQEOYDo7i-urgKQyae8_21hyzqkiu9T-6WfuOn46p5Y8UjT4WWU03A)
+
+Text should never come back out closer to the margin than the text that introduced it:
+
+![&apos;shall be paid &#x2026;&apos; should line up with &apos;No amount &#x2026;&apos; above.](https://lh5.googleusercontent.com/EmQtuqlMnWdcA9a_4T0XweRG2prrV-VwgEWZQXAsiG2iO40lZp9LwftO5zcK3RpvzSshVTBtK0rjx0ZHDabUGzwnKCLCfIETH0hzSibHGj9U1bWvxzZaGQ80-2mTjBrHdOaHvWIo)
 
