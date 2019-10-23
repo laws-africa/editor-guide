@@ -8,11 +8,19 @@ A schedule has a heading, such as 'First Schedule' or sometimes just 'Schedule'.
 
 1. Introduce the Schedule with `SCHEDULE -`.
 2. Put the schedule heading after the dash, such as `Schedule`, `Schedule 2`, `Third Schedule`.
-3. If the schedule has a subheading, put it on the very next line.
+3. If there is a section \(or similar\) reference, put it on the same line as the heading in an editorial remark.
+4. If the schedule has a subheading, put it on the very next line.
 
 {% hint style="warning" %}
 Do not use `CROSSHEADING` for the Schedule heading or subheading.
 {% endhint %}
+
+### Example
+
+```text
+SCHEDULE - First Schedule [[Section 2(1)]]
+Laws to be repealed
+```
 
 ## Numbered paragraphs in schedules
 
@@ -69,6 +77,8 @@ Content of the article...
 ```text
 Schedule 1: Amendment of laws
 
+(Section 43(3))
+
 1. Heading heading
 
 1.1 Content content content.
@@ -104,11 +114,13 @@ Schedule 3
 
 Some other heading
 
-Article 1. The important thing
+Article 1
+A heading
 
 Content content content.
 
-Article 2. Another heading
+Article 2
+Another heading
 
 Content content content.
 
@@ -116,9 +128,11 @@ Content content content.
 ```
 
 * [ ] Click Update.
-* [ ] Quick edit Schedule 1:  Fix the heading and subheading.
+* [ ] Quick edit Schedule 1:  Fix the heading and subheading;  Put the section reference in the right place.
 * [ ] Quick edit Schedule 2:  Use `PARA`s;  Update, and fix `PARA` 3 by indenting the subparagraphs.
-* [ ] Quick edit Schedule 3:  Fix the subheading.
+* [ ] Quick edit Schedule 3:  Fix the subheading;  Put the Article headings in the right place.
 
+Once you're done, your Schedules should look like this:
 
+![](../.gitbook/assets/image.png)
 
