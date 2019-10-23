@@ -2,7 +2,7 @@
 description: A guide to the terms used on the platform.
 ---
 
-# Terminology Guide
+# Terminology guide
 
 ![The terminology of Laws.Africa.](.gitbook/assets/laws.africa-terminology.png)
 

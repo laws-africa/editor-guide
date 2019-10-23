@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Terminology Guide](terminology-guide.md)
+* [Terminology guide](terminology-guide.md)
 
 ## Managing Works
 
