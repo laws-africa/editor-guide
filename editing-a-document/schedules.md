@@ -11,12 +11,12 @@ A schedule has a heading, such as 'First Schedule' or sometimes just 'Schedule'.
 3. If the schedule has a subheading, put it on the very next line.
 
 {% hint style="warning" %}
-Do not use `CROSSHEADING` for the Schedule heading.
+Do not use `CROSSHEADING` for the Schedule heading or subheading.
 {% endhint %}
 
 ## Numbered paragraphs in schedules
 
-If the Schedule has numbered sections or numbered paragraphs with heading, mark them up in the same way you would for numbered sections:
+If the Schedule has numbered sections or numbered paragraphs with headings, mark them up in the same way you would for numbered sections:
 
 ```text
 2. Heading of the paragraph
@@ -87,7 +87,6 @@ Content content content.
 
 Schedule 2
 The Agreement
-(Section 12)
 
 1. The Agreement is important.
 
@@ -117,9 +116,9 @@ Content content content.
 ```
 
 * [ ] Click Update.
-* [ ] Quick edit Schedule 1:  Fix the title and the heading.
-* [ ] Quick edit Schedule 2:  Use `CROSSHEADING` for the section reference; Use `PARA`s;  Update, and fix `PARA` 3 by indenting the subparagraphs.
-* [ ] Quick edit Schedule 3:  Fix the heading.
+* [ ] Quick edit Schedule 1:  Fix the heading and subheading.
+* [ ] Quick edit Schedule 2:  Use `PARA`s;  Update, and fix `PARA` 3 by indenting the subparagraphs.
+* [ ] Quick edit Schedule 3:  Fix the subheading.
 
 
 
