@@ -27,6 +27,8 @@ When you review someone else's work, your goals are to:
 * Make new tasks to record other changes that still need to be done, such as linking amendments or a commencing work.
 * If a document is almost ready to be published and there are only a few small changes, you can make the changes yourself and leave a comment on the task to let the first editor know what change you made, so that they know for next time.
 
+{% page-ref page="reviewer-checklist.md" %}
+
 ## Exercise
 
 * [ ] Copy and paste the text below into the editor \(make sure your document is blank\).
