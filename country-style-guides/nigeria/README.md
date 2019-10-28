@@ -69,7 +69,7 @@ Use Schedule Headings where possible, rather than Crossheadings.
 ![](../../.gitbook/assets/schedule-headings.png)
 
 ```text
-SCHEDULE - Second Schedule (Section 7.)
+SCHEDULE - Second Schedule [Section 7.]
 Assets to be transferred to the Corporation
 
 PARA 1. The interests of the State in fixed and movable property ...
