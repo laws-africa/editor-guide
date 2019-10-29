@@ -18,7 +18,7 @@ Do not use `CROSSHEADING` for the Schedule heading or subheading.
 ### Example
 
 ```text
-SCHEDULE - First Schedule [[Section 2(1)]]
+SCHEDULE - First Schedule [Section 2(1)]
 Laws to be repealed
 ```
 
