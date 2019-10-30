@@ -10,21 +10,32 @@ description: Style guide for importing and marking up legislation for Nigeria.
 
 {% hint style="danger" %}
 Do not remove remarks that indicate amendments, such as `[1992 No. 59]`.
-
-Do use \[\[double squares\]\] – `[[1992 No. 59]]`\(the text will go green to show that it's an editorial remark\).
 {% endhint %}
 
 ![](../../.gitbook/assets/remark-act.png)
+
+{% hint style="info" %}
+Do use double squares around editorial remarks in Edit mode: `[[1992 No. 59.]]`  
+This will show up as italics, single square brackets in View mode: _\[1992 No. 59.\]_
+{% endhint %}
 
 Remove remarks that reference Caps and Schedules.
 
 ![](../../.gitbook/assets/remarks-cap.png)
 
-### Empty Subsidiary Legislation
+### Subsidiary legislation
 
-Remove the headings for empty subsidiary legislations, including the primary Act's title, if it's included.
+Remove any subsidiary legislation after the Act, including if it says 'No subsidiary legislation'. Delete the name of the Act as well. 
 
 ![](../../.gitbook/assets/subleg.png)
+
+
+
+![](../../.gitbook/assets/image%20%283%29.png)
+
+{% hint style="info" %}
+The document should end with the last Schedule to the main Act, or with the last section of the main Act if it has no Schedules.
+{% endhint %}
 
 ## Use Sections in Schedules
 
