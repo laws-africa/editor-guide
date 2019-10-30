@@ -29,3 +29,15 @@ A **Point in Time** is all the Expressions of a Work on a particular date. There
 **Commencement**: The date on which a work comes into force. If nothing is specified, it is often the publication date; to double-check, read the Interpretation Act of the country in which you’re working.   
 Amendments to Principal Works come into force on the Commencement date of the Amending Work.
 
+### Abbreviations
+
+| Abbreviation | Meaning |
+| :--- | :--- |
+| GenN | General Notice |
+| GG | Government Gazette |
+| GN | Government Notice |
+| LN | Legal Notice |
+| PG | Provincial Gazette |
+| PN | Provincial Notice |
+| SI | Statutory Instrument |
+
