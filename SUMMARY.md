@@ -14,6 +14,7 @@
 * [Schedules](editing-a-document/schedules.md)
 * [Multiple commencement dates](editing-a-document/multiple-commencement-dates.md)
 * [Special Keywords](editing-a-document/keywords.md)
+* [Special characters](editing-a-document/special-characters.md)
 
 ## Reviewing a document
 
