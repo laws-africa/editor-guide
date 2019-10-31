@@ -6,23 +6,24 @@ A schedule has a heading, such as 'First Schedule' or sometimes just 'Schedule'.
 
 ## How to structure a Schedule
 
-1. Introduce the Schedule with `SCHEDULE -`.
-2. Put the schedule heading after the dash, such as `Schedule`, `Schedule 2`, `Third Schedule`.
-3. If there is a section \(or similar\) reference, put it on the same line as the heading in an editorial remark.
-4. If the schedule has a subheading, put it on the very next line.
-
-{% hint style="warning" %}
-Do not use `CROSSHEADING` for the Schedule heading or subheading.
-{% endhint %}
+1. Introduce the Schedule with `SCHEDULE`.
+2. Put the schedule heading on the next line using the `HEADING` keyword.
+3. If there is a section \(or similar\) reference, include it in the heading as an editorial remark.
+4. If the schedule has a subheading, put it after the heading line, using the `SUBHEADING` keyword.
 
 ### Example
 
 ```text
-SCHEDULE - First Schedule [Section 2(1)]
-Laws to be repealed
+SCHEDULE
+HEADING First Schedule [[Section 2(1)]]
+SUBHEADING Laws to be repealed
 ```
 
 ## Numbered paragraphs in schedules
+
+{% hint style="warning" %}
+Do not use `CROSSHEADING` for the Schedule heading or subheading.
+{% endhint %}
 
 If the Schedule has numbered sections or numbered paragraphs with headings, mark them up in the same way you would for numbered sections:
 
