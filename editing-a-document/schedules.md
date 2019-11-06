@@ -15,7 +15,7 @@ A schedule has a heading, such as 'First Schedule' or sometimes just 'Schedule'.
 
 ```text
 SCHEDULE
-HEADING First Schedule [[Section 2(1)]]
+HEADING First Schedule [Section 2(1)]
 SUBHEADING Laws to be repealed
 ```
 
@@ -129,11 +129,13 @@ Content content content.
 ```
 
 * [ ] Click Update.
-* [ ] Quick edit Schedule 1:  Fix the heading and subheading;  Put the section reference in the right place.
+* [ ] Quick edit Schedule 1:  Fix the heading and subheading;  Put the section reference in the right place and change the brackets.
 * [ ] Quick edit Schedule 2:  Use `PARA`s;  Update, and fix `PARA` 3 by indenting the subparagraphs.
 * [ ] Quick edit Schedule 3:  Fix the subheading;  Put the Article headings in the right place.
 
 Once you're done, your Schedules should look like this:
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%283%29.png)
+
+
 

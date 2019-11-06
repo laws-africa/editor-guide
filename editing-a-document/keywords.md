@@ -1,4 +1,4 @@
-# Special Keywords
+# Special keywords
 
 <table>
   <thead>
@@ -51,14 +51,15 @@
       <td style="text-align:left">Use short dash, don&apos;t use all caps.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>Schedule - First Schedule</code> 
-        <br /><code>Schedule heading</code>
+      <td style="text-align:left">
+        <p><code>SCHEDULE</code>
+        </p>
+        <p><code>HEADING First Schedule</code> 
+          <br /><code>SUBHEADING Laws repealed</code>
+        </p>
       </td>
       <td style="text-align:left">Start of a new Schedule.</td>
-      <td style="text-align:left">
-        <p>Use short dash, don&apos;t use all caps.</p>
-        <p>No blank line above Schedule heading.</p>
-      </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><code>Article 1 - Heading</code>

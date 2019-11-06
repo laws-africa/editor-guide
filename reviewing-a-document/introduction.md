@@ -40,7 +40,7 @@ An Act to establish the Nigerian Customs Service Board and for matters connected
 
 **Preamble**
 
-Text text text, enacted as follows:―
+WHEREAS text text text, be it enacted as follows:―
 
 BODY
 

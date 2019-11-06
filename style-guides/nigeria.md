@@ -12,7 +12,7 @@ description: Style guide for importing and marking up legislation for Nigeria.
 Do not remove remarks that indicate amendments, such as `[1992 No. 59]`.
 {% endhint %}
 
-![](../../.gitbook/assets/remark-act.png)
+![](../.gitbook/assets/remark-act.png)
 
 {% hint style="info" %}
 Do use double squares around editorial remarks in Edit mode: `[[1992 No. 59.]]`  
@@ -21,17 +21,17 @@ This will show up as italics, single square brackets in View mode: _\[1992 No. 5
 
 Remove remarks that reference Caps and Schedules.
 
-![](../../.gitbook/assets/remarks-cap.png)
+![](../.gitbook/assets/remarks-cap.png)
 
 ### Subsidiary legislation
 
 Remove any subsidiary legislation after the Act, including if it says 'No subsidiary legislation'. Delete the name of the Act as well. 
 
-![](../../.gitbook/assets/subleg.png)
+![](../.gitbook/assets/subleg.png)
 
 
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 {% hint style="info" %}
 The document should end with the last Schedule to the main Act, or with the last section of the main Act if it has no Schedules.
@@ -45,7 +45,7 @@ Prefer to use Sections in Schedules rather than Crossheadings.
 If a title appears to belong to only one numbered Section, mark it as a Section, not as a Crossheading.
 {% endhint %}
 
-![](../../.gitbook/assets/schedule-section-titles.png)
+![](../.gitbook/assets/schedule-section-titles.png)
 
 Markup these sections like this:
 
@@ -71,28 +71,7 @@ Add a `CROSSHEADING` where the source documents use _italics_ for crossheadings 
 DO NOT italicise the Crossheading using `//`as the platform will do it for you.
 {% endhint %}
 
-![](../../.gitbook/assets/crossheading.png)
+![](../.gitbook/assets/crossheading.png)
 
-## Schedule Titles and Headings
 
-Use Schedule Headings where possible, rather than Crossheadings.  
-
-![](../../.gitbook/assets/schedule-headings.png)
-
-```text
-SCHEDULE - Second Schedule [Section 7.]
-Assets to be transferred to the Corporation
-
-PARA 1. The interests of the State in fixed and movable property ...
-
-PARA 2. The interests of the State in any land or timber ...
-```
-
-{% hint style="info" %}
-The Schedule heading comes on the next line immediately after the keyword `SCHEDULE`.
-{% endhint %}
-
-{% hint style="info" %}
-Use Sentence case for the Schedule title, and put any reference to the referring section in brackets.
-{% endhint %}
 

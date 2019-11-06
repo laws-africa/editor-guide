@@ -13,7 +13,7 @@
 * Never run it as a last step.
 * 'Quick edit' sections that need words re-capitalised by clicking the pencil next to the heading.
 
-![&apos;Quick edit&apos; individual sections by clicking the pencil next to the heading.](../../.gitbook/assets/quick-edit.png)
+![&apos;Quick edit&apos; individual sections by clicking the pencil next to the heading.](../.gitbook/assets/quick-edit.png)
 
 {% hint style="info" %}
 In the example above, 'inspector-general of police' should match the casing in subsection \(1\).
