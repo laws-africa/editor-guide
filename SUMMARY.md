@@ -6,6 +6,7 @@
 ## Managing Works
 
 * [Creating and editing works](managing-works/creating-and-editing-works.md)
+* [Amending works](managing-works/amending-works.md)
 
 ## Editing a Document
 

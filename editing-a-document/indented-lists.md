@@ -12,7 +12,7 @@ Indented lists are useful for simple numbered lists.
 
 ## How to indent lists
 
-1. Enter Edit mode
+1. Enter Edit mode.
 2. At the start of a line, use TAB \(or 4 spaces\) to indent the line.
 3. At the start of a line, use Shift+TAB to un-indent the line.
 4. Highlight multiple lines and use TAB or Shift+TAB to adjust the indent for a block of lines.

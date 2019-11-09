@@ -75,7 +75,7 @@ Do not use Primary work to link an amending Act to the Act which it amends. Inst
 
 Marking a work as a stub indicates that we will not capture the content of the work, we will only capture the work metadata.
 
-Check the stub checkbox if this is work only amends, commences or repeals another work, and has no substantive provisions of its own.
+Check the **Stub** checkbox if this is work only amends, commences or repeals another work, and has no substantive provisions of its own.
 
 ## Edit the Publication details
 
