@@ -22,7 +22,8 @@
       <td style="text-align:left">Usually follows &apos;Act&apos; and starts with &apos;To &#x2026;&apos;,
         followed directly by a space and the text of the long title on the same
         line.</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Falls under <code>PREFACE</code>, not <code>BODY</code>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>PREAMBLE</code>
