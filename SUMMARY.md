@@ -16,6 +16,7 @@
 * [Multiple commencement dates](editing-a-document/multiple-commencement-dates.md)
 * [Special keywords](editing-a-document/keywords.md)
 * [Special characters](editing-a-document/special-characters.md)
+* [Search and rescue](editing-a-document/search-and-rescue.md)
 
 ## Reviewing a document
 
