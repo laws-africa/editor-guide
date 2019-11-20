@@ -19,11 +19,11 @@ HEADING First Schedule [Section 2(1)]
 SUBHEADING Laws to be repealed
 ```
 
-## Numbered paragraphs in schedules
-
 {% hint style="warning" %}
 Do not use `CROSSHEADING` for the Schedule heading or subheading.
 {% endhint %}
+
+## Numbered paragraphs in schedules
 
 If the Schedule has numbered sections or numbered paragraphs with headings, mark them up in the same way you would for numbered sections:
 
