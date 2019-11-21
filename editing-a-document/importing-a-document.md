@@ -12,11 +12,11 @@
 8. To determine what the section titles look like, scroll sideways until you find a section heading, and choose from the options given at the bottom.
 9. Go for it!
 
-![The gazetted publication document](../.gitbook/assets/image%20%283%29.png)
+![The gazetted publication document](../.gitbook/assets/image%20%285%29.png)
 
 ![The initial publication date](../.gitbook/assets/image.png)
 
-![Excluding running heads, choosing the correct section heading style](../.gitbook/assets/image%20%2811%29.png)
+![Excluding running heads, choosing the correct section heading style](../.gitbook/assets/image%20%2814%29.png)
 
 Once imported, the document will open and will be ready for clean-up. Compare it to the original and manually correct any OCR or other errors that may have crept in during import.
 

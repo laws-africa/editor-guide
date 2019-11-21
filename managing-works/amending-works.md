@@ -25,13 +25,13 @@ If the amending work already exists on the platform, it doesn't need to be creat
 4. Search for the title, year or number of the amending work.
 5. Select the amending work and click **OK**.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ## Creating a new document
 
 At the new point in time, click **Create amended version** and select the language.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ## Applying the amendment
 
@@ -40,7 +40,35 @@ For each amendment given in the amending work:
 * Make the change indicated
 * Annotate the change.
 
-### How to construct an annotation
+### Annotate, you say
+
+Annotations are how we track the changes made to a work; they're like historical signposts.
+
+We make one under each change that was made so that future researchers \(include our future selves\) can validate that amendments were applied correctly and piece together the history of a given piece of legislation.
+
+### Example of an amendment and annotation
+
+The Constitution \(Third Alteration\) Act, 2010 of Nigeria \([https://edit.laws.africa/works/ng/act/2011/3/](https://edit.laws.africa/works/ng/act/2011/3/)\) says in section 2:
+
+> Section 6 of the Principal Act is altered in subsection \(5\) by inserting immediately after the existing paragraph \(_c_\) a new paragraph "\(_cc_\)"―
+>
+> > "\(_cc_\) the National Industrial Court"
+
+![](../.gitbook/assets/image%20%2811%29.png)
+
+The amendment is simple enough: go to section 6 of the Act being amended \(in this case the Constitution\), and in subsection \(5\), after paragraph \(c\), insert the new paragraph \(cc\) that was given in the text of the amending Act.
+
+The annotation should tell us where we can find the amendment: in this case, section 2 of Act 3 of 2011. 
+
+It should also tell us what the change was: in this case, it was the insertion of a new paragraph. 
+
+So under the newly inserted paragraph \(cc\), we'll give the following annotation \(see below for instructions on how to write an annotation\):
+
+> _\[paragraph \(cc\) inserted by section 2 of Act 3 of 2011\]_
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+### How to write an annotation
 
 Amendments have four elements:
 
@@ -52,7 +80,7 @@ Amendments have four elements:
 Annotations reflect the first three elements in the following way:
 
 ```text
-{provision of amended work} {verb}ed by {provision of amending work}
+{provision of amended work} {verb}ed by {provision} of {amending work}
 ```
 
 For example:
@@ -61,13 +89,21 @@ For example:
 [[subsection (1) substituted by section 12 of Act 3 of 2019]]
 ```
 
+or:
+
+```text
+[[definition of "consumer" substituted by section 1(a) of the Electricity Supply Amendment By-law, 2017]]
+```
+
 ### Tips
 
 * Wrap annotations in \[\[double square brackets\]\], because they are editorial remarks.
 * To determine the verb, follow what is given in the amending work.
+* In Nigeria, 'altered' seems to be preferred over 'amended'.
 * When annotating a piece of text that is already indented \(like a paragraph\),  use an extra tab for the annotation.
 * Use `...` where text has been deleted / repealed / removed somehow.
 * Don't remove numbering when text has been removed.
+* When an amending work doesn't have an Act number, use the short title.
 
 ### Exercise
 
@@ -115,7 +151,7 @@ Introductory text:
 
 When you're done, it should look like this in View mode:
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 and like this in Edit mode:
 
