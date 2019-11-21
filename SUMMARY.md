@@ -10,6 +10,7 @@
 
 ## Editing a Document
 
+* [Importing a document](editing-a-document/importing-a-document.md)
 * [Indented lists](editing-a-document/indented-lists.md)
 * [Tables](editing-a-document/tables.md)
 * [Schedules](editing-a-document/schedules.md)
