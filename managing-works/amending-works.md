@@ -5,17 +5,17 @@ There are four parts to applying an amendment:
 1. Creating the amending work
 2. Linking the amendment
 3. Creating a new document at the new point in time
-4. Applying and annotating the amendments to the content.
+4. Applying and annotating the amendments.
 
 ## Creating the amending work
 
-Amending works are created using the same process as for all other works:
-
-{% page-ref page="creating-and-editing-works.md" %}
+Amending works are created using the same process as for all other works.
 
 {% hint style="info" %}
 If the amending work already exists on the platform, it doesn't need to be created again.
 {% endhint %}
+
+{% page-ref page="creating-and-editing-works.md" %}
 
 ## Linking the amendment
 
@@ -33,48 +33,59 @@ At the new point in time, click **Create amended version** and select the langua
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
-## Applying the amendment
+## Applying and annotating the amendments
 
 For each amendment given in the amending work:
 
 * Make the change indicated
 * Annotate the change.
 
-### Annotate, you say
+Annotations are how we indicate changes to a piece of legislation to readers. We make an annotation under each change \(as close to the change as possible\), specifying what the change is and how it came about.
 
-Annotations are how we track the changes made to a work; they're like historical signposts.
+### Example
 
-We make one under each change that was made so that future researchers \(include our future selves\) can validate that amendments were applied correctly and piece together the history of a given piece of legislation.
+In Nigeria, section 2 of Act 3 of 2011 \([https://edit.laws.africa/works/ng/act/2011/3/](https://edit.laws.africa/works/ng/act/2011/3/)\) reads as follows \(I've paraphrased slightly\):
 
-### Example of an amendment and annotation
-
-The Constitution \(Third Alteration\) Act, 2010 of Nigeria \([https://edit.laws.africa/works/ng/act/2011/3/](https://edit.laws.africa/works/ng/act/2011/3/)\) says in section 2:
-
-> Section 6 of the Principal Act is altered in subsection \(5\) by inserting immediately after the existing paragraph \(_c_\) a new paragraph "\(_cc_\)"―
+> Section 6 of the Constitution is altered in subsection \(5\) by inserting immediately after the existing paragraph \(c\) a new paragraph "\(cc\)"―
 >
-> > "\(_cc_\) the National Industrial Court"
+> > "\(cc\) the National Industrial Court;".
 
-![](../.gitbook/assets/image%20%2811%29.png)
+To make the **amendment**: insert the new paragraph \(cc\) in section 6\(5\) of the Constitution, after the existing paragraph \(c\).
 
-The amendment is simple enough: go to section 6 of the Act being amended \(in this case the Constitution\), and in subsection \(5\), after paragraph \(c\), insert the new paragraph \(cc\) that was given in the text of the amending Act.
+The **annotation** should tell us _what_ the change was and _how_ it came about:   
+the insertion of a new paragraph \(cc\) by section 2 of Act 3 of 2011.
 
-The annotation should tell us where we can find the amendment: in this case, section 2 of Act 3 of 2011. 
+Section 6 of the Constitution as amended would then look something like this:
 
-It should also tell us what the change was: in this case, it was the insertion of a new paragraph. 
+> **6. Judicial powers**
+>
+> …
+>
+> \(5\) This section relates to—
+>
+> …
+>
+>         \(c\)    existing paragraph c;
+>
+>         \(cc\)  the National Industrial Court;
+>
+>                    _\[paragraph \(cc\) inserted by section 2 of Act 3 of 2011\]_
+>
+>         \(d\)    existing paragraph d;
+>
+> …
 
-So under the newly inserted paragraph \(cc\), we'll give the following annotation \(see below for instructions on how to write an annotation\):
-
-> _\[paragraph \(cc\) inserted by section 2 of Act 3 of 2011\]_
-
-![](../.gitbook/assets/image%20%281%29.png)
+{% hint style="warning" %}
+Don't include the quotes or punctuation outside the quotes from the amending work.
+{% endhint %}
 
 ### How to write an annotation
 
 Amendments have four elements:
 
-1. The provision of the amending work
-2. The provision of the amended work
-3. The verb associated with the amendment
+1. The provision of the amended work
+2. The verb associated with the amendment
+3. The provision of the amending work
 4. The actual change.
 
 Annotations reflect the first three elements in the following way:
@@ -86,7 +97,7 @@ Annotations reflect the first three elements in the following way:
 For example:
 
 ```text
-[[subsection (1) substituted by section 12 of Act 3 of 2019]]
+[[subsection (1) deleted by section 12 of Act 3 of 2019]]
 ```
 
 or:
@@ -98,12 +109,13 @@ or:
 ### Tips
 
 * Wrap annotations in \[\[double square brackets\]\], because they are editorial remarks.
-* To determine the verb, follow what is given in the amending work.
-* In Nigeria, 'altered' seems to be preferred over 'amended'.
+* To determine the verb, follow what is given in the amending work.  \(In Nigeria, 'altered' seems to be preferred over 'amended'.\)
+* When the amending work doesn't have an Act number, use its short title.
 * When annotating a piece of text that is already indented \(like a paragraph\),  use an extra tab for the annotation.
 * Use `...` where text has been deleted / repealed / removed somehow.
 * Don't remove numbering when text has been removed.
-* When an amending work doesn't have an Act number, use the short title.
+* Don't renumber existing provisions unless explicitly instructed to do so by the amending work.
+* If explicitly instructed to renumber provisions, make sure to annotate the change.
 
 ### Exercise
 
