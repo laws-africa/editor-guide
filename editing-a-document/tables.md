@@ -34,12 +34,16 @@ You can copy and paste a table from a webpage or from a Word document.
 
 ## How to edit a table
 
+![](../.gitbook/assets/table-editor-buttons.png)
+
 1. Click **Edit table** to enter edit mode.
 2. Make your changes to the table.
 3. Insert and delete columns and rows by clicking **Insert** and **Delete**.
 4. Merge cells by highlighting them and clicking **Merge cells**.
 5. Make heading cells bold by highlighting them and clicking **Heading**.
-6. Click **Update** to save your changes, or click the X ****to discard them**.**
+6. Resize columns by clicking and dragging on the border between them.
+7. Left align, center and right-align text by clicking the editor alignment buttons.
+8. Click **Update** to save your changes, or click **Cancel** to discard them**.**
 
 ## **Exercise**
 
