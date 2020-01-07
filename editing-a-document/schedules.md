@@ -8,7 +8,7 @@ A schedule has a heading, such as 'First Schedule' or sometimes just 'Schedule'.
 
 1. Introduce the Schedule with `SCHEDULE`.
 2. Put the schedule heading on the next line using the `HEADING` keyword.
-3. If there is a section \(or similar\) reference, include it in the heading as an editorial remark.
+3. If there is a section \(or similar\) reference, include it in the heading.
 4. If the schedule has a subheading, put it after the heading line, using the `SUBHEADING` keyword.
 
 ### Example
