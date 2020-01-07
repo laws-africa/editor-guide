@@ -16,7 +16,7 @@ A **Commencing Work** is normally a notice, but can also be another Act, that pr
 
 **Amendments** are the changes that are applied to a Work by an **Amending Work**. They are instructions of insertions and deletions that must be made to the text of the Work being amended.
 
-A **Point in Time** is all the Expressions of a Work on a particular date. There is usually only one Expression at a particular date, unless the Work is available in multiple languages. Often, a Point in Time is synonymous with an Expression.
+A **Point in Time** is all the Expressions of a Work on a particular date. There is usually only one Expression at a particular date, unless the Work is available in multiple languages. Often, a Point in Time is synonymous with an Expression. Each point in time will have all the previous amendments applied to it, and the oldest point in time will be the work as originally published.
 
 **Subsidiary legislation** are regulations, statutory instruments and orders which are related to a primary Act.
 
