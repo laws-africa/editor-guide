@@ -12,7 +12,7 @@ When cleaning up an import, depending on the quality of the scan / consolidation
 6. Hit Enter in the Search bar again to go to the next instance.
 7. Repeat Steps 5 and 6 until all instances have been fixed.
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 {% hint style="warning" %}
 Don't use 'Edit \| Find next' – this will only find the next instance of `N1` in the example above, rather than using the regular expression `N ?\d`.
