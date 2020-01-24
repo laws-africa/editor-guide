@@ -22,7 +22,7 @@ Taken from [https://edit.laws.africa/documents/3132/](https://edit.laws.africa/d
 
 ![Commencement note at the top of the Act](../.gitbook/assets/nigerian-railway-corporation-act-coverpage.png)
 
-![Commencement note at section 15](../.gitbook/assets/image%20%2825%29.png)
+![Commencement note at section 15](../.gitbook/assets/image%20%2836%29.png)
 
 
 

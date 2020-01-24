@@ -16,7 +16,7 @@
 
 ![The initial publication date](../.gitbook/assets/image%20%281%29.png)
 
-![Excluding running heads, choosing the correct section heading style](../.gitbook/assets/image%20%2817%29.png)
+![Excluding running heads, choosing the correct section heading style](../.gitbook/assets/image%20%2822%29.png)
 
 Once imported, the document will open and will be ready for clean-up. Compare it to the original and manually correct any OCR or other errors that may have crept in during import.
 

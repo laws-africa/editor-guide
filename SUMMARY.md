@@ -3,6 +3,11 @@
 * [Welcome](README.md)
 * [Terminology guide](terminology-guide.md)
 
+## Doing tasks
+
+* [The 'Create' task](doing-tasks/the-create-work-task.md)
+* [The 'Apply amendment' task](doing-tasks/the-apply-amendment-task.md)
+
 ## Managing Works
 
 * [Creating and editing works](managing-works/creating-and-editing-works.md)

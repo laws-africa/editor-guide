@@ -1,22 +1,31 @@
----
-description: >-
-  How to create and edit works, and manage details such as publication and
-  repeal.
----
-
 # Creating and editing works
 
-## Creating a new work
+Whether it's a new Act, By-law, or set of Regulations, or a new Commencing, Amending, or Repealing work, if it doesn't yet exist on the system it will need to be created.
 
-To create a new work, open the works page for the appropriate country or locality, and then click **New work**.
+For this, you will usually need either:
+
+* a copy of the work as published in the Gazette \(or other official publication\); or
+* the metadata for that work as provided by a trusted source.
+
+You will use this to fill in as many details as are available in the New work form. The instructions below will assume that you are using a copy of the work as published in the Gazette \(or other official publication\).
+
+There is a section below for each field in the form.
+
+## How to create a new work
+
+To create any new work, regardless of its type or content, open the works page for the appropriate place and click **New work**:
 
 ![](../.gitbook/assets/new-work-button.png)
 
-Then fill in the details as described below.
+A form will open that looks like this:
 
-To edit an existing work, click **Edit work** on the work detail page.
+![](../.gitbook/assets/image%20%2837%29.png)
 
-## Edit the Work details
+To edit an existing work, click **Edit work** on the work detail page:
+
+![](../.gitbook/assets/image%20%2819%29.png)
+
+## Work details
 
 The work details are the core, basic details for a work. Items marked with a red asterisk are required and cannot be blank.
 
@@ -24,7 +33,11 @@ The work details are the core, basic details for a work. Items marked with a red
 
 ### Short title
 
-This is the short title of the work, such as "Accountants Act". The official short title of an Act is usually specified in a the Act's "Short title" section. If there isn't one, refer to the contents page of the original publication \(Gazette\). 
+This is the short title of the Work, such as "Accountants Act, 2012", or "Municipal Planning By-law, 2017", or "Nursing Regulations, 2009". The official short title of a Work is usually specified in its "Short title" section. If there isn't one, refer to the contents page of the Gazette. 
+
+![Short title section of an Act](../.gitbook/assets/image%20%2827%29.png)
+
+![Contents page of a Gazette](../.gitbook/assets/image%20%2825%29.png)
 
 {% hint style="info" %}
 Short titles normally use Title Case. Don’t use ALL CAPS.
@@ -55,73 +68,106 @@ For example: for the "Cape Town By-law relating to the consumption of Strawberri
 
 ### Work subtype
 
-Leave this blank for Acts. For other types of works, choose an option from the dropdown list. Options depend on the country. Examples include by-law, legal notice \(ln\) and statutory instrument \(si\).
+Leave this blank for Acts. For other types of works, choose an option from the dropdown list. Examples include by-law, legal notice \(ln\), and statutory instrument \(si\).
 
 ### Primary work
 
-Leave this blank for Acts.
+Leave this blank for everything other than Regulations \(subsidiary legislation\).
 
-For subsidiary legislation and regulations, this indicates the work to which the subsidiary legislation or regulation is related.
+When working with Regulations, the Primary work will be the Act in terms of which the Regulations are promulgated. For example, the Nursing Regulations will have the Nursing Act as the Primary work.
 
-To choose a primary work, click **Choose primary work** and search for the Act in terms of which these regulations have been promulgated.
+Click **Choose primary work** and search for the relevant Act.
 
 {% hint style="warning" %}
-Do not use Primary work to link an amending Act to the Act which it amends. Instead, use the amending Act to create a new point in time for the amended Act. 
+Do not use Primary work to link an Amending work to the Principal work.
 {% endhint %}
 
 {% page-ref page="../terminology-guide.md" %}
 
 ### Stub
 
-Marking a work as a stub indicates that we will not capture the content of the work, we will only capture the work metadata.
+For a Principal work – a new Act, a new By-law, or new Regulations – leave this box unchecked. 
 
-Check the **Stub** checkbox if this is work only amends, commences or repeals another work, and has no substantive provisions of its own.
+For everything else, e.g. a Commencing work or an Amending work, check this box.
 
-## Edit the Publication details
+## Publication
 
 The publication details refer to when and where the work was first published in an official government publication, such as the Government Gazette.
 
+![](../.gitbook/assets/image%20%2814%29.png)
+
 ### Publication date, name and number
 
-For the **publication date**, use the date of the original publication.
+For the **publication date**, use the date of publication of the Gazette.   
+In the example below, this is `2016-03-04`.
 
-For the **publication name**, use the name of the publication, such as Government Gazette. Choose an option from the dropdown list, if possible.
+For the **publication name**, use the name of the publication, such as Government Gazette. Choose an option from the dropdown list, if possible.   
+In the example below, this is `Eastern Cape Provincial Gazette`.
 
-The **publication number** is the number of the publication or gazette. Together with the publication date, this uniquely identifies the publication.
+The **publication number** is the number of the publication or gazette.   
+In the example below, this is `3614`.
 
 {% hint style="warning" %}
 Do not use volume number, part number, or supplement number for the publication number.
 {% endhint %}
 
+![](../.gitbook/assets/image%20%2839%29.png)
+
 ### Attaching a publication document
 
 Having a record of the work as it was originally published by the relevant authority enables end users to verify any content published using the platform.
 
-Once the publication date, name and number have been filled in, an option to 'Attach document' will appear in places where we already have a collection of  gazettes and the relevant gazette was found in that collection. You can Ctrl/Cmd+click the link ending in `.pdf` to open it in a new tab and verify that this is the right gazette before attaching it.
+Once the publication date, name and number have been filled in, an option to **Attach document** will appear in places where we already have a collection of  gazettes and the relevant gazette was found in that collection. You can Ctrl/Cmd+click the link ending in `.pdf` to open it in a new tab and verify that this is the right gazette before attaching it.
 
 ![](https://lh3.googleusercontent.com/Wnj7c9vk9--1KPxSLIMKOVrl-KcbRE2S95j9FZ4yAgbY1zrkVZhJ3CQNbIVAhrPR-CH2NC8vUqlEIeczmS_2a8Vl7vNyP4qr8j-LU_tzEuYzN0rZzKfztNcjcYN0Y9JGjuxkHOtf)
 
 If the option does not appear, double-check the details you have entered. If you're certain of them and have a copy of the original work to hand, upload it using the `Browse...` or similar option.
 
-## Edit the Commencement and Assent details
+## Commencement and Assent
 
-Enter the **commencement** and **assent dates**.
+The Commencement date is the date on which a Work starts having legal force; the Assent date is the date on which it was approved / signed by the relevant authority.
 
-If the work has a commencing work, click **Choose commencing work** and search for it. 
+![](../.gitbook/assets/image%20%2823%29.png)
 
-![](https://lh6.googleusercontent.com/EdLRHuNsjfFSZYw1xTDQk-tzUqrl9eHr_9Y27dmCplvLjhdFikm-kHVngBK6dnO4-hbOQ6Ekw6fm5lx40kNikzMh5c3WZf6K3iCKVBfzzd8OD1E49A9-XII4epj1Zq4_JlZtE7Yi)
+### Commencement
+
+Unless the work specifically states that it will only come into force by Notice or Proclamation, check the **Commenced** box. This will give you the option to enter the Commencement date.
+
+![](../.gitbook/assets/image%20%2818%29.png)
+
+The **Commencement date** will often be the same as the Publication date. Check the 'Short title' section of the work for exceptions.
+
+![](../.gitbook/assets/image%20%2810%29.png)
+
+If this is a Principal work with a Commencing work, click **Choose commencing work** and search for it.
 
 {% hint style="info" %}
 The commencing work must be created separately on the platform.
 {% endhint %}
 
+{% hint style="info" %}
+If this is a brand new Work that says it will commence by Notice / Proclamation, the Commencing work probably doesn't exist yet. In that case, leave the **Commenced** box unchecked for now.
+{% endhint %}
+
+In rare cases when working with older legislation, we may have strong reason to believe that a Work has been in force for some time, but we're still looking for the Commencing work to pin down the exact date on which it commenced. Only in those rare cases, check the **Commencement date is unknown** box.
+
+### Assent date
+
+Acts often explicitly give an Assent date in the Gazette:
+
+![](../.gitbook/assets/image%20%2840%29.png)
+
+By-laws often don't have an Assent date, but when they do it will be the date on which it was approved by Council:
+
+![](../.gitbook/assets/image%20%2828%29.png)
+
 {% page-ref page="../terminology-guide.md" %}
 
-## Provide Repeal details
+## Repeal
 
-If the work has been repealed, click **Choose repealing work** and search for the repealing work.
+If the work has been repealed, click **Choose repealing work** and search for the Repealing work.
 
-The date will auto-fill as the date of commencement of the repealing work. Double-check that this is the right date before saving.
+The date will auto-fill as the Commencement date of the Repealing work. If a different date for the Repeal was specified in the Repealing work, edit the date before saving.
 
 ![](https://lh3.googleusercontent.com/HH2iF_TP7wFyTOL8bUhqAGHLE0U5Baqif0pkjtUy2dr1Pl2KJPjvv6jc4gu2sZzcynysMhdzNZccenz0X-dP-zO8sK2eI9CqSAVlAYcz9zcsc7ECgwq61_QtAi109uCAnz6AwH92)
 
