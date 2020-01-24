@@ -6,7 +6,9 @@ description: A guide to the terms used on the platform.
 
 ![The terminology of Laws.Africa.](.gitbook/assets/laws.africa-terminology.png)
 
-### Terms
+## Terms
+
+### Work, Expression, Point in Time
 
 A **Work** is the logical concept of an Act, By-law, Regulations, Notice, or other piece of legislation. A Work may change over time through amendments and may be issued in multiple languages. A Work may ultimately be repealed.
 
@@ -14,9 +16,17 @@ An **Expression** is a particular version of a Work, in a specific language and 
 
 A **Point in Time** is all the Expressions of a Work on a particular date. There is usually only one Expression at a particular date, unless the Work is available in multiple languages. Often, a Point in Time is synonymous with an Expression. Each Point in Time will have all the previous amendments applied to it, and the oldest \(or first\) point in time will be the work as originally published.
 
-A **Principal work** can be a new Act, a new By-law, or a new set of Regulations.
+### Primary vs Subsidiary legislation
 
-**Subsidiary legislation** includes Regulations, Statutory Instruments and Orders in terms of a **Primary work** \(an Act or By-law\).
+**Primary legislation** includes Acts and By-laws. They lay down the rights and obligations of government and citizens and usually focus on a certain subject area.   
+Example: the Nursing Act.
+
+**Subsidiary legislation** includes Regulations, Statutory Instruments and Orders and are made in terms of a Primary work. They often deal with the practical application of the rights and obligations laid down in a Primary work.   
+Example: the Nursing Regulations \(in terms of the Nursing Act\).
+
+### Principal, Commencing, Amending, and Repealing works
+
+A **Principal work** can be a new Act, a new By-law, or a new set of Regulations.
 
 A **Commencing work** is normally a Notice that provides the Commencement date for a Principal work. \(Many Principal works commence on publication or specify their own Commencement date.\)
 
@@ -26,7 +36,7 @@ An **Amending work** is a Work that makes changes to a Principal work. Amending 
 
 When a Work is **Repealed**, it is no longer in force. This is done by a **Repealing work**, and the Repeal date of the Principal work is the same as the Commencement date of the Repealing work. Repealing works are published when government needs to remove or replace an existing piece of legislation.
 
-### Dates
+### Assent, Publication, Commencement and Repeal dates
 
 **Assent**: The date on which the Work is approved or signed by the relevant authority.
 
@@ -36,7 +46,7 @@ When a Work is **Repealed**, it is no longer in force. This is done by a **Repea
 
 **Repeal**: The date from which a Work is no longer in force.
 
-### Abbreviations
+## Abbreviations
 
 | Abbreviation | Meaning |
 | :--- | :--- |
