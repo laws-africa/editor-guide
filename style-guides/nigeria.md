@@ -31,7 +31,7 @@ Remove any subsidiary legislation after the Act, including if it says 'No subsid
 
 
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 {% hint style="info" %}
 The document should end with the last Schedule to the main Act, or with the last section of the main Act if it has no Schedules.

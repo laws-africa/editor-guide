@@ -1,6 +1,6 @@
 # The 'Create' task
 
-Screenshot
+![](../.gitbook/assets/image%20%2827%29.png)
 
 1. Assign the task to yourself.
 2. Find the relevant Gazette using the information provided in the task description.

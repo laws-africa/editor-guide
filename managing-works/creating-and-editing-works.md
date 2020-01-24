@@ -19,7 +19,7 @@ To create any new work, regardless of its type or content, open the works page f
 
 A form will open that looks like this:
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 To edit an existing work, click **Edit work** on the work detail page:
 
@@ -35,7 +35,7 @@ The work details are the core, basic details for a work. Items marked with a red
 
 This is the short title of the Work, such as "Accountants Act, 2012", or "Municipal Planning By-law, 2017", or "Nursing Regulations, 2009". The official short title of a Work is usually specified in its "Short title" section. If there isn't one, refer to the contents page of the Gazette. 
 
-![Short title section of an Act](../.gitbook/assets/image%20%2827%29.png)
+![Short title section of an Act](../.gitbook/assets/image%20%2828%29.png)
 
 ![Contents page of a Gazette](../.gitbook/assets/image%20%2825%29.png)
 
@@ -111,7 +111,7 @@ In the example below, this is `3614`.
 Do not use volume number, part number, or supplement number for the publication number.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 ### Attaching a publication document
 
@@ -155,11 +155,11 @@ In rare cases when working with older legislation, we may have strong reason to 
 
 Acts often explicitly give an Assent date in the Gazette:
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 By-laws often don't have an Assent date, but when they do it will be the date on which it was approved by Council:
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 {% page-ref page="../terminology-guide.md" %}
 
