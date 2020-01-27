@@ -33,7 +33,9 @@ The work details are the core, basic details for a work. Items marked with a red
 
 ### Short title
 
-This is the short title of the Work, such as "Accountants Act, 2012", or "Municipal Planning By-law, 2017", or "Nursing Regulations, 2009". The official short title of a Work is usually specified in its "Short title" section. If there isn't one, refer to the contents page of the Gazette. 
+This is the short title of the Work, such as "Accountants Act, 2012", or "Nursing Regulations, 2009". The official short title of a Work is usually specified in its "Short title" section. If there isn't one, refer to the contents page of the Gazette. For instructions on naming South African By-laws, see the page on that topic: 
+
+{% page-ref page="../style-guides/short-titles-for-south-african-by-laws.md" %}
 
 ![Short title section of an Act](../.gitbook/assets/image%20%2830%29.png)
 

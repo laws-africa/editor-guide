@@ -33,4 +33,5 @@
 
 * [Capitalising headings](style-guides/casing.md)
 * [Nigeria](style-guides/nigeria.md)
+* [Short titles for South African By-laws](style-guides/short-titles-for-south-african-by-laws.md)
 
