@@ -4,7 +4,7 @@ description: A guide to the terms used on the platform.
 
 # Terminology guide
 
-![The terminology of Laws.Africa.](.gitbook/assets/laws.africa-terminology.png)
+![The terminology of Laws.Africa.](../.gitbook/assets/laws.africa-terminology.png)
 
 ## Terms
 
@@ -12,9 +12,9 @@ description: A guide to the terms used on the platform.
 
 A **Work** is the logical concept of an Act, By-law, Regulations, Notice, or other piece of legislation. A Work may change over time through amendments and may be issued in multiple languages. A Work may ultimately be repealed.
 
-An **Expression** is a particular version of a Work, in a specific language and at a particular Point in Time. A Work may have many expressions associated with it.
+An **Expression** is a particular version of a Work, in a specific language and at a particular Point in Time. A Work may have many expressions associated with it. Expressions are also referred to as **Documents** on the platform.
 
-A **Point in Time** is all the Expressions of a Work on a particular date. There is usually only one Expression at a particular date, unless the Work is available in multiple languages. Often, a Point in Time is synonymous with an Expression. Each Point in Time will have all the previous amendments applied to it, and the oldest \(or first\) point in time will be the work as originally published.
+A **Point in Time** is all the Expressions of a Work on a particular date. There is usually only one Expression at a particular date, unless the Work is available in multiple languages. Often, a Point in Time is synonymous with an Expression. Each Point in Time will have all the previous amendments applied to it, and the oldest \(or first\) point in time will be the work as originally published. Points in Time generally have an event associated with them, most commonly publication or amendment.
 
 ### Primary vs Subsidiary legislation
 

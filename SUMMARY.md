@@ -1,12 +1,14 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Terminology guide](terminology-guide.md)
 
-## Doing tasks
+## Getting started
 
-* [The 'Create' task](doing-tasks/the-create-work-task.md)
-* [The 'Apply amendment' task](doing-tasks/the-apply-amendment-task.md)
+* [Lesson plan](getting-started/lesson-plan.md)
+* [Signing up](getting-started/signing-up.md)
+* [Digitising legislation](getting-started/the-end-product.md)
+* [What is Akoma Ntoso](getting-started/what-is-akoma-ntoso.md)
+* [Terminology guide](getting-started/terminology-guide.md)
 
 ## Managing Works
 
@@ -15,9 +17,12 @@
 
 ## Editing a Document
 
-* [Importing a document](editing-a-document/importing-a-document.md)
+* [Cleaning up an import](editing-a-document/cleaning-up-an-import.md)
+* [Preface and Preamble](editing-a-document/preface-and-preamble.md)
+* [Chapters and Parts](editing-a-document/chapters.md)
 * [Indented lists](editing-a-document/indented-lists.md)
 * [Tables](editing-a-document/tables.md)
+* [Images](editing-a-document/images.md)
 * [Schedules](editing-a-document/schedules.md)
 * [Multiple commencement dates](editing-a-document/multiple-commencement-dates.md)
 * [Special keywords](editing-a-document/keywords.md)
@@ -29,6 +34,12 @@
 
 * [Reviewing a document](reviewing-a-document/introduction.md)
 * [Reviewer checklist](reviewing-a-document/reviewer-checklist.md)
+
+## Doing tasks
+
+* [The 'Import content' task](doing-tasks/the-import-content-task.md)
+* [The 'Create' task](doing-tasks/the-create-work-task.md)
+* [The 'Apply amendment' task](doing-tasks/the-apply-amendment-task.md)
 
 ## Style Guides
 
