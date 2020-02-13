@@ -28,7 +28,5 @@ description: For straightforward Acts
 
 {% page-ref page="../editing-a-document/keywords.md" %}
 
-{% page-ref page="../style-guides/casing.md" %}
-
 {% page-ref page="../editing-a-document/multiple-commencement-dates.md" %}
 

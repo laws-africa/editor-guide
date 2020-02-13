@@ -33,3 +33,24 @@ Because by-laws in South Africa are often missing a ‘short title’ section, a
 * Street Trading
 * Tariff
 
+## Capitalising headings
+
+In South African by-laws, we use sentence case for all headings – never all-caps.
+
+### What is sentence case?
+
+Sentence case capitalises the first word, any proper nouns and acronyms, and defined terms.
+
+* To **capitalise** means to uppercase the first letter,  e.g. `namibia` → `Namibia`
+* **Proper nouns** include country names and the names of certain bodies,  e.g. `attorney general` → `Attorney General` 
+* **Acronyms** \(or [initialisms](http://www.todayifoundout.com/index.php/2012/05/the-difference-between-an-acronym-and-an-initialism/) if you want to be that person\) will often also be defined in the legislation,  e.g. '"**ITU**" means International Telecommunications Union;'
+* **Defined terms** are defined in the definitions section of the current work,  e.g. '"**Board**" means the Board of Commissioners established under section 5 of this Act;'
+
+{% hint style="info" %}
+If a term is defined in the lower case, it doesn't need to be capitalised when it appears in a heading.
+{% endhint %}
+
+{% hint style="info" %}
+If a term is consistently used in the upper case in a work, it should be used in the upper case in headings, even if it isn't explicitly defined.
+{% endhint %}
+

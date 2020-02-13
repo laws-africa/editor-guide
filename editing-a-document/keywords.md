@@ -1,4 +1,4 @@
-# Special keywords
+# Special keywords \(summary\)
 
 <table>
   <thead>

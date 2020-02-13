@@ -24,8 +24,8 @@
 * [Tables](editing-a-document/tables.md)
 * [Images](editing-a-document/images.md)
 * [Schedules](editing-a-document/schedules.md)
+* [Special keywords \(summary\)](editing-a-document/keywords.md)
 * [Multiple commencement dates](editing-a-document/multiple-commencement-dates.md)
-* [Special keywords](editing-a-document/keywords.md)
 * [Special characters](editing-a-document/special-characters.md)
 * [Italicised terms](editing-a-document/italicised-terms.md)
 * [Search and rescue](editing-a-document/search-and-rescue.md)
@@ -43,7 +43,6 @@
 
 ## Style Guides
 
-* [Capitalising headings](style-guides/casing.md)
-* [Nigeria](style-guides/nigeria.md)
 * [South African By-laws](style-guides/south-african-by-laws.md)
+* [Nigeria](style-guides/nigeria.md)
 
