@@ -19,8 +19,8 @@ Because by-laws in South Africa are often missing a ‘short title’ section, a
    * Cape Town: Liquor by-law  → Liquor
    * Air Quality By-law of the Swartland Municipality → Air Quality
 4. Include e.g. **\(Municipal Council of Piketberg\)** in brackets at the end of the title if this is a more local council / municipality than the \(e.g. District\) Municipality you’re working in.
-5. Use lowercase these words: of and in the for on
-6. Use title case for everything else
+5. Use lower case for these words: of, and, in, the, for, on.
+6. Capitalise the first letter of all other words.
 
 ### **Example of by-law titles**
 
@@ -35,7 +35,7 @@ Because by-laws in South Africa are often missing a ‘short title’ section, a
 
 ## Capitalising headings
 
-In South African by-laws, we use sentence case for all headings – never all-caps.
+In South African by-laws, we use Sentence case for all headings – never all-caps.
 
 ### What is sentence case?
 

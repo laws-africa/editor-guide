@@ -17,7 +17,7 @@ Content and structure is more important than matching exactly what the text look
 5. Back to the top: Use the [Preface, Long title and Preamble](preface-and-preamble.md) keywords as necessary.
 6. Headings
    * Use the [Chapter and Part](chapters.md) keywords as necessary.
-   * Make all headings 'Sentence case': only the first letter of the heading as well as any proper nouns or defined terms are capitalised.
+   * Make all headings [Sentence case](https://docs.laws.africa/style-guides/south-african-by-laws#what-is-sentence-case): only the first letter of the heading as well as any proper nouns or defined terms are capitalised.
    * Correct OCR \(e.g. 0 instead of O\) and whitespace \(e.g. TheBoard instead of The Board\) errors.
    * Do not correct spelling or grammar mistakes; rather leave a comment on the right-hand side.
    * Do not 'correct' the placement of section numbers if they appear on the next line in the pdf. We mark it up with the number next to the heading so that it is encoded in Akoma Ntoso as 'section number' and 'section title'. We are capturing the _structure_ here, and deal with the _presentation_ separately.

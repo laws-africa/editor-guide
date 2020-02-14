@@ -10,7 +10,7 @@ description: For straightforward Acts
 * [ ] Commencement date/s captured
 * [ ] Heading keywords used appropriately \(e.g. `Part`, not `CROSSHEADING`\)
 * [ ] Formatting \(// for italics and \*\* for bold\) not overused \(e.g. not used for crossheadings\)
-* [ ] Headings are sentence case
+* [ ] Headings are [Sentence case](https://docs.laws.africa/style-guides/south-african-by-laws#what-is-sentence-case)
 * [ ] Subsection, paragraph, subparagraph numbers follow
 * [ ] Subsection \(1\) not accidentally recorded as \(l\) \(lowercase L\) or \(I\) \(uppercase i\)
 * [ ] Subsections, paragraphs, subparagraphs, annotations indented correctly

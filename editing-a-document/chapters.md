@@ -10,7 +10,7 @@ Chapters and parts are often used to sections. Sometimes a chapter will contain 
 
 1. Enter Edit mode
 2. On one line, start a chapter with `CHAPTER <number> - <heading>`
-3. The heading is optional and should use Title casing, not ALL CAPS.
+3. The heading is optional and should use [Sentence case](https://docs.laws.africa/style-guides/south-african-by-laws#what-is-sentence-case), not ALL CAPS.
 4. Put the contents of the chapter on the following lines.
 
 **Example**
@@ -23,7 +23,7 @@ CHAPTER 2 - Interpretation
 
 1. Enter Edit mode
 2. On one line, start a chapter with `PART <number> - <heading>`
-3. The heading is optional and should use Title casing, not ALL CAPS.
+3. The heading is optional and should use [Sentence case](https://docs.laws.africa/style-guides/south-african-by-laws#what-is-sentence-case), not ALL CAPS.
 4. Put the contents of the part on the following lines.
 
 **Example**
@@ -36,8 +36,8 @@ PART 2 - Tariffs
 
 1. Copy and paste the following following content into your editor.
 2. Correct it so that it shows up like the screenshot below.
-   1. Chapter 2 should have the correct heading \(using "Title casing"\)
-   2. Part 1 should have the correct heading \(also using "Title casing"\)
+   1. Chapter 2 should have the correct heading \(using Sentence case\)
+   2. Part 1 should have the correct heading \(also using Sentence case\)
    3. Part 1 should contain section 5 and subsection 5\(1\).
 
 ```text
