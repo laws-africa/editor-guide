@@ -18,11 +18,11 @@ Include as much information as you have available, including the number and year
 
 Taken from [https://edit.laws.africa/documents/3132/](https://edit.laws.africa/documents/3132/) on [https://edit.laws.africa/works/ng/act/1955/20/](https://edit.laws.africa/works/ng/act/1955/20/).
 
-![Commencement note at the top of the Act in the consolidation](../.gitbook/assets/nigerian-railway-corporation-act-commencement-note.png)
+![Commencement note at the top of the Act in the consolidation](../../.gitbook/assets/nigerian-railway-corporation-act-commencement-note.png)
 
-![Commencement note at the top of the Act](../.gitbook/assets/nigerian-railway-corporation-act-coverpage.png)
+![Commencement note at the top of the Act](../../.gitbook/assets/nigerian-railway-corporation-act-coverpage.png)
 
-![Commencement note at section 15](../.gitbook/assets/image%20%2852%29.png)
+![Commencement note at section 15](../../.gitbook/assets/image%20%2857%29.png)
 
 
 

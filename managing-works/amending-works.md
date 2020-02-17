@@ -32,7 +32,7 @@ If the amending work already exists on the platform, it doesn't need to be creat
 
 At the new point in time, click **Create amended version** and select the language.
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 ## Applying the amendments
 

@@ -25,10 +25,10 @@
 * [Images](editing-a-document/images.md)
 * [Schedules](editing-a-document/schedules.md)
 * [Special keywords \(summary\)](editing-a-document/keywords.md)
-* [Multiple commencement dates](editing-a-document/multiple-commencement-dates.md)
 * [Special characters](editing-a-document/special-characters.md)
 * [Italicised terms](editing-a-document/italicised-terms.md)
 * [Search and rescue](editing-a-document/search-and-rescue.md)
+* [Editor warnings](editing-a-document/editor-warnings.md)
 
 ## Reviewing a document
 
@@ -44,5 +44,6 @@
 ## Style Guides
 
 * [South African By-laws](style-guides/south-african-by-laws.md)
-* [Nigeria](style-guides/nigeria.md)
+* [Nigeria](style-guides/nigeria/README.md)
+  * [Multiple commencement dates](style-guides/nigeria/multiple-commencement-dates.md)
 

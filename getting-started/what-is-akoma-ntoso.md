@@ -34,7 +34,7 @@ Akoma Ntoso separates content and structure from presentation.
 
 Treating these three elements separately makes it very easy to apply different presentations for different use cases, such as desktop, mobile and print.
 
-![Content, Structure and Presentation as layers.](../.gitbook/assets/image%20%2857%29.png)
+![Content, Structure and Presentation as layers.](../.gitbook/assets/image%20%2863%29.png)
 
 ### Working with Akoma Ntoso
 
