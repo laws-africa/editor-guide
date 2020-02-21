@@ -56,13 +56,13 @@ If a term is consistently used in the upper case in a work, it should be used in
 
 ### How to fix all-caps headings
 
-1. In View mode, select 'Analysis \| Make section headings Sentence case'.
-2. Review and fix section headings.
+1. In View mode, select 'Analysis \| Make headings Sentence case'.
+2. Review and fix headings.
 3. Don't forget Step 2.
 
 ### Tips
 
-* Only run 'Make section headings Sentence case' when the headings are all caps.
+* Only run 'Make headings Sentence case' when the headings are all caps.
 * Run it as a first step, then check individual headings and re-capitalise proper nouns and acronyms.
 * Never run it as a last step.
 * 'Quick edit' sections that need words re-capitalised by clicking the pencil next to the heading.
@@ -98,6 +98,6 @@ Blah blah blah.
 ```
 
 * [ ] Click Update.
-* [ ] Select 'Analysis \| Make section headings Sentence case'.
+* [ ] Select 'Analysis \| Make headings Sentence case'.
 * [ ] Quick edit sections 2 and 3 to fix their headings.
 

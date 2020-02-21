@@ -16,7 +16,7 @@ Chapters and parts are often used to sections. Sometimes a chapter will contain 
 **Example**
 
 ```text
-CHAPTER 2 - Interpretation
+Chapter 2 - Interpretation
 ```
 
 ## How to markup parts
@@ -29,7 +29,7 @@ CHAPTER 2 - Interpretation
 **Example**
 
 ```text
-PART 2 - Tariffs
+Part 2 - Tariffs
 ```
 
 ## Exercise
