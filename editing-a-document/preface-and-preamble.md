@@ -42,6 +42,10 @@ The Preamble will appear in the Table of Contents on the left. In some countries
 ```text
 PREAMBLE
 
+WHEREAS ...
+
+WHEREAS ...
+
 BE IT ENACTED by the Council of the City of Cape Town as follows:—
 ```
 
