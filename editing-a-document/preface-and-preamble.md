@@ -58,7 +58,11 @@ BE IT ENACTED by the Council of the City of Cape Town as follows:—
 ```text
 BODY
 
-LONGTITLE To provide for the appointment, powers and functions of the Ombudsman.
+To provide for the appointment, powers and functions of the Ombudsman.
+
+WHEREAS ...
+
+WHEREAS ...
 
 BE IT ENACTED by the Council of the City of Cape Town, as follows: –
 
