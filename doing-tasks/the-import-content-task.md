@@ -19,11 +19,11 @@
 13. When you are done cleaning up the imported document, return to the task and click **Submit for review**.
 14. The content will be reviewed by a second editor. They may return it to you for changes or approve the task and publish the document – you will get an email notification either way.
 
-![The work overview \(Steps 3 and 4\)](../.gitbook/assets/image%20%2847%29.png)
+![The work overview \(Steps 3 and 4\)](../.gitbook/assets/image%20%2849%29.png)
 
 ![The initial publication date \(Step 5\)](../.gitbook/assets/image%20%282%29.png)
 
-![The import page \(Steps 6 to 11\)](../.gitbook/assets/image%20%2836%29.png)
+![The import page \(Steps 6 to 11\)](../.gitbook/assets/image%20%2837%29.png)
 
 
 

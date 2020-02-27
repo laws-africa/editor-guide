@@ -26,13 +26,13 @@ If the amending work already exists on the platform, it doesn't need to be creat
 4. Search for the title, year or number of the amending work.
 5. Select the amending work and click **OK**.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 ## Creating a new document
 
 At the new point in time, click **Create amended version** and select the language.
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 ## Applying the amendments
 
