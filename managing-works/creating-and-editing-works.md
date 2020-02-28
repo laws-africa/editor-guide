@@ -21,6 +21,8 @@ A form will open that looks like this:
 
 ![](../.gitbook/assets/image%20%2861%29.png)
 
+## How to edit an existing work
+
 To edit an existing work, click **Edit work** on the work detail page:
 
 ![](../.gitbook/assets/image%20%2832%29.png)
