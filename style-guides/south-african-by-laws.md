@@ -21,6 +21,7 @@ Because by-laws in South Africa are often missing a ‘short title’ section, a
 4. Include e.g. **\(Municipal Council of Piketberg\)** in brackets at the end of the title if this is a more local council / municipality than the \(e.g. District\) Municipality you’re working in.
 5. Use lower case for these words: of, and, in, the, for, on.
 6. Capitalise the first letter of all other words.
+7. For stubs, use the name of the principal work followed by ': Commencement' /  ': Amendment' / ': Repeal' – see [https://edit.laws.africa/places/za-cpt/works/?q=&stub=only](https://edit.laws.africa/places/za-cpt/works/?q=&stub=only) for examples.
 
 ### **Example of by-law titles**
 
