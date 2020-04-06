@@ -1,6 +1,6 @@
 # The 'Apply amendment' task
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 1. Assign the task to yourself.
 2. Find the Amending work's Gazette using the information provided in the task description.

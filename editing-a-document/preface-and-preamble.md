@@ -79,7 +79,7 @@ The following terms are defined …
 
 ```
 
-![View mode](../.gitbook/assets/image%20%2821%29.png)
+![View mode](../.gitbook/assets/image%20%2822%29.png)
 
-![Edit mode](../.gitbook/assets/image%20%2841%29.png)
+![Edit mode](../.gitbook/assets/image%20%2842%29.png)
 

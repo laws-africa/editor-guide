@@ -26,13 +26,13 @@ If the amending work already exists on the platform, it doesn't need to be creat
 4. Search for the title, year or number of the amending work.
 5. Select the amending work and click **OK**.
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ## Creating a new document
 
 At the new point in time, click **Create amended version** and select the language.
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ## Applying the amendments
 
@@ -150,7 +150,20 @@ The amending work will give specific instructions as to which words or phrases t
 
 Annotations are how we show readers what happened to a piece of legislation over time. We make an annotation under each change, specifying what the change is and how it came about.
 
-### How to write an annotation
+### How to insert an automatically created annotation
+
+1. In Edit mode, place your cursor in the line below the one where the change was made.
+2. Click 'Insert \| Insert annotation …' and select the appropriate verb \(refer to the amending work\).
+3. Amend the annotation:
+   * Replace the section reference \(`section 10` in the screenshot below\) with the provision that was affected – in this case, `subsection (2)`.
+   * Replace `XXX` with the section of the amending work that made this particular change. \(If the amending work doesn't have sections, delete all of `section XXX of`.\)
+4. In our example, the final annotation will read `[[subsection (2) substituted by section 8(1)(b) of the [Amendment By-law, 2020](/za-playground/act/by-law/2020/practice-3)]]` – note it does not start with a capital letter, and there are no spaces between the brackets in the reference to section 8\(1\)\(b\).
+
+![Inserting the annotation](../.gitbook/assets/image%20%2866%29.png)
+
+![The automatically inserted annotation still needs to be edited](../.gitbook/assets/image%20%2815%29.png)
+
+### How to write an annotation from scratch
 
 Amendments have four elements:
 

@@ -11,9 +11,9 @@ We use images for maps, logos, photos, or complicated forms that cannot \(yet\) 
 5. Once it has uploaded, select it and click **Insert image**.
 6. In Edit mode, only some text will appear but if you click **Update**, you should see your image.
 
-![Step 3](../.gitbook/assets/image%20%2834%29.png)
+![Step 3](../.gitbook/assets/image%20%2835%29.png)
 
-![Step 4](../.gitbook/assets/image%20%2860%29.png)
+![Step 4](../.gitbook/assets/image%20%2861%29.png)
 
-![Step 5](../.gitbook/assets/image%20%2824%29.png)
+![Step 5](../.gitbook/assets/image%20%2825%29.png)
 

@@ -19,13 +19,13 @@ To create any new work, regardless of its type or content, open the works page f
 
 A form will open that looks like this:
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
 ## How to edit an existing work
 
 To edit an existing work, click **Edit work** on the work detail page:
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 ## Work details
 
@@ -39,9 +39,9 @@ This is the short title of the Work, such as "Accountants Act, 2012", or "Nursin
 
 {% page-ref page="../style-guides/south-african-by-laws.md" %}
 
-![Short title section of an Act](../.gitbook/assets/image%20%2845%29.png)
+![Short title section of an Act](../.gitbook/assets/image%20%2846%29.png)
 
-![Contents page of a Gazette](../.gitbook/assets/image%20%2840%29.png)
+![Contents page of a Gazette](../.gitbook/assets/image%20%2841%29.png)
 
 {% hint style="info" %}
 Short titles normally use Title Case. Don’t use ALL CAPS.
@@ -98,7 +98,7 @@ For everything else, e.g. a Commencing work or an Amending work, check this box.
 
 The publication details refer to when and where the work was first published in an official government publication, such as the Government Gazette.
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ### Publication date, name and number
 
@@ -115,7 +115,7 @@ In the example below, this is `3614`.
 Do not use volume number, part number, or supplement number for the publication number.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/image%20%2864%29.png)
 
 ### Attaching a publication document
 
@@ -131,13 +131,13 @@ If the option does not appear, double-check the details you have entered. If you
 
 The Commencement date is the date on which a Work starts having legal force; the Assent date is the date on which it was approved / signed by the relevant authority.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 ### Commencement
 
 Unless the work specifically states that it will only come into force by Notice or Proclamation, check the **Commenced** box. This will give you the option to enter the Commencement date.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 The **Commencement date** will often be the same as the Publication date. Check the 'Short title' section of the work for exceptions.
 
@@ -159,11 +159,11 @@ In rare cases when working with older legislation, we may have strong reason to 
 
 Acts often explicitly give an Assent date in the Gazette:
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 By-laws often don't have an Assent date, but when they do it will be the date on which it was approved by Council:
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 {% page-ref page="../getting-started/terminology-guide.md" %}
 
