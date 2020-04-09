@@ -1,6 +1,6 @@
 # The 'Apply amendment' task
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 1. Assign the task to yourself.
 2. Find the Amending work's Gazette using the information provided in the task description.
@@ -8,7 +8,7 @@
 4. Once the work exists, follow the rest of the instructions on applying an amendment.
 5. Submit the 'Apply amendment' task.
 
-{% page-ref page="../managing-works/creating-and-editing-works.md" %}
+{% page-ref page="../managing-works/creating-and-editing-works/" %}
 
 {% page-ref page="../managing-works/amending-works.md" %}
 

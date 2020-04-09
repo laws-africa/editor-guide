@@ -12,7 +12,8 @@
 
 ## Managing Works
 
-* [Creating and editing works](managing-works/creating-and-editing-works.md)
+* [Creating and editing works](managing-works/creating-and-editing-works/README.md)
+  * [Working with commencements](managing-works/creating-and-editing-works/working-with-commencements.md)
 * [Amending works](managing-works/amending-works.md)
 
 ## Editing a Document
@@ -44,6 +45,5 @@
 ## Style Guides
 
 * [South African By-laws](style-guides/south-african-by-laws.md)
-* [Nigeria](style-guides/nigeria/README.md)
-  * [Multiple commencement dates](style-guides/nigeria/multiple-commencement-dates.md)
+* [Nigeria](style-guides/nigeria.md)
 

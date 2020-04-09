@@ -28,5 +28,3 @@ description: For straightforward Acts
 
 {% page-ref page="../editing-a-document/keywords.md" %}
 
-{% page-ref page="../style-guides/nigeria/multiple-commencement-dates.md" %}
-
