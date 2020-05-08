@@ -8,7 +8,7 @@ There are four parts to applying an amendment:
 4. Applying the amendments
 5. Annotating the amendments.
 
-## Creating the amending work
+## 1. Creating the amending work
 
 Amending works are created using the same process as for all other works.
 
@@ -18,7 +18,7 @@ If the amending work already exists on the platform, it doesn't need to be creat
 
 {% page-ref page="creating-and-editing-works/" %}
 
-## Linking the amendment
+## 2. Linking the amendment
 
 1. Go to the amended work's page.
 2. Click **Manage points in time**.
@@ -28,13 +28,17 @@ If the amending work already exists on the platform, it doesn't need to be creat
 
 ![](../.gitbook/assets/image%20%2830%29.png)
 
-## Creating a new document
+## 3. Creating a new document
+
+{% hint style="warning" %}
+Check that the previous document has been **published** before creating a new document, otherwise any errors that still need to be resolved in the previous point in time will be copied into your new document.
+{% endhint %}
 
 At the new point in time, click **Create amended version** and select the language.
 
 ![](../.gitbook/assets/image%20%2844%29.png)
 
-## Applying the amendments
+## 4. Applying the amendments
 
 For each amendment given in the amending work, make the change indicated. Changes fall into the broad categories of adding text, removing text, replacing text, and amending text.
 
@@ -148,7 +152,7 @@ The amending work will give specific instructions as to which words or phrases t
 
 > Delete the proviso to paragraph \(c\) in subsection \(1\).
 
-## Annotating the amendments
+## 5. Annotating the amendments
 
 Annotations are how we show readers what happened to a piece of legislation over time. We make an annotation under each change, specifying what the change is and how it came about.
 
