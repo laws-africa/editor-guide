@@ -5,7 +5,7 @@
 When you review someone else's work, your goals are to:
 
 * catch errors that weren't spotted by the first editor
-* provide constructive feedback to the first editor to help them improve
+* provide constructive feedback to the first editor
 * make note of other changes that may still need to be done
 * publish the content.
 
@@ -14,11 +14,16 @@ When you review someone else's work, your goals are to:
 1. Assign an 'Import content' task to yourself.
 2. Follow the link on the task to the work overview page.
 3. Open the imported document.
-4. Find the imported file under 'Attachments' and click on it. It will open in a separate window.
-5. Compare the document against the imported file.
-6. Note any changes to be made on the document using comments.
-7. If the first editor needs to make changes before the document can be published,  click **Request changes** on the task.
-8. If the document is ready to be published, click **Send for publishing** on the document and **Approve** on the task.
+4. Click **Show source** to see the imported PDF.
+5. If a Word document was imported, click **Attachments** and download it.
+6. Compare the document against the imported file.
+7. Note any changes to be made on the document using comments.
+8. If the first editor needs to make changes before the document can be published, click **Request changes** on the task. You can add a general comment at the same time.
+9. If the document is ready to be published, click **Save & publish** on the document \(drop-down next to **Save draft**\), and click **Approve** on the task.
+
+{% hint style="warning" %}
+The most important part of the process is where you click **Save & publish**, don't forget this crucial step!
+{% endhint %}
 
 ## Tips
 
