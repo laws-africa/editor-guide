@@ -50,7 +50,7 @@ The text given in the amending work is copied into the existing work where indic
 
 Amending work:
 
-> Insert the following section 3A after the existing section 3:
+> 2. Insert the following section 3A after the existing section 3:
 >
 > "**3A When to pick strawberries**   
 > Strawberries may be picked on Tuesdays.".
@@ -69,7 +69,8 @@ Amended work after amendment:
 > Cucumbers may be picked on Wednesdays and Thursdays.
 >
 > **3A When to pick strawberries**   
-> Strawberries may be picked on Tuesdays.
+> Strawberries may be picked on Tuesdays.  
+> _\[section 3A inserted by section 2 of Act 1 of 2023\]_
 >
 > **4 When to pick onions**   
 > Onions may be picked on Mondays and Tuesdays.
@@ -78,15 +79,15 @@ For how to deal with the commencement of inserted sections, see [here](creating-
 
 ### Removing text
 
-A provision is removed – anything from as big as a Chapter to as small as a sub-subitem. Leave the number or letter of the provision as is and replace the heading or content with `...`.
+A provision is removed – anything from as big as a Chapter to as small as a sub-subitem. Leave the number or letter of the provision as, replace headings with `***` and replace the content with an annotation.
 
 #### Example
 
 Amending work:
 
-> Repeal section 12.
-
-> In section 13, delete subsection \(1\).
+> 6. Repeal section 12.
+>
+> 7. In section 13, delete subsection \(1\).
 
 Amended work before amendment:
 
@@ -99,28 +100,29 @@ Amended work before amendment:
 
 Amended work after amendment:
 
-> **12 …**
+> **12 \*\*\***  
+> _\[section 12 repealed by section 6 of Act 1 of 2023\]_
 >
 > **13 How to pick strawberries**   
-> \(1\) …   
+> \(1\) _\[subsection \(1\) repealed by section 7 of Act 1 of 2023\]_   
 > \(2\) Strawberries may be picked using a fork.
 
 ### Replacing text
 
-The amending work will sometimes indicate the changes to be made, and will at others give a fresh new provision. Regardless, replace the existing provision with the one given in the amending work.
+The amending work might indicate the changes to be made or give a fresh new provision. Regardless, replace the existing provision with the one given in the amending work.
 
 #### Example
 
 Amending work:
 
-> In section 15:   
-> substitute subsection \(1\) with the following subsection:   
+> 8. In section 15:   
+> \(a\) substitute subsection \(1\) with the following subsection:   
 > "\(1\) Anyone who contravenes section~~\[s\]~~ 11~~\[, 12 or 13\(a\)\]~~ will have committed an offence."; and
 >
-> substitute subsection \(2\) with the following subsection:   
+> \(b\) substitute subsection \(2\) with the following subsection:   
 > "\(2\) Anyone who has committed an offence may be ~~\[imprisoned\]~~ **given a fine**."
 
-> Substitute section 16 with the following:   
+> 9. Substitute section 16 with the following:   
 > "**16 Fines**   
 > Fines may be from R50.00 to R1000.00, in increments of R50.00, depending on the severity of the offence.".
 
@@ -137,10 +139,13 @@ Amended work after amendment:
 
 > **15 Offences**   
 > \(1\) Anyone who contravenes section 11 will have committed an offence.   
-> \(2\) Anyone who has committed an offence may be given a fine.
+>       _\[subsection \(1\) substituted by section 8\(a\) of Act 1 of 2023\]_  
+> \(2\) Anyone who has committed an offence may be given a fine.  
+>       _\[subsection \(2\) substituted by section 8\(b\) of Act 1 of 2023\]_
 >
 > **16 Fines**   
-> Fines may be from R50.00 to R1000.00, in increments of R50.00, depending on the severity of the offence.
+> Fines may be from R50.00 to R1000.00, in increments of R50.00, depending on the severity of the offence.  
+> _\[section 16 substituted by section 9 of Act 1 of 2023\]_
 
 ### Amending text
 
@@ -151,6 +156,8 @@ The amending work will give specific instructions as to which words or phrases t
 > Add the following text at the end of the existing subsection \(2\):
 
 > Delete the proviso to paragraph \(c\) in subsection \(1\).
+
+In these cases, follow the instructions and use the verb "amended" in the annotation.
 
 ## 5. Annotating the amendments
 
@@ -201,7 +208,7 @@ or:
 * Wrap annotations in \[\[double square brackets\]\], because they are editorial remarks.
 * Make the annotation as close to the change as possible.
 * To determine the verb, follow what is given in the amending work.  \(In Nigeria, 'altered' seems to be preferred over 'amended'.\)
-* When annotating a piece of text that is already indented \(like a paragraph\),  use an extra tab for the annotation.
+* When annotating a piece of text that is already indented \(like a paragraph\), use an extra tab for the annotation to make sure it gets indented under the paragraph.
 * Don't include the quotes or punctuation outside the quotes from the amending work.
 * When the amending work doesn't have an Act number, use its short title.
 
