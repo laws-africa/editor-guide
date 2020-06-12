@@ -44,6 +44,7 @@
 
 ## Style Guides
 
+* [South African Acts](style-guides/south-african-acts.md)
 * [South African By-laws](style-guides/south-african-by-laws.md)
 * [Nigeria](style-guides/nigeria.md)
 
