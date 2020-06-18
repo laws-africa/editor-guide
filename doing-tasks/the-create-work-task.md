@@ -14,9 +14,5 @@
 If the Gazette is missing, Edit the task and apply the 'Gazette missing' label, then unassign it.
 {% endhint %}
 
-{% hint style="warning" %}
-Do not pick up tasks with the 'Gazette missing' label, unless you plan to find the Gazette :\)
-{% endhint %}
-
 
 

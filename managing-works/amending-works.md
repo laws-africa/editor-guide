@@ -157,7 +157,7 @@ The amending work will give specific instructions as to which words or phrases t
 
 > Delete the proviso to paragraph \(c\) in subsection \(1\).
 
-In these cases, follow the instructions and use the verb "amended" in the annotation.
+In these cases, follow the instructions and use the verb 'amended' in the annotation.
 
 ## 5. Annotating the amendments
 

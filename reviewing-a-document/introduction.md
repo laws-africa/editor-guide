@@ -15,11 +15,11 @@ When you review someone else's work, your goals are to:
 2. Follow the link on the task to the work overview page.
 3. Open the imported document.
 4. Click **Show source** to see the imported PDF.
-5. If a Word document was imported, click **Attachments** and download it.
-6. Compare the document against the imported file.
-7. Note any changes to be made on the document using comments.
-8. If the first editor needs to make changes before the document can be published, click **Request changes** on the task. You can add a general comment at the same time.
-9. If the document is ready to be published, click **Save & publish** on the document \(drop-down next to **Save draft**\), and click **Approve** on the task.
+   * If a Word document was imported and there's no gazette to compare against, click **Attachments** and download it.
+5. Compare the document against the imported file.
+6. Note any changes to be made on the document using comments.
+7. If the first editor needs to make changes before the document can be published, click **Request changes** on the task. You can add a general comment at the same time.
+8. If the document is ready to be published, click **Save & publish** on the document \(drop-down next to **Save draft**\), and click **Approve** on the task.
 
 {% hint style="warning" %}
 The most important part of the process is where you click **Save & publish**, don't forget this crucial step!
@@ -169,7 +169,7 @@ PARA 3. Text text text-
 ```
 
 * [ ] Click Update.
-* [ ] Using only comments on the document \(do not make any changes yourself\),  point out any errors that should be corrected.
+* [ ] Using only comments on the document \(do not make any changes yourself\), point out any errors that should be corrected.
 * [ ] Use the reviewer checklist to methodically work through the document from start to end.
 
 {% page-ref page="reviewer-checklist.md" %}

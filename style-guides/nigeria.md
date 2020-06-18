@@ -47,7 +47,7 @@ If a title appears to belong to only one numbered Section, mark it as a Section,
 
 ![](../.gitbook/assets/schedule-section-titles.png)
 
-Markup these sections like this:
+Mark up these sections like this:
 
 ```text
 1. Supplementary provisions as to the Corporation

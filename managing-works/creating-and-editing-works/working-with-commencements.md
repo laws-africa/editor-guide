@@ -10,9 +10,13 @@ Different provisions of a work may commence on different dates.
 It is possible for a work to be assented to and promulgated, but never commence.
 {% endhint %}
 
-## No commencing work
+## Commenced by itself \(no commencing work\)
 
-In this case, all the provisions of the work commence on publication, or on assent in some jurisdictions – refer to the Interpretation Act of the jurisdiction you are working in to see when the default commencement date is.
+In this case, all the provisions of the work commence on publication.
+
+{% hint style="info" %}
+In some jurisdictions, the default commencement date is the date of assent – refer to the Interpretation Act of the jurisdiction you are working in to check.
+{% endhint %}
 
 Sometimes, the 'Short title and commencement' or 'Commencement' section of the work will specify a commencement date \(finance-related works often give 1 April or 1 July as their commencement dates\).
 
@@ -36,7 +40,7 @@ When this is the case, you should:
 2. Edit the work that has been commenced: check 'Commenced', give the commencement date, and choose the Commencing work that you created in Step 1 under **Choose commencing work**. You can use the notice number to search for it in the popup.
 
 {% hint style="info" %}
-The Commencement date of a commencement notice is always its own publication date, and will never have a commencing work \(they themselves commence on publication\).
+Commencement notices always commence on publication.
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%2831%29.png)

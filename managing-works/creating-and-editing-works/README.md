@@ -35,7 +35,7 @@ The work details are the core, basic details for a work. Items marked with a red
 
 ### Short title
 
-This is the short title of the Work, such as "Accountants Act, 2012", or "Nursing Regulations, 2009". The official short title of a Work is usually specified in its "Short title" section. If there isn't one, refer to the contents page of the Gazette. For instructions on naming South African By-laws, see the page on that topic: 
+This is the short title of the Work, such as 'Accountants Act, 2012', or 'Nursing Regulations, 2009'. The official short title of a Work is usually specified in its 'Short title' section. If there isn't one, refer to the contents page of the Gazette. For instructions on naming South African By-laws, see the page on that topic: 
 
 {% page-ref page="../../style-guides/south-african-by-laws.md" %}
 
@@ -51,13 +51,13 @@ Short titles normally use Title Case. Don’t use ALL CAPS.
 
 This is the year in which  the work was first introduced into Parliament or Council.
 
-For example: for "Act 5 of 2012", the year of introduction is 2012.
+For example: for 'Act 5 of 2012', the year of introduction is 2012.
 
 ### Number within year
 
 This is the number of the work within the year of introduction. Together with the year, it uniquely identifies the work.
 
-For example: for "Act 5 of 2012", the number within the year is "5".
+For example: for 'Act 5 of 2012', the number within the year is '5'.
 
 #### Numbers for by-laws and other works without numbers
 
@@ -66,9 +66,9 @@ South African by-laws, and other works, sometimes don't have numbers. In this ca
 * use all lowercase
 * replace all spaces with hyphens
 * remove references to the name of the municipality or town, since this is already captured
-* remove the word "by-law" and phrases such as "relating to"
+* remove the word 'by-law' and phrases such as 'relating to'
 
-For example: for the "Cape Town By-law relating to the consumption of Strawberries", the number would be "consumption-of-strawberries". Yum, strawberries. 🍓
+For example: for the 'Cape Town By-law relating to the consumption of Strawberries', the number would be 'consumption-of-strawberries'. Yum, strawberries. 🍓
 
 ### Work subtype
 

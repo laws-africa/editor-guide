@@ -5,12 +5,13 @@ description: For straightforward Acts
 # Reviewer checklist
 
 * [ ] Table of Contents: numbers follow
+* [ ] Preface captured \(if there is one\)
 * [ ] Long title captured \(if there is one\)
 * [ ] Preamble captured \(if there is one\)
 * [ ] Commencement date/s captured
 * [ ] Heading keywords used appropriately \(e.g. `Part`, not `CROSSHEADING`\)
 * [ ] Formatting \(// for italics and \*\* for bold\) not overused \(e.g. not used for crossheadings\)
-* [ ] Headings are [Sentence case](https://docs.laws.africa/style-guides/south-african-by-laws#what-is-sentence-case)
+* [ ] Headings are [Sentence case](../style-guides/laws.africa.md#headings)
 * [ ] Subsection, paragraph, subparagraph numbers follow
 * [ ] Subsection \(1\) not accidentally recorded as \(l\) \(lowercase L\) or \(I\) \(uppercase i\)
 * [ ] Subsections, paragraphs, subparagraphs, annotations indented correctly
@@ -23,8 +24,9 @@ description: For straightforward Acts
 * [ ] OCR issues – currency symbols misrecognised \(e.g. N instead of ₦\)
 * [ ] Schedules: heading / subheading / section reference marked up correctly
 * [ ] Defined terms captured
-* [ ] If ready, **Send for publishing** and **Approve** task
-* [ ] If not, **Request changes**
+* [ ] References linked correctly
+* [ ] Terms italicised correctly
+* [ ] Editor warnings all resolved
 
-{% page-ref page="../editing-a-document/keywords.md" %}
+{% page-ref page="../document-elements/keywords.md" %}
 
