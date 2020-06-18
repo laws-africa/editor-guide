@@ -43,6 +43,7 @@
 ## Style Guides
 
 * [Laws.Africa](style-guides/laws.africa.md)
+* [Uganda](style-guides/uganda.md)
 * [South African Acts](style-guides/south-african-acts.md)
 * [South African By-laws](style-guides/south-african-by-laws.md)
 * [Nigeria](style-guides/nigeria.md)
