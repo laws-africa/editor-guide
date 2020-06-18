@@ -68,5 +68,6 @@ Here are some numbers to copy / paste: ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
 * Use the special character for a checkbox \(☐\) where appropriate.
 * Use underscores \(\_\_\_\) for fill-ins.
 * Keep the use of images to a bare minimum: only for logos, maps, etc.
+* Don't use an image for 'Official stamp' – rather use italics text.
 * Don't aim to replicate the formatting exactly as it is in the original; just make sure the text is all there and the meaning is clear.
 
