@@ -10,6 +10,24 @@ description: Style points that apply to all our projects
 * Being faithful to the original.
 * Accurately capturing the content and structure, and not sweating the presentation.
 
+## What to include and exclude
+
+### Exclude
+
+* Metadata – should be captured separately and reflected automatically on the coverpage:
+  * Date of assent
+  * Date of commencement
+  * List of amendments
+* Signatures \(do not include as an image\)
+* Arrangement of Sections
+
+### Include
+
+* Language of text signed, e.g. `(English text signed by the Premier)`
+* Preface, Long title, Preamble
+* Main content
+* Schedules
+
 ## Headings
 
 Our preferred style is Sentence case for all headings, which is more readable than all caps.
