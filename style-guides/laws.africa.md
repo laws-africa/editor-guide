@@ -24,7 +24,7 @@ description: Style points that apply to all our projects
 ### Include
 
 * Language of text signed, e.g. `(English text signed by the Premier)`
-* Preface, Long title, Preamble
+* Preface, Long title, Preamble, including the word `ACT` before the Long title
 * Main content
 * Schedules
 
