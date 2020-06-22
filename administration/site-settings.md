@@ -16,6 +16,8 @@ In this section:
 
 {% page-ref page="task-labels.md" %}
 
+{% page-ref page="taxonomies.md" %}
+
 ## Where to find the admin interface
 
 To open the admin interface:
