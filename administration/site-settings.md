@@ -6,9 +6,15 @@ description: Settings for the Laws.Africa platform.
 
 Administrator users are able to manage the settings for the platform through the admin interface.
 
+In this section:
+
 {% page-ref page="managing-administrators.md" %}
 
+{% page-ref page="countries-and-localities.md" %}
 
+{% page-ref page="document-subtypes.md" %}
+
+{% page-ref page="task-labels.md" %}
 
 ## Where to find the admin interface
 

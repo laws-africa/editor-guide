@@ -1,5 +1,5 @@
 ---
-description: Managing the available countries and localities.
+description: Manage the countries and localities for the platform.
 ---
 
 # Countries and localities
@@ -24,6 +24,8 @@ To add a new country:
 7. \(Optional\) Add localities in the localities list \(see [Localities](countries-and-localities.md#localities) below\)
 8. \(Optional\) Add publications in the publications list \(see Publications below\)
 9. Click Save
+
+![](../.gitbook/assets/country.png)
 
 ### Italics terms
 

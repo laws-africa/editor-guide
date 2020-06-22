@@ -59,4 +59,7 @@
 * [Site settings](administration/site-settings.md)
 * [Managing administrators](administration/managing-administrators.md)
 * [Countries and localities](administration/countries-and-localities.md)
+* [Document subtypes](administration/document-subtypes.md)
+* [Task labels](administration/task-labels.md)
+* [Taxonomies](administration/taxonomies.md)
 
