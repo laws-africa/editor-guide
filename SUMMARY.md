@@ -54,3 +54,9 @@
 * [The 'Create' task](doing-tasks/the-create-work-task.md)
 * [The 'Apply amendment' task](doing-tasks/the-apply-amendment-task.md)
 
+## Administration
+
+* [Site settings](administration/site-settings.md)
+* [Managing administrators](administration/managing-administrators.md)
+* [Countries and localities](administration/countries-and-localities.md)
+
