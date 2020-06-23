@@ -21,6 +21,7 @@
 * [Clean up an import](how-tos/cleaning-up-an-import.md)
 * [Fix all-caps headings](how-tos/fix-all-caps-headings.md)
 * [Indent lists](how-tos/indented-lists.md)
+* [Work with links](how-tos/work-with-links.md)
 * [Mark up tables](how-tos/tables.md)
 * [Insert an image](how-tos/images.md)
 * [Insert special characters](how-tos/special-characters.md)
