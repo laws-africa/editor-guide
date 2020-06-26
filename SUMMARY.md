@@ -28,6 +28,7 @@
 * [Deal with italicised terms](how-tos/italicised-terms.md)
 * [Resolve editor warnings](how-tos/editor-warnings.md)
 * [Search and rescue](how-tos/search-and-rescue.md)
+* [Change a document's date](how-tos/change-a-documents-date.md)
 
 ## Document elements
 
