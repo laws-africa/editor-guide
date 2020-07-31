@@ -1,4 +1,4 @@
-# Clean up an import
+# Cleaning up an import
 
 Once you have imported a piece of legislation \(usually from a pdf of the gazette in which it was published\), it needs to be cleaned up before we publish it.
 

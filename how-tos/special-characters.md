@@ -1,4 +1,4 @@
-# Insert special characters
+# Inserting special characters
 
 In Windows, use the [Character Map](https://support.microsoft.com/en-za/help/315684/how-to-use-special-characters-in-windows-documents) \(you should be able to access it by tapping the Windows key once, then typing 'Character Map'\), or use [Alt codes](https://usefulshortcuts.com/alt-codes/).
 

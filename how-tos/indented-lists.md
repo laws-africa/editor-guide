@@ -1,4 +1,4 @@
-# Indent lists
+# Indenting lists
 
 1. Enter Edit mode.
 2. At the start of a line, use TAB \(or 4 spaces\) to indent the line.

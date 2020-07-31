@@ -1,4 +1,4 @@
-# Mark up tables
+# Marking up tables
 
 Tables are often used in schedules and to show information in columns. Laws.Africa marks up tables using the same format [used by Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction_to_tables_with_Wiki_Markup/2).
 

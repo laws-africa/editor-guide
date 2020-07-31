@@ -1,4 +1,4 @@
-# Fix all-caps headings
+# Fixing all-caps headings
 
 1. In View mode, click 'Analysis \| Make headings Sentence case'.
 2. Review and fix headings.

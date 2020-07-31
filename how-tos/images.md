@@ -2,7 +2,7 @@
 description: 'We use images for maps, logos, and photos only.'
 ---
 
-# Insert an image
+# Inserting an image
 
 1. Take a partial screenshot of the image you want to insert \(search online for how best to do this in your operating system\).
 2. Save or rename the file as something useful, e.g. 'logo' or 'map'.

@@ -1,4 +1,4 @@
-# Resolve editor warnings
+# Resolving editor warnings
 
 1. Check the Table of Contents on the the left-hand side for warnings.
 2. Go to the provision to see where exactly the warning is coming from.

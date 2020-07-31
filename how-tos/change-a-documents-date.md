@@ -1,4 +1,4 @@
-# Change a document's date
+# Changing a document's date
 
 1. Open the document \(View mode\).
 2. Click 'Settings \| Properties…'.

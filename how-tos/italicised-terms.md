@@ -1,4 +1,4 @@
-# Deal with italicised terms
+# Working with italicised terms
 
 In some traditions, certain terms appear in _italics._ For example, Latin terms such as _bona fide_, _inter alia_ and _pro rata_. The platform can do this automatically for specific terms.
 

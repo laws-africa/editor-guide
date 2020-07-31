@@ -18,17 +18,17 @@
 
 ## How-tos
 
-* [Clean up an import](how-tos/cleaning-up-an-import.md)
-* [Fix all-caps headings](how-tos/fix-all-caps-headings.md)
-* [Indent lists](how-tos/indented-lists.md)
-* [Work with links](how-tos/work-with-links.md)
-* [Mark up tables](how-tos/tables.md)
-* [Insert an image](how-tos/images.md)
-* [Insert special characters](how-tos/special-characters.md)
-* [Deal with italicised terms](how-tos/italicised-terms.md)
-* [Resolve editor warnings](how-tos/editor-warnings.md)
+* [Cleaning up an import](how-tos/cleaning-up-an-import.md)
+* [Fixing all-caps headings](how-tos/fix-all-caps-headings.md)
+* [Indenting lists](how-tos/indented-lists.md)
+* [Working with links](how-tos/work-with-links.md)
+* [Working with italicised terms](how-tos/italicised-terms.md)
+* [Marking up tables](how-tos/tables.md)
+* [Inserting an image](how-tos/images.md)
+* [Inserting special characters](how-tos/special-characters.md)
+* [Resolving editor warnings](how-tos/editor-warnings.md)
+* [Changing a document's date](how-tos/change-a-documents-date.md)
 * [Search and rescue](how-tos/search-and-rescue.md)
-* [Change a document's date](how-tos/change-a-documents-date.md)
 
 ## Document elements
 
