@@ -11,7 +11,7 @@ When you review someone else's work, your goals are to:
 
 ## How to review a document
 
-1. Assign an 'Import content' task to yourself.
+1. Assign an 'Import content' task that has been submitted for review to yourself.
 2. Follow the link on the task to the work overview page.
 3. Open the imported document.
 4. Click **Show source** to see the imported PDF.
@@ -20,12 +20,13 @@ When you review someone else's work, your goals are to:
 6. Note any changes to be made on the document using comments.
 7. If the first editor needs to make changes before the document can be published, click **Request changes** on the task. You can add a general comment at the same time.
 8. If the document is ready to be published, click **Save & publish** on the document \(drop-down next to **Save draft**\), and click **Approve** on the task.
+9. If for some reason the document has already been published but changes still need to be made to it, click **Unpublish & save** on the document \(drop-down next to **Save & publish**\) before requesting changes. \(Only reviewers can make changes to published documents.\)
 
-{% hint style="warning" %}
+{% hint style="info" %}
 The most important part of the process is where you click **Save & publish**, don't forget this crucial step!
 {% endhint %}
 
-## Tips
+### Tips
 
 * Use comments on the document to provide feedback about individual issues.
 * Use comments on the task to provide more general advice.
@@ -34,7 +35,7 @@ The most important part of the process is where you click **Save & publish**, do
 
 {% page-ref page="reviewer-checklist.md" %}
 
-## Exercise
+### Exercise
 
 * [ ] Copy and paste the text below into the editor \(make sure your document is blank\).
 
