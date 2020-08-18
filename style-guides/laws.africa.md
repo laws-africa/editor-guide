@@ -89,7 +89,9 @@ Here are some numbers to copy / paste: ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
 * Don't use an image for 'Official stamp' – rather use italics text.
 * Don't aim to replicate the formatting exactly as it is in the original; just make sure the text is all there and the meaning is clear.
 
-## Regulations
+## Subsidiary legislation
+
+### Regulations
 
 _Do_ keep the introductory text from the notice, but _don't_ treat the Regulations as being in a Schedule.
 
@@ -102,4 +104,16 @@ From [https://edit.laws.africa/works/akn/za-wc/act/pn/2010/232/](https://edit.la
 ![](../.gitbook/assets/image%20%2897%29.png)
 
 ![](../.gitbook/assets/image%20%2896%29.png)
+
+### Other notices
+
+Keep the body of the notice as the BODY, and the Schedule as a SCHEDULE.
+
+### Example
+
+From [https://edit.laws.africa/works/akn/za/act/gn/2020/752/](https://edit.laws.africa/works/akn/za/act/gn/2020/752/):
+
+![](../.gitbook/assets/image%20%2899%29.png)
+
+![](../.gitbook/assets/image%20%2898%29.png)
 
