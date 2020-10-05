@@ -21,6 +21,18 @@
 `ATTACHMENT`   
 `SCHEDULE`
 
+## Table markup
+
+| Keyword | Description |
+| :--- | :--- |
+| `TABLE` | Introduces a table |
+| `TR` | Introduces a table row |
+| `TH` | Introduces a table heading cell |
+| `TC` | Introduces a table content cell |
+| `{colspan 5}` | After `TH` or `TC`, gives 5 as the total number of columns this cell will occupy |
+| `{rowspan 5}` | After `TH` or `TC`, gives 5 as the total number of rows this cell will occupy |
+| `{colspan 2|rowspan 3}` | After `TH` or `TC`, gives 2 as the total number of columns and 3 as the total number of rows this cell will occupy |
+
 ## Inline markup
 
 | Symbol | Description |
