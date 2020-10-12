@@ -65,7 +65,7 @@ The pattern for hierarchical elements is as follows:
 * To mark the end of the grouping, unindent the next element.
 
 {% hint style="warning" %}
-If you don't use a `-` before the heading, it will be marked up as the number in the XML.
+If there is a number and a heading, the  `-`  should come _between_ the number and the heading.
 {% endhint %}
 
 ### Example
