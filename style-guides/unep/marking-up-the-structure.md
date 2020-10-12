@@ -64,11 +64,54 @@ The pattern for hierarchical elements is as follows:
 * Below the main heading, indented, the content of the grouping
 * To mark the end of the grouping, unindent the next element.
 
-{% hint style="warning" %}
-If there is a number and a heading, the  `-`  should come _between_ the number and the heading.
-{% endhint %}
+### Tips
 
-### Example
+* If there is a number and no heading, you don't need to use a  `-` .
+* If there is no number but there is a heading, you need to use a  `-`  to indicate the start of the heading.
+* If there is a number and a heading, the  `-`  should come between the number and the heading.
+
+See the examples below for an illustration, paying close attention to the placement of the  `-` .
+
+### Examples
+
+#### Number and no heading
+
+```text
+DIVISION A
+
+    Content of this division (can be Subdivisions, paragraphs, normal text, etc).
+    
+```
+
+#### No number, heading
+
+```text
+DIVISION - Financial reporting
+
+    Content of the (unnumbered) 'Financial reporting' Division.
+    
+```
+
+#### Number and heading
+
+```text
+DIVISION A - Financial reporting
+
+    Content of Division A.
+    
+```
+
+#### Subheading
+
+```text
+DIVISION A - Financial reporting
+    SUBHEADING How to do it right
+    
+    Content of Division A.
+    
+```
+
+#### More examples
 
 ```text
 DIVISION 1 - Title
@@ -84,11 +127,11 @@ This text won't fall inside Division 1.
 
 DIVISION - Heading with no number
 
-    Content of this division.
+    Content of this (unnumbered) division. Note the dash though.
     
 DIVISION 2
 
-    Content of Division 2, which doesn't have a heading.
+    Content of Division 2, which doesn't have a heading (or a dash).
 
 ```
 
