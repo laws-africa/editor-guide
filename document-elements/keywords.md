@@ -93,6 +93,13 @@
       <td style="text-align:left">Used for editorial remarks, e.g. amendment annotations.</td>
       <td style="text-align:left">Can go over multiple lines.</td>
     </tr>
+    <tr>
+      <td style="text-align:left"><code>\</code>
+      </td>
+      <td style="text-align:left">Escape a special keyword, e.g. <code>\Chapter</code> if it&apos;s just the
+        word &apos;Chapter&apos; at the start of a line.</td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 
