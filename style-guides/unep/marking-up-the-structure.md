@@ -22,6 +22,18 @@ At the highest level, a document is broken up into the following blocks:
 * `BODY`
 * `SCHEDULE(s)`
 
+{% hint style="info" %}
+In UN documents, we use `PREAMBLE` for text like   
+'_The Conference of the Parties,  
+Recognizing X,  
+Appreciative of Y, etc_'  
+before the first paragraph or heading \(see below for an exception\).
+
+We haven't yet found a use for `PREFACE`.
+
+See [https://edit.laws.africa/documents/4863/](https://edit.laws.africa/documents/4863/) for an example of a body that doesn't start at a heading or numbered paragraph.
+{% endhint %}
+
 If there is no Preface or Preamble, `BODY` will be assumed until a [Schedule-like block](keyword-reference.md#schedule-like-blocks), after which everything will be in the Schedules.
 
 ### Example
