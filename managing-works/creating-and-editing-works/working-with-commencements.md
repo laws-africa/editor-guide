@@ -26,7 +26,13 @@ When this is the case, you should check 'Commenced' and give the relevant date w
 
 ## Commencement by notice
 
-### The simple case: all provisions commence together
+A commencement notice can give: 
+
+* the date on which an entire work commences
+* different dates for different provisions of a work
+* the date on which only some provisions commence.
+
+### The entire work commences
 
 In this case, all the provisions of the work commence on the same date; this date is given in a Commencing work, often a notice, which will be gazetted like all other works.
 
@@ -45,7 +51,7 @@ Commencement notices always commence on publication.
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 
-### The less simple case: different provisions commence on different dates
+### Different provisions commence on different dates
 
 In this case, a Commencing work will specify which provisions commence on which date.
 
@@ -53,16 +59,24 @@ In this case, a Commencing work will specify which provisions commence on which 
 
 When this is the case, you should:
 
-1. Create the Commencing work on the platform first, as with any other work \(it will be a 'stub' if it's a notice\).
+1. Create the Commencing work on the platform first, as with any other work \(commencement notices are usually stubs\).
 2. Instead of editing the work directly, go to the work's 'Commencements' tab.
 3. Click **Add commencement**, and choose the Commencing work that you created in Step 1. You can use the notice number to search for it in the popup. The commencement will automatically save, but will need to be edited.
 4. Click **Edit** on the commencement you just created.
-5. Update the date to be the one specified in the notice, if that's different from the notice's publication / commencement date \(it often is, but they're sometimes the same\).
+5. Update the date to be the one specified in the notice. Sometimes, the date will already be correct, but you should always read the actual notice to check.
 6. Uncheck 'Commences all provisions' if it is checked, and choose the provisions that commenced on this date.
 7. Save.
 
 {% hint style="info" %}
 If the commencement notice gives Chapters \(the provisions list only contains sections\), open the published document on the work to see which sections are in those Chapters.
+{% endhint %}
+
+{% hint style="warning" %}
+If the commencement notice gives provisions below the secion level, these can only be recorded using editorial notes for the time being. 
+
+In the above example, an editorial note would be added below both section 97\(3\) and 97\(4\), each of which reads   
+_\[subsection \(3\) commenced on 21 March 2020 by GN 123 of 2020\]_,   
+with the correct details filled in. The notice number should be linked before the document is published.
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
@@ -73,7 +87,7 @@ If the commencement notice gives Chapters \(the provisions list only contains se
 
 ![](../../.gitbook/assets/image%20%2882%29.png)
 
-### The least simple case: certain provisions commence but only in relation to certain things
+### Certain provisions commence but only in relation to other provisions
 
 This is rare, but sometimes we get a commencement notice like this:
 
@@ -83,11 +97,15 @@ This is rare, but sometimes we get a commencement notice like this:
 > >
 > > > \(i\) Chapters 2, 3 and 4 of the said Act; and
 > > >
-> > > \(ii\) Chapters 1, 6 and 8 of the said Act in so far as they relate to the Chapters referred in sub-subparagraph \(i\), shall come into operation; and
+> > > \(ii\) Chapters 1, 6 and 8 of the said Act **in so far as they relate to the Chapters referred in sub-subparagraph \(i\)**, shall come into operation; and
 > >
 > > \(b\) 1 July 2004 as the date on which the remaining provisions of the said Act shall come into operation.
 
-The only way to deal with these at the moment is by using editorial remarks.
+In this case:
+
+* Record a commencement on 1 April 2004 for Chapters 2, 3 and 4.
+* Record a commencement on 1 July 2004 for everything else.
+* Use editorial notes at the top of Chapters 1, 6 and 8 to show that, in so far as they relate to Chapters 2, 3 and 4, they came into operation on 1 April 2004.
 
 ## Insertion of new sections by amendment
 
