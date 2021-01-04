@@ -21,6 +21,15 @@
 `ATTACHMENT`   
 `SCHEDULE`
 
+### Bullets
+
+|  |  |
+| :--- | :--- |
+| • | Filled circle |
+| ◦ | Empty circle |
+| ▪ | Filled square |
+| ▫ | Empty square |
+
 ## Table markup
 
 | Keyword | Description |

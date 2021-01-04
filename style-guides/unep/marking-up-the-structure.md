@@ -219,6 +219,30 @@ This text won't fall inside the Division.
 Nesting can get complicated! Look at the sidebar Table of Contents to help guide you.
 {% endhint %}
 
+## Bulleted lists
+
+To mark up a bulleted list, use the bullet as the 'number' of the element.
+
+### Example
+
+```text
+      SUBPARA (xxiii)
+
+        Relevant elements of existing instruments and processes, including:
+
+        SUBPARA ▪
+
+          Convention on Biological Diversity;
+
+        SUBPARA ▪
+
+          Bonn Guidelines on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization;
+        
+        etc.
+```
+
+See the [Keyword reference](keyword-reference.md#bullets) for a list of copy/pastable bullets.
+
 ## Exercises
 
 ### Numbered elements
