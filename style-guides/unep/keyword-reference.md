@@ -29,6 +29,8 @@
 | ◦ | Empty circle |
 | ▪ | Filled square |
 | ▫ | Empty square |
+| ‑ | Short dash \(non-breaking hyphen, doesn't get picked up as a `-` \(the separation between number and heading\) |
+| — | Long dash |
 
 ## Table markup
 
