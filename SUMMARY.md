@@ -14,7 +14,14 @@
 
 * [Creating and editing works](managing-works/creating-and-editing-works/README.md)
   * [Working with commencements](managing-works/creating-and-editing-works/working-with-commencements.md)
-* [Amending works](managing-works/amending-works.md)
+* [Amending works](managing-works/amending-works/README.md)
+  * [Creating the amending work](managing-works/amending-works/creating-the-amending-work.md)
+  * [Linking the amendment](managing-works/amending-works/linking-the-amendment.md)
+  * [Creating a new document at the new point in time](managing-works/amending-works/creating-a-new-document-at-the-new-point-in-time.md)
+  * [Applying the amendments](managing-works/amending-works/applying-the-amendments.md)
+  * [Annotating the amendments](managing-works/amending-works/annotating-the-amendments.md)
+  * [Example](managing-works/amending-works/example.md)
+  * [Exercise](managing-works/amending-works/exercise.md)
 
 ## How-tos
 

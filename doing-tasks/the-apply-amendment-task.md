@@ -10,7 +10,7 @@
 
 {% page-ref page="../managing-works/creating-and-editing-works/" %}
 
-{% page-ref page="../managing-works/amending-works.md" %}
+{% page-ref page="../managing-works/amending-works/" %}
 
 {% hint style="info" %}
 Remember, the Amending work you create will probably be a Stub.
