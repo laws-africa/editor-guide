@@ -22,6 +22,7 @@
   * [Annotating the amendments](managing-works/amending-works/annotating-the-amendments.md)
   * [Example](managing-works/amending-works/example.md)
   * [Exercise](managing-works/amending-works/exercise.md)
+* [Bulk imports \(spreadsheet\)](managing-works/bulk-imports-spreadsheet.md)
 
 ## How-tos
 
