@@ -78,7 +78,7 @@ Content of the article...
 ```text
 Schedule 1: Amendment of laws
 
-(Section 43(3))
+[Section 43(3)]
 
 1. Heading heading
 
