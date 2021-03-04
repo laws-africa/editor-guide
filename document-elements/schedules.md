@@ -15,7 +15,7 @@ A schedule has a heading, such as 'Schedule 1', 'First Schedule', or sometimes j
 
 ```text
 SCHEDULE
-HEADING First Schedule [Section 2(1)]
+HEADING First Schedule (Section 2(1))
 SUBHEADING Laws to be repealed
 ```
 
