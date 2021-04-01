@@ -19,7 +19,7 @@ When you review someone else's work, your goals are to:
 5. Compare the document against the imported file.
 6. Note any changes to be made on the document using comments.
 7. If the first editor needs to make changes before the document can be published, click **Request changes** on the task. You can add a general comment at the same time.
-8. If the document is ready to be published, run 'Link \| Defined terms' again, click **Save & publish** on the document \(drop-down next to **Save draft**\), and click **Approve** on the task.
+8. If the document is ready to be published, link the defined terms again, click **Save & publish** on the document \(drop-down next to **Save draft**\), and click **Approve** on the task.
 9. If for some reason the document has already been published but changes still need to be made to it, click **Unpublish & save** on the document \(drop-down next to **Save & publish**\) before requesting changes. \(Only reviewers can make changes to published documents.\)
 
 {% hint style="info" %}
