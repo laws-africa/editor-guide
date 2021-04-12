@@ -22,6 +22,9 @@
   * [Annotating the amendments](managing-works/amending-works/annotating-the-amendments.md)
   * [Example](managing-works/amending-works/example.md)
   * [Exercise](managing-works/amending-works/exercise.md)
+  * [Consolidating the annotations](managing-works/amending-works/consolidating-the-annotations.md)
+  * [Simple example](managing-works/amending-works/example-1.md)
+  * [Complicated example](managing-works/amending-works/complicated-example.md)
 * [Bulk imports \(spreadsheet\)](managing-works/bulk-imports-spreadsheet.md)
 
 ## How-tos
@@ -43,6 +46,7 @@
 * [Preface, Long title, and Preamble](document-elements/preface-and-preamble.md)
 * [Chapters and Parts](document-elements/chapters.md)
 * [Schedules](document-elements/schedules.md)
+* [Annexures](document-elements/annexures.md)
 * [Special keywords \(summary\)](document-elements/keywords.md)
 
 ## Reviewing a document

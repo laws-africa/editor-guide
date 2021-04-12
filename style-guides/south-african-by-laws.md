@@ -34,3 +34,9 @@ Because by-laws in South Africa are often missing a ‘short title’ section, a
 * Street Trading
 * Tariff
 
+## Cleaning up a by-law
+
+Remove names and titles of officers eg.  DR J H LEIBBRANDT, CITY MANAGER
+
+
+
