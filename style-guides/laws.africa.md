@@ -55,24 +55,22 @@ If a term is consistently used in the upper case in a work, it should be used in
 
 ## Footnotes
 
-* Use superscript numbering, but not if they go above ⁹. If they go above 9, use \[10\] etc for _all_ footnote numbers \(otherwise we end up with ¹⁰, which doesn't look wonderful\).
+* Always use superscript numbering, marked up with surrounding `^^`s, e.g. `here comes a footnote^^1^^`.
 * Where possible, give the footnote at the end of the section \(even though it's at the bottom of the page in the original\).
 * Don't use a space after the footnote number in the text.
 * Do use a space after the number in the footnote.
 * If in doubt, follow the punctuation and spacing used in the original.
-
-Here are some numbers to copy / paste: ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
 
 ### Example
 
 ```text
 10. Chocolate pie
 
-(1) All citizens will be given one slice¹ of chocolate pie.
+(1) All citizens will be given one slice^^1^^ of chocolate pie.
 
 (2) No one has to share their pie with anyone.
 
-¹ A slice should be at least 10cm long and 2cm wide.
+^^1^^ A slice should be at least 10cm long and 2cm wide.
 
 11. Rest of Act
 

@@ -47,7 +47,7 @@
 * [Chapters and Parts](document-elements/chapters.md)
 * [Schedules](document-elements/schedules.md)
 * [Annexures](document-elements/annexures.md)
-* [Special keywords \(summary\)](document-elements/keywords.md)
+* [Keyword reference](document-elements/keywords.md)
 
 ## Reviewing a document
 
