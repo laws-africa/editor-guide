@@ -23,11 +23,13 @@ Please visit [our website](https://laws.africa) for more information.
 Looks like this in Edit mode:
 
 ```text
-Please visit [https://laws.africa](https:\/\/laws.africa) for more information.
+Please visit [https://laws.africa]() for more information.
 ```
 
-{% hint style="info" %}
-The `\`s are there in the link text to keep the editor from thinking that we're trying to mark up the text between `//`s,`laws.africa](https:`, in italics.
+{% hint style="warning" %}
+It's not possible at the moment to link text with `//` included, because of the conflict with `//italics//` markup.  
+
+For the time being, please leave the link empty and make a note that the text needs to be linked.
 {% endhint %}
 
 ## How to manually remove a link
