@@ -22,9 +22,9 @@
   * [Annotating the amendments](managing-works/amending-works/annotating-the-amendments.md)
   * [Example](managing-works/amending-works/example.md)
   * [Exercise](managing-works/amending-works/exercise.md)
-  * [Consolidating the annotations](managing-works/amending-works/consolidating-the-annotations.md)
-  * [Simple example](managing-works/amending-works/example-1.md)
-  * [Complicated example](managing-works/amending-works/complicated-example.md)
+  * [Consolidating the annotations](managing-works/amending-works/consolidating-the-annotations/README.md)
+    * [Simple example](managing-works/amending-works/consolidating-the-annotations/example-1.md)
+    * [Complicated example](managing-works/amending-works/consolidating-the-annotations/complicated-example.md)
 * [Bulk imports \(spreadsheet\)](managing-works/bulk-imports-spreadsheet.md)
 
 ## How-tos
