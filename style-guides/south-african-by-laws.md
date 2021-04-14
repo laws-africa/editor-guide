@@ -36,6 +36,8 @@ Because by-laws in South Africa are often missing a ‘short title’ section, a
 
 ## Cleaning up a by-law
 
+Please remove the names and titles of officers, eg.  DR J H LEIBBRANDT, CITY MANAGER
+
 Remove names and titles of officers eg.  DR J H LEIBBRANDT, CITY MANAGER
 
 
