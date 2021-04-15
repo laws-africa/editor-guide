@@ -1,8 +1,4 @@
----
-description: Inserting editorial note
----
-
-# Untitled
+# Inserting editorial notes
 
 Where there is a very obvious error in numbering in the original Gazette, as well as making a comment in the margin please also insert an editorial note in the actual document, like this:
 
