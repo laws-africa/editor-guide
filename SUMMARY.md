@@ -38,7 +38,7 @@
 * [Inserting an image](how-tos/images.md)
 * [Inserting special characters](how-tos/special-characters.md)
 * [Resolving editor warnings](how-tos/editor-warnings.md)
-* [Inserting editorial notes](how-tos/untitled.md)
+* [Inserting editorial notes](how-tos/inserting-editorial-notes.md)
 * [Changing a document's date](how-tos/change-a-documents-date.md)
 * [Search and rescue](how-tos/search-and-rescue.md)
 
