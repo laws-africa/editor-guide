@@ -7,7 +7,7 @@
 3. Insert the link in \(round brackets\), immediately after the closing square bracket \(no space\).
 
 {% hint style="info" %}
-The link \(in round brackets\) should never include spaces, and should always start `https://` or `http://`.
+The link \(in round brackets\) should never include spaces, and should always start `https://` or `http://`if it's external.
 {% endhint %}
 
 ### Example: Text differs from link
