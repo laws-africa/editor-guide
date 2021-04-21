@@ -6,6 +6,10 @@
 2. Wrap the text you want to link in \[square brackets\].
 3. Insert the link in \(round brackets\), immediately after the closing square bracket \(no space\).
 
+{% hint style="info" %}
+The link \(in round brackets\) should never include spaces, and should always start `https://` or `http://`.
+{% endhint %}
+
 ### Example: Text differs from link
 
 > Please visit [our website](https://laws.africa) for more information.
