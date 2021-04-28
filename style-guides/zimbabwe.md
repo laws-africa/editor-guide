@@ -20,6 +20,8 @@ Change "s." or "Section" to "section"
 
 Remove the full stop at the end of the annotation \(if there is one\)
 
+Please do not make any additional changes to the existing annotations other than these.
+
 ### Example
 
 \[Section amended by section 4 of Act 22 of 2001.\]  
@@ -28,7 +30,7 @@ or
 becomes  
 \[section amended by section 4 of Act [22 of 2001](https://edit.laws.africa/works/akn/zw/act/2001/22)\]
 
-Do not make any additional changes to the existing annotations other than these.
+
 
 ## Other changes
 
