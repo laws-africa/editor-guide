@@ -1,5 +1,5 @@
 ---
-description: Style guide for importing and marking up legislation for Zimbabwe.
+description: Special instructions for cleaning up Zimbabwe imports
 ---
 
 # Zimbabwe
