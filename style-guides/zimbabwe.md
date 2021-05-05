@@ -6,11 +6,15 @@ description: Style guide for importing and marking up legislation for Zimbabwe.
 
 ## Importing the Word documents
 
-Import from the Word docs saved here:
+**NB: Use the Word docs to import, but use the pdfs as reference when cleaning up the imports.**
 
-[https://drive.google.com/drive/u/1/folders/1hQubPO35alWRr-xEg\_SAXw\_IX30Tz6qh](https://drive.google.com/drive/u/1/folders/1hQubPO35alWRr-xEg_SAXw_IX30Tz6qh)
+Word docs saved here:  
+[https://drive.google.com/drive/u/1/folders/1hQubPO35alWRr-xEg\_SAXw\_IX30Tz6qh](https://drive.google.com/drive/u/1/folders/1NuC-suAyCXXBJvP7vD_ZYwMQz0Gc7gKh)
 
-Use the Word doc to import, but use the pdf as reference when cleaning up the import. The pdfs are saved in a folder in the same location as the Word docs.
+Pdfs saved here:  
+[https://drive.google.com/drive/u/1/folders/1u\_If\_mzwdh9c9YiKShVax9AcamRsGiJl](https://drive.google.com/drive/u/1/folders/1u_If_mzwdh9c9YiKShVax9AcamRsGiJl)
+
+
 
 ## Annotations
 
@@ -36,9 +40,19 @@ becomes
 
 ## Other changes
 
+### Words incorrectly hyphenated
+
+Look out for random hyphens in words. This is occurring when a word was broken and hyphenated at the end of a line in the pdf, like this:
+
+![](../.gitbook/assets/image%20%28137%29.png)
+
+These are easier to spot in the pdf as they will always occur at the end of a line.  When you come across them, please delete the hyphen.
+
+### References in Acts
+
 For  references in the Acts, ie:
 
 ![](../.gitbook/assets/image%20%28132%29.png)
 
-wrap them in `[[double squares]]`.
+Please wrap these in `[[double squares]]`.to italicise them.
 
