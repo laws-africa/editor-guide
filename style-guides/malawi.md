@@ -22,15 +22,11 @@ The date that appears under the Long Title of the Act must be deleted.
 
 ![](../.gitbook/assets/image%20%28136%29.png)
 
-In the pdfs, there are references in the margins which, ie: 
+In the pdfs, there are references in the margins, ie: 
 
 ![](../.gitbook/assets/image%20%28138%29.png)
 
-In the Words docs, these references have been moved and should appear directly underneath the paragraph that they were next to in the pdf.   
+In the Words docs, these references have been moved and should appear directly below the section, subsection or paragraph that they appeared next to in the pdf.   
 Using the pdf as reference, please make sure that they have been placed in the correct position.  
-For the above example this is how they should be positioned:
-
-![](../.gitbook/assets/image%20%28142%29.png)
-
 They must be italicised so that they stand out from the rest of the text. If they are not italicised after import, please italicise them manually.
 
