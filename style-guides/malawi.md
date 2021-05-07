@@ -28,5 +28,5 @@ In the pdfs, there are references in the margins, ie:
 
 In the Words docs, these references have been moved and should appear directly below the section, subsection or paragraph that they appeared next to in the pdf.   
 Using the pdf as reference, please make sure that they have been placed in the correct position.  
-They must be italicised so that they stand out from the rest of the text. If they are not italicised after import, italicise them manually.
+Please wrap them in `[[double squares]]`.
 

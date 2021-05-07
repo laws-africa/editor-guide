@@ -54,7 +54,7 @@ For  references in the Acts, ie:
 
 ![](../.gitbook/assets/image%20%28132%29.png)
 
-Please wrap these in `[[double squares]]`.to italicise them.
+Please wrap these in `[[double squares]]`to italicise them.
 
 ### Section numbers written out as words
 
