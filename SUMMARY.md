@@ -29,6 +29,8 @@
 
 ## How-tos
 
+* [Tasks](how-tos/tasks.md)
+* [Importing a document](how-tos/importing-a-document.md)
 * [Cleaning up an import](how-tos/cleaning-up-an-import.md)
 * [Fixing all-caps headings](how-tos/fix-all-caps-headings.md)
 * [Indenting lists](how-tos/indented-lists.md)
@@ -38,6 +40,7 @@
 * [Inserting an image](how-tos/images.md)
 * [Inserting special characters](how-tos/special-characters.md)
 * [Resolving editor warnings](how-tos/editor-warnings.md)
+* [Making comments](how-tos/making-comments.md)
 * [Inserting editorial notes](how-tos/inserting-editorial-notes.md)
 * [Changing a document's date](how-tos/change-a-documents-date.md)
 * [Search and rescue](how-tos/search-and-rescue.md)
@@ -45,7 +48,7 @@
 ## Document elements
 
 * [Preface, Long title, and Preamble](document-elements/preface-and-preamble.md)
-* [Chapters and Parts](document-elements/chapters.md)
+* [Headings](document-elements/headings.md)
 * [Schedules](document-elements/schedules.md)
 * [Annexures](document-elements/annexures.md)
 * [Keyword reference](document-elements/keywords.md)
@@ -71,12 +74,6 @@
   * [Marking up formatting](style-guides/unep/marking-up-formatting.md)
   * [Keyword reference](style-guides/unep/keyword-reference.md)
 * [Zimbabwe](style-guides/zimbabwe.md)
-
-## Doing tasks
-
-* [The 'Import content' task](doing-tasks/the-import-content-task.md)
-* [The 'Create' task](doing-tasks/the-create-work-task.md)
-* [The 'Apply amendment' task](doing-tasks/the-apply-amendment-task.md)
 
 ## Administration
 

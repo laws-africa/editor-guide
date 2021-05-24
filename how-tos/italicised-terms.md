@@ -20,6 +20,8 @@ Laws.Africa will automatically search the document for the standard list of ital
 
 ## How to remove italics
 
+To remove italics from a single term, delete the surrounding `//`s. For example, `This //text// shouldn't be italicised` → `This text shouldn't be italicised`. 
+
 To remove italics from **all** italicised terms in the document:
 
 1. Click **Analysis** and then **Italicised terms**.
