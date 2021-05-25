@@ -36,6 +36,7 @@
 * [Indenting lists](how-tos/indented-lists.md)
 * [Working with links](how-tos/work-with-links.md)
 * [Working with italicised terms](how-tos/italicised-terms.md)
+* [Marking up formatting](how-tos/marking-up-formatting.md)
 * [Marking up tables](how-tos/tables.md)
 * [Inserting an image](how-tos/images.md)
 * [Inserting special characters](how-tos/special-characters.md)
