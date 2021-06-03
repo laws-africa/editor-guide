@@ -31,5 +31,9 @@ Content and structure is more important than matching exactly what the text look
     * [Resolve all editor warnings](editor-warnings.md).
     * Check the [Reviewer checklist](../reviewing-a-document/reviewer-checklist.md).
     * Run 'Analysis \| Defined terms'.
-    * **Save draft**, and close the document.
+    * **Save draft.**
+    * Return to the Task page by clicking on "Tasks" which is on the top right of the ribbon at the top of the page.
+11. Submitting the task for review:
+    *  On the tasks page there is an "Add a comment" button if you need to alert the reviewer to anything before submitting for review.
+    * **Submit for review**.
 
