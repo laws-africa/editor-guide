@@ -20,7 +20,7 @@ Pdfs saved here:
 
 For the existing annotations in the consolidated Acts:
 
-Change "s." or "Section" to "section", "Subsection" to "subsection", "Paragraph" to "paragraph" and "Definition" to "definition".
+Change "s." or "Section" to "section", "Subsection" to "subsection", "Paragraph" to "paragraph",  "Definition" to "definition" and "Proviso" to "proviso".
 
 Remove the full stop at the end of the annotation \(if there is one\)
 
