@@ -44,16 +44,14 @@ Introductory text:
 
 When you're done, it should look like this in View mode:
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%28184%29.png)
 
 and like this in Edit mode:
 
 ```text
 1. First section of principal Act
 
-(1) ...
-
-[[subsection (1) deleted by section 1 of Act 5 of 2012]]
+(1) [[subsection (1) deleted by section 1 of Act 5 of 2012]]
 
 (2) This one will be left alone.
 
