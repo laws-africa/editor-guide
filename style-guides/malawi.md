@@ -8,11 +8,8 @@ description: Special instructions for cleaning up Malawi imports
 
 **NB: Use the Word docs to import, but use the pdfs as reference when cleaning up the imports.**
 
-Word docs saved here:  
-[https://drive.google.com/drive/folders/1KJRhHwvRRFvZnQrtwnZonJY8gEJmTJAJ](https://drive.google.com/drive/folders/1KJRhHwvRRFvZnQrtwnZonJY8gEJmTJAJ)
-
-Pdfs are saved here:  
-[https://drive.google.com/drive/folders/1wbmyN3hXiCkR\_F0l7AZDgsI-1oE2lUy4](https://drive.google.com/drive/folders/1wbmyN3hXiCkR_F0l7AZDgsI-1oE2lUy4)
+Word docs and pdfs are saved here:  
+[https://drive.google.com/drive/folders/1KJRhHwvRRFvZnQrtwnZonJY8gEJmTJAJ](https://drive.google.com/drive/folders/1wbmyN3hXiCkR_F0l7AZDgsI-1oE2lUy4)
 
 ## Cleaning up the import
 
