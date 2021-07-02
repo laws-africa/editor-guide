@@ -21,8 +21,9 @@ The references and date that appear alongside/under the Long Title of the Act mu
 
 ![](../.gitbook/assets/image%20%28185%29.png)
 
-The margin references in the pdfs have been moved into the body of the Act in the  Words docs.   
-These references must be  in `[[double squares]]`.  
+The margin references in the pdfs have been moved into the body of the Act in the  Word docs.   
+These references must be  in `[[double squares]]`and **no changes** must be made to their wording.
+
 Using the pdf as reference, check that they have been placed correctly by following these instructions:
 
 * if the reference/s appear directly under the section heading in the margin of the pdf they apply to that entire section, so should be positioned right at the end of that section.
