@@ -57,6 +57,10 @@ SUBPART A - Fines
 (1) Fines should never …
 ```
 
+{% hint style="warning" %}
+If the Subpart doesn't have a number, you should still use a hyphen before the heading – otherwise the heading will be recorded as the number in the XML.
+{% endhint %}
+
 ## How to mark up Crossheadings
 
 Only use Crossheadings when no other type of heading or grouping makes sense. This happens most often in Schedules.
