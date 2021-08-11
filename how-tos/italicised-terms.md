@@ -11,12 +11,20 @@ To see the list of italicised terms for a country:
 
 The listed terms will be italicised if you click **Mark up italics**.
 
+![](../.gitbook/assets/image%20%28191%29.png)
+
+![](../.gitbook/assets/image%20%28195%29.png)
+
 ## How to italicise terms
 
 1. Click **Analysis** and then **Italicised terms**.
 2. Click **Mark up italics**.
 
 Laws.Africa will automatically search the document for the standard list of italicised terms for the current country, and italicise them.
+
+The 'In this document' tab displays the terms that have been italicised in the current document.
+
+![](../.gitbook/assets/image%20%28193%29.png)
 
 ## How to remove italics
 
