@@ -60,6 +60,8 @@ Remove the full stop at the end of the annotation \(if there is one\)
 
 Please do not make any additional changes to the existing annotations, including the annotations in the definitions.
 
-  
+## Subsidiary legislation
+
+**Subsidiary legislation** which sometimes appears after an Act is not to be included in the import of a document, please remove if it is there.  
 
 
