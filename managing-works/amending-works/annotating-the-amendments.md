@@ -50,3 +50,9 @@ or:
 * When annotating a piece of text that is already indented \(like a paragraph\), use an extra tab for the annotation to make sure it gets indented under the paragraph.
 * When the amending work doesn't have an Act number, use its short title.
 
+## Placement of annotations when new Chapter/Part/Schedule is inserted
+
+* When an entire new Chapter/Part/Schedule is **inserted** place the annotation at the top, directly underneath the heading.
+* Also place an annotation underneath each section in the new Chapter/Part. These annotations are only inserted when the Chapter/Part has been **inserted**, not if it has been **substituted**.
+* When a new Schedule is inserted, just the one heading at the top is necessary.
+
