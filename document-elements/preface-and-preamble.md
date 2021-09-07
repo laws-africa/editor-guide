@@ -53,10 +53,18 @@ WHEREAS everyone has the constitutional right to an environment that is not harm
 BE IT ENACTED by the Council of the City of Cape Town as follows:—
 ```
 
+## The enactment clause
+
+The enactment clause usually starts with the phrase "Be it enacted . . . " 
+
+If there is a Preamble, this clause will be at the end of the Preamble before the Body.
+
+If there is no Preamble, this clause will be at the end of the Preface after the Longtitle.
+
 ## Exercise
 
 1. Copy and paste the text below into a blank document in your editor.
-2. Click **Update**. Note that the text is correct, but the Table of Contents on the left-hand side does not include a Preface or a Preamble, and the Long title is not bold.
+2. Click **Update**. Note that the text is correct, but the Table of contents on the left-hand side does not include a Preface or a Preamble, and the Long title is not bold.
 3. Click **Edit** and fix the ordering and the markup so that the Preface comes first, including the Long title, then the Preamble, and then the main body, as in the screenshots below.
 
 ```text
