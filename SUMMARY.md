@@ -66,6 +66,7 @@
 * [Nigeria](style-guides/nigeria.md)
 * [South African Acts](style-guides/south-african-acts.md)
 * [South African By-laws](style-guides/south-african-by-laws.md)
+* [Tanzania](style-guides/tanzania.md)
 * [Uganda](style-guides/uganda.md)
 * [UNEP](style-guides/unep/README.md)
   * [Marking up the structure](style-guides/unep/marking-up-the-structure.md)
