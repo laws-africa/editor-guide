@@ -60,7 +60,7 @@ Cap. references are inconsistent in pdf - sometimes a space between the full sto
 
 #### Missing spaces
 
-If there are spaces missing between words, or in the references in margin notes, please insert them. Example:
+If there are spaces missing  in the references in margin notes, please insert them. Example:
 
 ![](../.gitbook/assets/image%20%28200%29.png)
 
@@ -69,16 +69,6 @@ Should look like this:
 `[G.N. No. 41 of 1992]`
 
 
-
-## Annotations
-
-For the existing annotations in the consolidated Acts:
-
-Change "s." or "Section" to "section", "Subsection" to "subsection", "Paragraph" to "paragraph",  "Definition" to "definition",  "Proviso" to "proviso", "Long Title" to "long title", "Heading" to "heading" and "Item" to "item". The only ones that must remain capitalised are "Chapter", "Part" and "Schedule".
-
-Remove the full stop at the end of the annotation \(if there is one\)
-
-Please do not make any additional changes to the existing annotations, including the annotations in the definitions.
 
 ## Subsidiary legislation
 
