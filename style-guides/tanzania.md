@@ -9,7 +9,7 @@ Word docs and pdfs are saved here:
 
 ## Cleaning up the import
 
-### Things to look out for in Malawi
+### Things to look out for in Tanzania
 
 #### Margin references
 
