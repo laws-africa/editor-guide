@@ -54,7 +54,7 @@ Please string them together, like this :
 
 `[Acts Nos. 2 of 2010 s. 19; 13 of 2017 s. 4]`
 
-So, full stop after "No." or "Nos." and spaces between "s." or "ss." and their corresponding numbers.
+So, full stop after "No." or "Nos." and spaces between "s." or "ss." and their corresponding numbers. Use a semi-colon to separate the Acts in the list.
 
 Cap. references are inconsistent in pdf - sometimes there is a space between the full stop and the number and sometimes no space. Please insert a space if there isn't one. Also, sometimes Cap has a full stop and sometime not, please give all a full stop after Cap. so that all of the Cap. references look like this:
 
