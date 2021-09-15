@@ -52,9 +52,11 @@ If there is a string of references in one margin note in the pdf, like this:
 
 Please string them together, like this :
 
-`[Acts Nos 2 of 2010 s.19, 13 of 2017 s.4]`
+`[Acts Nos. 2 of 2010 s. 19; 13 of 2017 s. 4]`
 
-Cap. references are inconsistent in pdf - sometimes a space between the full stop and the number and sometimes no space. Please insert a space if there isn't one. Also, sometimes Cap has a full stop and sometime not, please give all a full stop after Cap. so that all of the Cap. references look like this:
+So, full stop after "No." or "Nos." and spaces between "s." or "ss." and their corresponding numbers.
+
+Cap. references are inconsistent in pdf - sometimes there is a space between the full stop and the number and sometimes no space. Please insert a space if there isn't one. Also, sometimes Cap has a full stop and sometime not, please give all a full stop after Cap. so that all of the Cap. references look like this:
 
 `[Cap. 113]`
 
@@ -67,6 +69,14 @@ If there are spaces missing  in the references in margin notes, please insert th
 Should look like this:
 
 `[G.N. No. 41 of 1992]`
+
+and 
+
+`[Acts Nos 2 of 2010 s.19 13 of 2017 s.4]`
+
+Should look like this:
+
+`[Acts Nos. 2 of 2010 s. 19; 13 of 2017 s. 4]`
 
 
 
