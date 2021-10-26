@@ -8,7 +8,7 @@ Taxonomies are used to group works into collections. The platform supports multi
 
 ## About taxonomies
 
-A taxonomy is a collection of labels called **topics**. A topic can have one or two levels, forming a shallow hierarchy. 
+A taxonomy is a collection of labels called **topics**. A topic can have one or two levels, forming a shallow hierarchy.&#x20;
 
 A taxonomy has these properties:
 
@@ -16,13 +16,13 @@ A taxonomy has these properties:
 * Authority: the organisation that is responsible for this Taxonomy
 * Name: the short name for the taxonomy, based on the title
 * Slug: a code name for the taxonomy used in the API. This is generated automatically from the authority and the name.
-* Topics: topics with a level 1 name, and \(optionally\) a level 2 name
+* Topics: topics with a level 1 name, and (optionally) a level 2 name
 
 For example, here is a small two-level subject area taxonomy called 'Legislative Subject Areas':
 
-* Title: Legislative Subject Areas \(title\)
+* Title: Legislative Subject Areas (title)
 * Topics:
-  * Level 1: Money and Business \(level 1\)
+  * Level 1: Money and Business (level 1)
     * Level 2: Contracts
     * Level 2: Taxation
   * Level 1: People and Work
@@ -55,7 +55,7 @@ To edit an existing taxonomy:
 2. Under **Indigo API** click on **Taxonomies**
 3. Click on the taxonomy to edit
 4. Make your changes
-5. To delete a topic, check the **Delete** checkbox
+5. To delete a topic, check the **Delete **checkbox
 6. Click **Save**
 
 ## Deleting a taxonomy
@@ -66,4 +66,3 @@ Deleting a taxonomy will remove it from any works linked to it. To delete a taxo
 2. Under **Indigo API** click on **Taxonomies**
 3. Click on the taxonomy to delete
 4. Click **Delete**
-

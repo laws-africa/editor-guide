@@ -8,12 +8,12 @@ A schedule has a heading, such as 'Schedule 1', 'First Schedule', or sometimes j
 
 1. Introduce the Schedule with `SCHEDULE`.
 2. Put the schedule heading on the next line using the `HEADING` keyword.
-3. If there is a section \(or similar\) reference, include it in the heading.
+3. If there is a section (or similar) reference, include it in the heading.
 4. If the schedule has a subheading, put it after the heading line, using the `SUBHEADING` keyword.
 
 ### Example
 
-```text
+```
 SCHEDULE
 HEADING First Schedule (Section 2(1))
 SUBHEADING Laws to be repealed
@@ -27,23 +27,23 @@ Do not use `CROSSHEADING` for the Schedule heading or subheading.
 
 If the Schedule has numbered sections or numbered paragraphs with headings, mark them up in the same way you would for numbered sections:
 
-```text
+```
 2. Heading of the paragraph
 
 Content of the paragraph...
 ```
 
- If the Schedule has numbered paragraphs that don't have headings, use the `PARA` keyword instead. 
+&#x20;If the Schedule has numbered paragraphs that don't have headings, use the `PARA` keyword instead.&#x20;
 
-```text
+```
 PARA 2. Content of the paragraph...
 ```
 
 ### How to indent subparagraphs
 
-When a numbered paragraph \(`PARA`\) has numbered subparagraphs, ensure that you indent the subparagraphs so that the system recognises them as a subparagraph, and not as a subsection:
+When a numbered paragraph (`PARA`) has numbered subparagraphs, ensure that you indent the subparagraphs so that the system recognises them as a subparagraph, and not as a subsection:
 
-```text
+```
 PARA 1.
 
     (1) This should align nicely.
@@ -55,7 +55,7 @@ PARA 1.
 The subparagraph won't be indented correctly if you use the wrong markup.
 {% endhint %}
 
-```text
+```
 PARA 3. (1) This, on the other hand, will not be correctly indented.
 
 (2) And neither will this.
@@ -63,9 +63,9 @@ PARA 3. (1) This, on the other hand, will not be correctly indented.
 
 ## Articles in schedules
 
-If the Schedule uses numbered Articles and not paragraphs, use the `Article` keyword like you would for a Chapter. 
+If the Schedule uses numbered Articles and not paragraphs, use the `Article` keyword like you would for a Chapter.&#x20;
 
-```text
+```
 Article 1 - Heading of the Article
 
 Content of the article...
@@ -75,7 +75,7 @@ Content of the article...
 
 * [ ] Copy and paste the text below into the editor.
 
-```text
+```
 Schedule 1: Amendment of laws
 
 [Section 43(3)]
@@ -129,13 +129,17 @@ Content content content.
 ```
 
 * [ ] Click Update.
-* [ ] Quick-edit Schedule 1:  Fix the heading and subheading;  Put the section reference in the right place and change the brackets.
-* [ ] Quick edit Schedule 2:  Use `PARA`s;  Update, and fix `PARA` 3 by indenting the subparagraphs.
-* [ ] Quick edit Schedule 3:  Fix the subheading;  Put the Article headings in the right place.
+* [ ] Quick-edit Schedule 1: \
+  Fix the heading and subheading; \
+  Put the section reference in the right place and change the brackets.
+* [ ] Quick edit Schedule 2: \
+  Use `PARA`s; \
+  Update, and fix `PARA` 3 by indenting the subparagraphs.
+* [ ] Quick edit Schedule 3: \
+  Fix the subheading; \
+  Put the Article headings in the right place.
 
 Once you're done, your Schedules should look like this:
 
-![](../.gitbook/assets/image%20%2820%29.png)
-
-
+![](<../.gitbook/assets/image (20).png>)
 

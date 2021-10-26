@@ -1,18 +1,18 @@
 # Exercise
 
-Act 5 of 2012 has the following provisions: 
+Act 5 of 2012 has the following provisions:&#x20;
 
-> 1. In section 1 of the principal Act, delete subsection \(1\).   
-> 2. In section 3 of the principal Act, insert the following after paragraph \(a\):   
->     "\(aA\) a new paragraph;"  
-> 3. In section 4 of the principal Act, substitute subsection \(2\) with the following:   
->     "\(2\) New subsection."
+> 1\. In section 1 of the principal Act, delete subsection (1). \
+> 2\. In section 3 of the principal Act, insert the following after paragraph (a): \
+> &#x20;   "(aA) a new paragraph;"\
+> 3\. In section 4 of the principal Act, substitute subsection (2) with the following: \
+> &#x20;   "(2) New subsection."
 
 1. Copy and paste the text below into the editor.
 2. Apply the amendments given above.
 3. Annotate the amendments.
 
-```text
+```
 1. First section of principal Act
 
 (1) First subsection, will be deleted.
@@ -44,11 +44,11 @@ Introductory text:
 
 When you're done, it should look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28184%29.png)
+![](<../../.gitbook/assets/image (184).png>)
 
 and like this in Edit mode:
 
-```text
+```
 1. First section of principal Act
 
 (1) [[subsection (1) deleted by section 1 of Act 5 of 2012]]
@@ -82,6 +82,4 @@ This one will be left alone.
 [[subsection (2) substituted by section 3 of Act 5 of 2012]]
 
 ```
-
-
 

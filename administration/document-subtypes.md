@@ -17,7 +17,7 @@ To add a document subtype:
 5. Click **Save**
 
 {% hint style="info" %}
-Use only lowercase in the **abbreviation** and replace spaces with ****hyphens \(-\).
+Use only lowercase in the **abbreviation** and replace spaces with** **hyphens (-).
 {% endhint %}
 
 ![](../.gitbook/assets/document-subtype.png)
@@ -30,7 +30,7 @@ To edit a document subtype:
 
 1. Open the admin interface
 2. Under **Indigo API** click **Document subtypes**
-3. Click on the document subtype you want to edit 
+3. Click on the document subtype you want to edit&#x20;
 4. Make your changes
 5. Click **Save**
 
@@ -46,4 +46,3 @@ To delete a document subtype:
 {% hint style="warning" %}
 You cannot delete a document subtype that is associated with works. Delete the works first.
 {% endhint %}
-

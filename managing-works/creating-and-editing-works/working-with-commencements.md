@@ -2,7 +2,7 @@
 
 Works can commence, or come into force, in a couple of different ways; each is discussed below.
 
-Until a work has commenced, none of its actions \(amending or repealing another work, for example\) can be done yet, because the provisions of an uncommenced work do not yet have legal force.
+Until a work has commenced, none of its actions (amending or repealing another work, for example) can be done yet, because the provisions of an uncommenced work do not yet have legal force.
 
 Different provisions of a work may commence on different dates.
 
@@ -10,7 +10,7 @@ Different provisions of a work may commence on different dates.
 It is possible for a work to be assented to and promulgated, but never commence.
 {% endhint %}
 
-## Commenced by itself \(no commencing work\)
+## Commenced by itself (no commencing work)
 
 In this case, all the provisions of the work commence on publication.
 
@@ -18,15 +18,15 @@ In this case, all the provisions of the work commence on publication.
 In some jurisdictions, the default commencement date is the date of assent – refer to the Interpretation Act of the jurisdiction you are working in to check.
 {% endhint %}
 
-Sometimes, the 'Short title and commencement' or 'Commencement' section of the work will specify a commencement date \(finance-related works often give 1 April or 1 July as their commencement dates\).
+Sometimes, the 'Short title and commencement' or 'Commencement' section of the work will specify a commencement date (finance-related works often give 1 April or 1 July as their commencement dates).
 
 When this is the case, you should check 'Commenced' and give the relevant date when initially creating the work on the platform.
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](<../../.gitbook/assets/image (75).png>)
 
 ## Commencement by notice
 
-A commencement notice can give: 
+A commencement notice can give:&#x20;
 
 * the date on which an entire work commences
 * different dates for different provisions of a work
@@ -36,12 +36,13 @@ A commencement notice can give:
 
 In this case, all the provisions of the work commence on the same date; this date is given in a Commencing work, often a notice, which will be gazetted like all other works.
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](<../../.gitbook/assets/image (5).png>)
 
 When this is the case, you should:
 
-1. Create the Commencing work on the platform first, as with any other work \(it will be a 'stub' if it's a notice\). 
-   * For the title, use the name of the principal work and add ': Commencement'.  For example, 'Namibia Institute of Pathology Act, 1999: Commencement'.
+1. Create the Commencing work on the platform first, as with any other work (it will be a 'stub' if it's a notice).&#x20;
+   * For the title, use the name of the principal work and add ': Commencement'. \
+     For example, 'Namibia Institute of Pathology Act, 1999: Commencement'.
    * For the subtype and number, use 'gn' for a Government Notice and the number of the notice.
 2. Edit the work that has been commenced: check 'Commenced', give the commencement date, and choose the Commencing work that you created in Step 1 under **Choose commencing work**. You can use the notice number to search for it in the popup.
 
@@ -49,17 +50,17 @@ When this is the case, you should:
 Commencement notices always commence on publication.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](<../../.gitbook/assets/image (31).png>)
 
 ### Different provisions commence on different dates
 
 In this case, a Commencing work will specify which provisions commence on which date.
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](<../../.gitbook/assets/image (65).png>)
 
 When this is the case, you should:
 
-1. Create the Commencing work on the platform first, as with any other work \(commencement notices are usually stubs\).
+1. Create the Commencing work on the platform first, as with any other work (commencement notices are usually stubs).
 2. Instead of editing the work directly, go to the work's 'Commencements' tab.
 3. Click **Add commencement**, and choose the Commencing work that you created in Step 1. You can use the notice number to search for it in the popup. The commencement will automatically save, but will need to be edited.
 4. Click **Edit** on the commencement you just created.
@@ -68,38 +69,38 @@ When this is the case, you should:
 7. Save.
 
 {% hint style="info" %}
-If the commencement notice gives Chapters \(the provisions list only contains sections\), open the published document on the work to see which sections are in those Chapters.
+If the commencement notice gives Chapters (the provisions list only contains sections), open the published document on the work to see which sections are in those Chapters.
 {% endhint %}
 
 {% hint style="warning" %}
-If the commencement notice gives provisions below the secion level, these can only be recorded using editorial notes for the time being. 
+If the commencement notice gives provisions below the secion level, these can only be recorded using editorial notes for the time being.&#x20;
 
-In the above example, an editorial note would be added below both section 97\(3\) and 97\(4\), each of which reads   
-_\[subsection \(3\) commenced on 21 March 2020 by GN 123 of 2020\]_,   
+In the above example, an editorial note would be added below both section 97(3) and 97(4), each of which reads \
+_\[subsection (3) commenced on 21 March 2020 by GN 123 of 2020]_, \
 with the correct details filled in. The notice number should be linked before the document is published.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](<../../.gitbook/assets/image (60).png>)
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](<../../.gitbook/assets/image (74).png>)
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](<../../.gitbook/assets/image (36).png>)
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](<../../.gitbook/assets/image (82).png>)
 
 ### Certain provisions commence but only in relation to other provisions
 
 This is rare, but sometimes we get a commencement notice like this:
 
-> In terms of section 65 of the Disaster Management Act, 2002 \(Act No, 57 of 2002\), I hereby determine -
+> In terms of section 65 of the Disaster Management Act, 2002 (Act No, 57 of 2002), I hereby determine -
 >
-> > \(a\) '1 April 2004 as the date on which -
+> > (a) '1 April 2004 as the date on which -
 > >
-> > > \(i\) Chapters 2, 3 and 4 of the said Act; and
+> > > (i) Chapters 2, 3 and 4 of the said Act; and
 > > >
-> > > \(ii\) Chapters 1, 6 and 8 of the said Act **in so far as they relate to the Chapters referred in sub-subparagraph \(i\)**, shall come into operation; and
+> > > (ii) Chapters 1, 6 and 8 of the said Act **in so far as they relate to the Chapters referred in sub-subparagraph (i)**, shall come into operation; and
 > >
-> > \(b\) 1 July 2004 as the date on which the remaining provisions of the said Act shall come into operation.
+> > (b) 1 July 2004 as the date on which the remaining provisions of the said Act shall come into operation.
 
 In this case:
 
@@ -109,7 +110,7 @@ In this case:
 
 ## Insertion of new sections by amendment
 
-When an amendment inserts a new section, we take that new section as having commenced on the date of the amendment. \(Something can't be in force if it doesn't exist yet.\)
+When an amendment inserts a new section, we take that new section as having commenced on the date of the amendment. (Something can't be in force if it doesn't exist yet.)
 
 When this is the case, you should, after having applied the amendment that inserts a new section:
 
@@ -123,4 +124,3 @@ When this is the case, you should, after having applied the amendment that inser
 5. The date should be the date of commencement of the amendment.
 6. Uncheck 'Commences all provisions' if it is checked, and choose the section/s that were inserted on this date.
 7. Save.
-

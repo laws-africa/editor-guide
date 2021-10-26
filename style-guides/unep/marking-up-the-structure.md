@@ -7,13 +7,13 @@ After working through this section, you should be able to:
 * Mark up numbered elements
 * Mark up nested elements.
 
-## Introduction <a id="introduction"></a>
+## Introduction <a href="introduction" id="introduction"></a>
 
 The parser relies on indentation to group content and reflect the hierarchical structure of a document.
 
 Keywords introduce a group, and everything that falls into that group is indented below the keyword.
 
-## Top-level structure <a id="numbered-elements"></a>
+## Top-level structure <a href="numbered-elements" id="numbered-elements"></a>
 
 At the highest level, a document is broken up into the following blocks:
 
@@ -23,11 +23,11 @@ At the highest level, a document is broken up into the following blocks:
 * `SCHEDULE(s)`
 
 {% hint style="info" %}
-In UN documents, we use `PREAMBLE` for text like   
-'_The Conference of the Parties,  
-Recognizing X,  
-Appreciative of Y, etc_'  
-before the first paragraph or heading \(see below for an exception\).
+In UN documents, we use `PREAMBLE` for text like \
+'_The Conference of the Parties,_\
+_Recognizing X,_\
+_Appreciative of Y, etc_'\
+before the first paragraph or heading (see below for an exception).
 
 We haven't yet found a use for `PREFACE`.
 
@@ -38,7 +38,7 @@ If there is no Preface or Preamble, `BODY` will be assumed until a [Schedule-lik
 
 ### Example
 
-```text
+```
 PREFACE
 
     Content of preface.
@@ -61,7 +61,7 @@ SCHEDULE
 The content of `BODY` doesn't need to be indented under it, because it's the main block.
 {% endhint %}
 
-## Hierarchical structure <a id="numbered-elements"></a>
+## Hierarchical structure <a href="numbered-elements" id="numbered-elements"></a>
 
 Within the main body and in Schedules, content is often grouped under headings.
 
@@ -71,24 +71,24 @@ The pattern for hierarchical elements is as follows:
 
 * On a new line, the keyword, e.g. `DIVISION` for a division
 * On the same line, optionally, a space and a number
-* On the same line, optionally,  `-`  and a heading
+* On the same line, optionally, `  -  ` and a heading
 * On the next line, optionally, an indent and `SUBHEADING`, followed by a space and the subheading
 * Below the main heading, indented, the content of the grouping
 * To mark the end of the grouping, unindent the next element.
 
 ### Tips
 
-* If there is a number and no heading, you don't need to use a  `-` .
-* If there is no number but there is a heading, you need to use a  `-`  to indicate the start of the heading.
-* If there is a number and a heading, the  `-`  should come between the number and the heading.
+* If there is a number and no heading, you don't need to use a `  -  `.
+* If there is no number but there is a heading, you need to use a `  -  ` to indicate the start of the heading.
+* If there is a number and a heading, the `  -  ` should come between the number and the heading.
 
-See the examples below for an illustration, paying close attention to the placement of the  `-` .
+See the examples below for an illustration, paying close attention to the placement of the `  -  `.
 
 ### Examples
 
 #### Number and no heading
 
-```text
+```
 DIVISION A
 
     Content of this division (can be Subdivisions, paragraphs, normal text, etc).
@@ -97,7 +97,7 @@ DIVISION A
 
 #### No number, heading
 
-```text
+```
 DIVISION - Financial reporting
 
     Content of the (unnumbered) 'Financial reporting' Division.
@@ -106,7 +106,7 @@ DIVISION - Financial reporting
 
 #### Number and heading
 
-```text
+```
 DIVISION A - Financial reporting
 
     Content of Division A.
@@ -115,7 +115,7 @@ DIVISION A - Financial reporting
 
 #### Subheading
 
-```text
+```
 DIVISION A - Financial reporting
     SUBHEADING How to do it right
     
@@ -125,7 +125,7 @@ DIVISION A - Financial reporting
 
 #### More examples
 
-```text
+```
 DIVISION 1 - Title
     SUBHEADING Some more detail
     
@@ -151,7 +151,7 @@ DIVISION 2
 If the content isn't indented, it won't be captured correctly and the keyword will be captured as text.
 {% endhint %}
 
-## Numbered elements <a id="numbered-elements"></a>
+## Numbered elements <a href="numbered-elements" id="numbered-elements"></a>
 
 The most common grouping of content is numbered paragraphs.
 
@@ -159,7 +159,7 @@ The pattern for all numbered elements is as follows:
 
 * On a new line, the keyword, e.g. `PARA` for paragraph
 * On the same line, a space and number
-* On the same line, optionally, after the number,  `-`  and a heading
+* On the same line, optionally, after the number, `  -  ` and a heading
 * Below it, indented, the content of the element
 * To mark the end of an element, unindent the text.
 
@@ -167,9 +167,9 @@ The pattern for all numbered elements is as follows:
 Note the similarity to the markup for hierarchical elements.
 {% endhint %}
 
-### Example <a id="example"></a>
+### Example <a href="example" id="example"></a>
 
-```text
+```
 PARA 1. - Heading
 
   Content of first paragraph.
@@ -182,15 +182,15 @@ This text won't fall inside Paragraph 1.
 If the content of an element is not indented, it won't be captured correctly and the keyword will be captured as text.
 {% endhint %}
 
-## Nested elements <a id="nested-elements"></a>
+## Nested elements <a href="nested-elements" id="nested-elements"></a>
 
 To show that one element falls inside another element in the document hierarchy, indent the whole element.
 
 If the parent element has content of its own, the indented element will line up with that content.
 
-### Example <a id="example-1"></a>
+### Example <a href="example-1" id="example-1"></a>
 
-```text
+```
 DIVISION
 
   Text in Division.
@@ -225,7 +225,7 @@ To mark up a bulleted list, use the bullet as the 'number' of the element.
 
 ### Example
 
-```text
+```
       SUBPARA (xxiii)
 
         Relevant elements of existing instruments and processes, including:
@@ -249,7 +249,7 @@ See the [Keyword reference](keyword-reference.md#bullets) for a list of copy/pas
 
 Copy the text below and paste it into a practise document, then see the instructions that follow.
 
-```text
+```
 PARA
 
 1.
@@ -279,17 +279,17 @@ PARA 3. Heading Content of third paragraph.
 
 When you're done, it should look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28103%29.png)
+![](<../../.gitbook/assets/image (103).png>)
 
 and like this in Edit mode:
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](<../../.gitbook/assets/image (119).png>)
 
 ### Hierarchical structure
 
 Copy the text below and paste it into a practise document, then see the instructions that follow.
 
-```text
+```
 Big heading
 
 Medium heading
@@ -316,13 +316,12 @@ Content
 
 When you're done, it should look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28109%29.png)
+![](<../../.gitbook/assets/image (109).png>)
 
 and like this in Edit mode:
 
-![](../../.gitbook/assets/image%20%28104%29.png)
+![](<../../.gitbook/assets/image (104).png>)
 
 Note the indentation in the Table of Contents:
 
-![](../../.gitbook/assets/image%20%28111%29.png)
-
+![](<../../.gitbook/assets/image (111).png>)
