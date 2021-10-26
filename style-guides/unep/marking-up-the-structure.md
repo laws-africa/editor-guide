@@ -221,7 +221,15 @@ Nesting can get complicated! Look at the sidebar Table of Contents to help guide
 
 ## Bulleted lists
 
-To mark up a bulleted list, use the bullet as the 'number' of the element.
+The pattern for bulleted lists is as follows:
+
+* On a new line, the keyword `BULLETS`&#x20;
+* Below the keyword, indented, `* ` followed by the content of each bullet
+* To mark the end of the bulleted list, unindent the next element.
+
+{% hint style="info" %}
+If a bullet has more than one paragraph, maintain the indentation so the text lines up, otherwise a `* ` will automatically be added at the start of the next line.
+{% endhint %}
 
 ### Example
 
@@ -230,18 +238,48 @@ To mark up a bulleted list, use the bullet as the 'number' of the element.
 
         Relevant elements of existing instruments and processes, including:
 
-        SUBPARA ▪
-
-          Convention on Biological Diversity;
-
-        SUBPARA ▪
-
-          Bonn Guidelines on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization;
+        BULLETS
+          * Convention on Biological Diversity;
+          * Bonn Guidelines on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization;
+            Second line of this bullet;
+          * Third bullet.
         
-        etc.
+        This text will go back into subparagraph (xxiii).
 ```
 
-See the [Keyword reference](keyword-reference.md#bullets) for a list of copy/pastable bullets.
+## Numbered lists
+
+{% hint style="warning" %}
+Do not use this markup for numbered elements like paragraphs or subparagraphs. Only use it for numbered lists in the Preface (a very rare exception).
+{% endhint %}
+
+The pattern for numbered lists is as follows:
+
+* On a new line, the keyword `ITEMS`&#x20;
+* Below the keyword, indented, the keyword `ITEM`&#x20;
+* Below the second keyword, indented, the content of the item
+* To mark the end of the numbered list, unindent the next element.
+
+### Example
+
+```
+PREFACE
+
+  Some introductory text:
+
+  ITEMS
+    ITEM a
+      First numbered item,
+
+      Second paragraph of first item;
+
+    ITEM b.
+      Second numbered item.
+
+  This text will be in the preface, but no longer part of the list.
+
+
+```
 
 ## Exercises
 
