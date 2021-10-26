@@ -6,7 +6,7 @@
 
 * [Lesson plan](getting-started/lesson-plan.md)
 * [Signing up](getting-started/signing-up.md)
-* [Digitising legislation](getting-started/the-end-product.md)
+* [Digitising legislation](getting-started/digitising-legislation.md)
 * [What is Akoma Ntoso](getting-started/what-is-akoma-ntoso.md)
 * [Terminology guide](getting-started/terminology-guide.md)
 
@@ -25,7 +25,7 @@
   * [Consolidating the annotations](managing-works/amending-works/consolidating-the-annotations/README.md)
     * [Simple example](managing-works/amending-works/consolidating-the-annotations/example-1.md)
     * [Complicated example](managing-works/amending-works/consolidating-the-annotations/complicated-example.md)
-* [Bulk imports \(spreadsheet\)](managing-works/bulk-imports-spreadsheet.md)
+* [Bulk imports (spreadsheet)](managing-works/bulk-imports-spreadsheet.md)
 
 ## How-tos
 
@@ -85,4 +85,3 @@
 * [Document subtypes](administration/document-subtypes.md)
 * [Task labels](administration/task-labels.md)
 * [Taxonomies](administration/taxonomies.md)
-
