@@ -13,7 +13,7 @@ The parser relies on indentation to group content and reflect the hierarchical s
 
 Keywords introduce a group, and everything that falls into that group is indented below the keyword.
 
-## Top-level structure <a href="numbered-elements" id="numbered-elements"></a>
+## Top-level structure <a href="top-level-structure" id="top-level-structure"></a>
 
 At the highest level, a document is broken up into the following blocks:
 
@@ -61,7 +61,7 @@ SCHEDULE
 The content of `BODY` doesn't need to be indented under it, because it's the main block.
 {% endhint %}
 
-## Hierarchical structure <a href="numbered-elements" id="numbered-elements"></a>
+## Hierarchical structure
 
 Within the main body and in Schedules, content is often grouped under headings.
 
