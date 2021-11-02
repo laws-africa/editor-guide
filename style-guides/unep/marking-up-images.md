@@ -39,4 +39,4 @@ PARA 9.
 
 ![](<../../.gitbook/assets/Screenshot from 2021-11-02 11-03-58.png>)
 
-![](<../../.gitbook/assets/image (205).png>)
+![](<../../.gitbook/assets/image (205) (1).png>)

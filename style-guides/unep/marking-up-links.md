@@ -11,23 +11,37 @@ The pattern for marking up links is as follows:
 * A space, followed by the text that should appear
 * The closing `}}`.
 
-### Example
+{% hint style="info" %}
+If the linked text is the link itself, simply repeat it: once as the URL, and once as the text.
+{% endhint %}
 
-```text
+### Examples
+
+```
 More information at {{>https://laws.africa our website}}.
 ```
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](<../../.gitbook/assets/image (110).png>)
 
-If you click on the linked text \('our website'\), you will be taken to [https://laws.africa](https://laws.africa).
+If you click on the linked text ('our website'), you will be taken to [https://laws.africa](https://laws.africa).
+
+```
+See {{>https://www.cbd.int/brc/ https://www.cbd.int/brc/}}
+```
+
+will look like this in View mode:
+
+![](<../../.gitbook/assets/image (205).png>)
+
+If you click on the linked text, you will be taken to [https://www.cbd.int/brc/](https://www.cbd.int/brc/).
 
 ## Exercise
 
 Copy the text below and paste it into a practise document, then see the instructions that follow.
 
-```text
+```
 More information at our website.
 ```
 
@@ -39,3 +53,4 @@ When you're done, it should look like the example above in View mode.
 
 Try clicking on the linked text. Were you directed to [https://laws.africa](https://laws.africa)?
 
+Now replace the text 'our website' with the URL, and see what it looks like.
