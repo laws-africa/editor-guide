@@ -1,6 +1,6 @@
 # Working with italicised terms
 
-In some traditions, certain terms appear in _italics. _For example, Latin terms such as _bona fide_, _inter alia_ and _pro rata_. The platform can do this automatically for specific terms.
+In some traditions, certain terms appear in _italics._ For example, Latin terms such as _bona fide_, _inter alia_ and _pro rata_. The platform can do this automatically for specific terms.
 
 ## Italicised terms for a country
 
@@ -17,7 +17,7 @@ The listed terms will be italicised if you click **Mark up italics**.
 
 ## How to italicise terms
 
-1. Click **Analysis **and then **Italicised terms**.
+1. Click **Analysis** and then **Italicised terms**.
 2. Click **Mark up italics**.
 
 Laws.Africa will automatically search the document for the standard list of italicised terms for the current country, and italicise them.

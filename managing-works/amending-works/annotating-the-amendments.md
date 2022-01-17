@@ -53,6 +53,6 @@ or:
 
 ## Placement of annotations when new Chapter/Part/Schedule is inserted
 
-* When an entire new Chapter/Part/Schedule is **inserted **place the annotation at the top, directly underneath the heading.
+* When an entire new Chapter/Part/Schedule is **inserted** place the annotation at the top, directly underneath the heading.
 * Also place an annotation underneath each section in the new Chapter/Part. These annotations are only inserted when the Chapter/Part has been **inserted**, not if it has been **substituted**.
 * When a new Schedule is inserted, just the one heading at the top is necessary.

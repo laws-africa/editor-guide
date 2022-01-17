@@ -16,7 +16,7 @@ Amending work:
 
 > 2\. Insert the following section 3A after the existing section 3:
 >
-> "**3A When to pick strawberries **\
+> "**3A When to pick strawberries** \
 > ****Strawberries may be picked on Tuesdays.".
 
 Amended work before amendment:
@@ -57,7 +57,7 @@ Amending work:
 
 Amended work before amendment:
 
-> **12 How to pick apples **\
+> **12 How to pick apples** \
 > ****Apples may only be picked using special apple-picking equipment.
 >
 > **13 How to pick strawberries** \
@@ -86,11 +86,11 @@ Amending work:
 > "(1) Anyone who contravenes section~~\[s]~~ 11~~\[, 12 or 13(a)]~~ will have committed an offence."; and
 >
 > (b) substitute subsection (2) with the following subsection: \
-> "(2) Anyone who has committed an offence may be ~~\[imprisoned]~~** given a fine**."\
+> "(2) Anyone who has committed an offence may be ~~\[imprisoned]~~ **given a fine**."\
 >
 
 > 9\. Substitute section 16 with the following: \
-> "**16 Fines **\
+> "**16 Fines** \
 > Fines may be from R50.00 to R1000.00, in increments of R50.00, depending on the severity of the offence.".
 
 Amended work before amendment:

@@ -55,7 +55,7 @@ To edit an existing taxonomy:
 2. Under **Indigo API** click on **Taxonomies**
 3. Click on the taxonomy to edit
 4. Make your changes
-5. To delete a topic, check the **Delete **checkbox
+5. To delete a topic, check the **Delete** checkbox
 6. Click **Save**
 
 ## Deleting a taxonomy

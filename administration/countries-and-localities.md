@@ -29,7 +29,7 @@ To add a new country:
 
 ### Italics terms
 
-Some countries have specific terms which are always _italicised _in their legal tradition. For example, in South Africa, latin terms such as _pro rata_ and _in situ_ are always italicised. The platform can be configured to do this italicisation automatically.
+Some countries have specific terms which are always _italicised_ in their legal tradition. For example, in South Africa, latin terms such as _pro rata_ and _in situ_ are always italicised. The platform can be configured to do this italicisation automatically.
 
 To add terms to be automatically italicised:
 

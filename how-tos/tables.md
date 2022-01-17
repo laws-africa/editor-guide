@@ -5,7 +5,7 @@ Tables are often used in schedules and to show information in columns. Laws.Afri
 ## How to insert a table in Edit mode
 
 1. Enter Edit mode
-2. Click **Insert **and then **Insert table**.
+2. Click **Insert** and then **Insert table**.
 3. Click **Update**.
 
 Laws.Africa will add a simple table with two rows and two columns.
@@ -39,7 +39,7 @@ You can copy and paste a table from a webpage or from a Word document.
 5. Make heading cells bold by highlighting them and clicking **Heading**.
 6. Resize columns by clicking and dragging on the border between them.
 7. Left align, center and right-align text by clicking the editor alignment buttons.
-8. Click **Update** to save your changes, or click **Cancel **to discard them**.**
+8. Click **Update** to save your changes, or click **Cancel** to discard them**.**
 
 ## **Exercise**
 

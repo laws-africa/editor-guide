@@ -73,6 +73,7 @@
   * [Marking up Schedules / Annexes](style-guides/unep/marking-up-schedules-annexes.md)
   * [Marking up footnotes](style-guides/unep/marking-up-footnotes.md)
   * [Marking up links](style-guides/unep/marking-up-links.md)
+  * [Marking up amendment markings](style-guides/unep/marking-up-amendment-markings.md)
   * [Marking up images](style-guides/unep/marking-up-images.md)
   * [Marking up tables](style-guides/unep/marking-up-tables.md)
   * [Marking up formatting](style-guides/unep/marking-up-formatting.md)
