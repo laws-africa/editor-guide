@@ -7,13 +7,13 @@ After working through this section, you should be able to:
 * Mark up numbered elements
 * Mark up nested elements.
 
-## Introduction <a href="introduction" id="introduction"></a>
+## Introduction <a href="#introduction" id="introduction"></a>
 
 The parser relies on indentation to group content and reflect the hierarchical structure of a document.
 
 Keywords introduce a group, and everything that falls into that group is indented below the keyword.
 
-## Top-level structure <a href="top-level-structure" id="top-level-structure"></a>
+## Top-level structure <a href="#top-level-structure" id="top-level-structure"></a>
 
 At the highest level, a document is broken up into the following blocks:
 
@@ -71,18 +71,18 @@ The pattern for hierarchical elements is as follows:
 
 * On a new line, the keyword, e.g. `DIVISION` for a division
 * On the same line, optionally, a space and a number
-* On the same line, optionally, `  -  ` and a heading
+* On the same line, optionally, `-` and a heading
 * On the next line, optionally, an indent and `SUBHEADING`, followed by a space and the subheading
 * Below the main heading, indented, the content of the grouping
 * To mark the end of the grouping, unindent the next element.
 
 ### Tips
 
-* If there is a number and no heading, you don't need to use a `  -  `.
-* If there is no number but there is a heading, you need to use a `  -  ` to indicate the start of the heading.
-* If there is a number and a heading, the `  -  ` should come between the number and the heading.
+* If there is a number and no heading, you don't need to use a `-` .
+* If there is no number but there is a heading, you need to use a `-` to indicate the start of the heading.
+* If there is a number and a heading, the `-` should come between the number and the heading.
 
-See the examples below for an illustration, paying close attention to the placement of the `  -  `.
+See the examples below for an illustration, paying close attention to the placement of the `-` .
 
 ### Examples
 
@@ -151,7 +151,7 @@ DIVISION 2
 If the content isn't indented, it won't be captured correctly and the keyword will be captured as text.
 {% endhint %}
 
-## Numbered elements <a href="numbered-elements" id="numbered-elements"></a>
+## Numbered elements <a href="#numbered-elements" id="numbered-elements"></a>
 
 The most common grouping of content is numbered paragraphs.
 
@@ -159,7 +159,7 @@ The pattern for all numbered elements is as follows:
 
 * On a new line, the keyword, e.g. `PARA` for paragraph
 * On the same line, a space and number
-* On the same line, optionally, after the number, `  -  ` and a heading
+* On the same line, optionally, after the number, `-` and a heading
 * Below it, indented, the content of the element
 * To mark the end of an element, unindent the text.
 
@@ -167,7 +167,7 @@ The pattern for all numbered elements is as follows:
 Note the similarity to the markup for hierarchical elements.
 {% endhint %}
 
-### Example <a href="example" id="example"></a>
+### Example <a href="#example" id="example"></a>
 
 ```
 PARA 1. - Heading
@@ -182,13 +182,13 @@ This text won't fall inside Paragraph 1.
 If the content of an element is not indented, it won't be captured correctly and the keyword will be captured as text.
 {% endhint %}
 
-## Nested elements <a href="nested-elements" id="nested-elements"></a>
+## Nested elements <a href="#nested-elements" id="nested-elements"></a>
 
 To show that one element falls inside another element in the document hierarchy, indent the whole element.
 
 If the parent element has content of its own, the indented element will line up with that content.
 
-### Example <a href="example-1" id="example-1"></a>
+### Example <a href="#example-1" id="example-1"></a>
 
 ```
 DIVISION
@@ -224,11 +224,11 @@ Nesting can get complicated! Look at the sidebar Table of Contents to help guide
 The pattern for bulleted lists is as follows:
 
 * On a new line, the keyword `BULLETS`&#x20;
-* Below the keyword, indented, `* ` followed by the content of each bullet
+* Below the keyword, indented, `*` followed by the content of each bullet
 * To mark the end of the bulleted list, unindent the next element.
 
 {% hint style="info" %}
-If a bullet has more than one paragraph, maintain the indentation so the text lines up, otherwise a `* ` will automatically be added at the start of the next line.
+If a bullet has more than one paragraph, maintain the indentation so the text lines up, otherwise a `*` will automatically be added at the start of the next line.
 {% endhint %}
 
 ### Example
@@ -250,7 +250,7 @@ If a bullet has more than one paragraph, maintain the indentation so the text li
 ## Numbered lists
 
 {% hint style="warning" %}
-Do not use this markup for numbered elements like paragraphs or subparagraphs. Only use it for numbered lists in the Preface (a very rare exception).
+Do not use this markup for numbered elements like paragraphs or subparagraphs. Only use it for numbered lists in the Preface (a very rare exception) or tables.
 {% endhint %}
 
 The pattern for numbered lists is as follows:
