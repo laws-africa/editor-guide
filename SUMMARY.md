@@ -79,6 +79,7 @@
   * [Marking up formatting](style-guides/unep/marking-up-formatting.md)
   * [Keyword reference](style-guides/unep/keyword-reference.md)
 * [Zimbabwe](style-guides/zimbabwe.md)
+* [Seychelles](style-guides/seychelles.md)
 
 ## Administration
 
