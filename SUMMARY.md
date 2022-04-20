@@ -33,11 +33,9 @@
 * [Importing a document](how-tos/importing-a-document.md)
 * [Cleaning up an import](how-tos/cleaning-up-an-import.md)
 * [Fixing all-caps headings](how-tos/fix-all-caps-headings.md)
-* [Indenting lists](how-tos/indented-lists.md)
+* [Working with tables](how-tos/tables.md)
 * [Working with links](how-tos/work-with-links.md)
 * [Working with italicised terms](how-tos/italicised-terms.md)
-* [Marking up formatting](how-tos/marking-up-formatting.md)
-* [Marking up tables](how-tos/tables.md)
 * [Inserting an image](how-tos/images.md)
 * [Inserting special characters](how-tos/special-characters.md)
 * [Resolving editor warnings](how-tos/editor-warnings.md)
@@ -46,13 +44,21 @@
 * [Changing a document's date](how-tos/change-a-documents-date.md)
 * [Search and rescue](how-tos/search-and-rescue.md)
 
-## Document elements
+## Markup guide
 
-* [Preface, Long title, and Preamble](document-elements/preface-and-preamble.md)
-* [Headings](document-elements/headings.md)
-* [Schedules](document-elements/schedules.md)
-* [Annexures](document-elements/annexures.md)
-* [Keyword reference](document-elements/keywords.md)
+* [Introduction](markup-guide/intro.md)
+* [Marking up the structure](markup-guide/marking-up-the-structure.md)
+* [Preface, Long title, and Preamble](markup-guide/preface-and-preamble.md)
+* [Headings](markup-guide/headings.md)
+* [Marking up Schedules / Annexes](markup-guide/marking-up-schedules-annexes.md)
+* [Marking up annotations](markup-guide/marking-up-annotations.md)
+* [Marking up tables](markup-guide/marking-up-tables.md)
+* [Marking up links](markup-guide/marking-up-links.md)
+* [Marking up images](markup-guide/marking-up-images.md)
+* [Marking up footnotes](markup-guide/marking-up-footnotes.md)
+* [Marking up formatting](markup-guide/marking-up-formatting.md)
+* [Marking up insertions and deletions](markup-guide/marking-up-insertions-and-deletions.md)
+* [Keyword reference](markup-guide/keyword-reference.md)
 
 ## Reviewing a document
 
@@ -68,16 +74,7 @@
 * [South African By-laws](style-guides/south-african-by-laws.md)
 * [Tanzania](style-guides/tanzania.md)
 * [Uganda](style-guides/uganda.md)
-* [UNEP](style-guides/unep/README.md)
-  * [Marking up the structure](style-guides/unep/marking-up-the-structure.md)
-  * [Marking up Schedules / Annexes](style-guides/unep/marking-up-schedules-annexes.md)
-  * [Marking up footnotes](style-guides/unep/marking-up-footnotes.md)
-  * [Marking up links](style-guides/unep/marking-up-links.md)
-  * [Marking up amendment markings](style-guides/unep/marking-up-amendment-markings.md)
-  * [Marking up images](style-guides/unep/marking-up-images.md)
-  * [Marking up tables](style-guides/unep/marking-up-tables.md)
-  * [Marking up formatting](style-guides/unep/marking-up-formatting.md)
-  * [Keyword reference](style-guides/unep/keyword-reference.md)
+* [UNEP](style-guides/unep.md)
 * [Zimbabwe](style-guides/zimbabwe.md)
 * [Seychelles](style-guides/seychelles.md)
 

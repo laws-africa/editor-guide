@@ -1,5 +1,9 @@
 # Marking up Schedules / Annexes
 
+A schedule comes at the end of a piece of legislation. It is a separate from the main content and has a separate heading, subheading and table of contents.
+
+A schedule has a heading, such as 'Schedule 1', 'First Schedule', or sometimes just 'Schedule'. Some schedules also have a subheading, such as 'Laws Amended'.
+
 The pattern for Schedules / Annexes is as follows:
 
 * On a new line, the keyword: `ANNEXURE`, `APPENDIX`, `ATTACHMENT`, or `SCHEDULE`

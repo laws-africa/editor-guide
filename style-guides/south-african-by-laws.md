@@ -18,10 +18,10 @@ Because by-laws in South Africa are often missing a ‘short title’ section, a
    * Liquor by-law of the Cape Town Metro Municipality → Liquor
    * Cape Town: Liquor by-law  → Liquor
    * Air Quality By-law of the Swartland Municipality → Air Quality
-4. Include e.g. **\(Municipal Council of Piketberg\)** in brackets at the end of the title if this is a more local council / municipality than the \(e.g. District\) Municipality you’re working in.
+4. Include e.g. **(Municipal Council of Piketberg)** in brackets at the end of the title if this is a more local council / municipality than the (e.g. District) Municipality you’re working in.
 5. Use lower case for these words: of, and, in, the, for, on.
 6. Capitalise the first letter of all other words.
-7. For stubs, use the name of the principal work followed by ': Commencement' /  ': Amendment' / ': Repeal' – see [https://edit.laws.africa/places/za-cpt/works/?q=&stub=only](https://edit.laws.africa/places/za-cpt/works/?q=&stub=only) for examples.
+7. For stubs, use the name of the principal work followed by ': Commencement' /  ': Amendment' / ': Repeal' – see [https://edit.laws.africa/places/za-cpt/works/?q=\&stub=only](https://edit.laws.africa/places/za-cpt/works/?q=\&stub=only) for examples.
 
 ### **Example of by-law titles**
 
@@ -37,8 +37,4 @@ Because by-laws in South Africa are often missing a ‘short title’ section, a
 ## Cleaning up a by-law
 
 Please remove the names and titles of officers, eg.  DR J H LEIBBRANDT, CITY MANAGER
-
-Remove names and titles of officers eg.  DR J H LEIBBRANDT, CITY MANAGER
-
-
 

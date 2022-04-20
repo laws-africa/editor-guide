@@ -2,80 +2,60 @@
 
 ## How to manually insert a link
 
-1. Enter Edit mode.
-2. Wrap the text you want to link in \[square brackets\].
-3. Insert the link in \(round brackets\), immediately after the closing square bracket \(no space\).
-
-{% hint style="info" %}
-The link \(in round brackets\) should never include spaces, and should always start `https://` or `http://`if it's external.
-{% endhint %}
-
-### Example: Text differs from link
-
-> Please visit [our website](https://laws.africa) for more information.
-
-Looks like this in Edit mode:
-
-```text
-Please visit [our website](https://laws.africa) for more information.
-```
-
-### Example: Text and link are the same
-
-> Please visit [https://laws.africa](https://laws.africa) for more information.
-
-Looks like this in Edit mode:
-
-```text
-Please visit [https:\/\/laws.africa](https://laws.africa) for more information.
-```
-
-{% hint style="info" %}
-The slashes get escaped as`\/\/` in the square brackets only.
-{% endhint %}
+See [Marking up links](../markup-guide/marking-up-links.md).
 
 ## How to manually remove a link
 
+The aim is to delete the link markup as well as the link itself, while keeping the linked text.
+
 1. Enter Edit mode.
-2. Delete the opening and closing \[square brackets\] around the linked text.
-3. Delete the link and its \(round brackets\).
+2. Delete the opening `{{>` and the closing `}}` around the linked text (the markup).
+3. Delete the link itself.
 
 {% hint style="warning" %}
-Don't delete the text inside the square brackets.
+Don't delete the text immediately after the link.
 {% endhint %}
 
 ### Example
 
-To unlink the text in the example above, in Edit mode delete `[`  as well as `](https://laws.africa)`, leaving you with:
+```
+Please visit {{>https://laws.africa our website}} for more information.
+```
 
-```text
+To unlink the text 'our website', delete `{{>https://laws.africa`  and `}}`, leaving you with:
+
+```
 Please visit our website for more information.
 ```
+
+{% hint style="info" %}
+Make sure to get the space immediately after the link, as it's part of the markup.
+{% endhint %}
 
 ## How to insert an email address link
 
 1. Enter Edit mode.
-2. Wrap the text you want to link in \[square brackets\].
-3. Insert 'mailto:' and the email address in \(round brackets\), immediately after the closing square bracket.
-4. Don't use a space after `mailto:` or between `](`.
+2. Insert `{{>mailto:info@laws.africa` before the text you want to link.
+3. Insert `}}` after the text you want to link.
 
-### Example: Text differs from link
+### Examples
+
+#### Text differs from link
 
 > Please write us at [this address](mailto:info@laws.africa) for more information.
 
 Looks like this in Edit mode:
 
-```text
-Please write us at [this address](mailto:info@laws.africa) for more information.
+```
+Please write us at {{>mailto:info@laws.africa this address}} for more information.
 ```
 
-### Example: Text and link are the same
+#### Text and link are the same
 
 > Please write us at [info@laws.africa](mailto:info@laws.africa) for more information.
 
 Looks like this in Edit mode:
 
-```text
-Please write us at [info@laws.africa](mailto:info@laws.africa) for more information.
 ```
-
+Please write us at {{>mailto:info@laws.africa info@laws.africa}} for more information.
+```

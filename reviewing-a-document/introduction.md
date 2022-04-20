@@ -19,10 +19,13 @@ When you review someone else's work, your goals are to:
 5. Compare the document against the imported file.
 6. Note any changes to be made on the document using comments.
 7. If the first editor needs to make changes before the document can be published, click **Request changes** on the task. You can add a general comment at the same time.
-8. If the document is ready to be published, link the defined terms again, click **Save & publish** on the document \(drop-down next to **Save draft**\), and click **Approve** on the task.
-9. If for some reason the document has already been published but changes still need to be made to it, click **Unpublish & save** on the document \(drop-down next to **Save & publish**\) before requesting changes. \(Only reviewers can make changes to published documents.\)
+8. When the document is ready to be published:
+   * Link the defined terms again ('Analysis | Defined terms').
+   * Click **Save & publish** on the document (drop-down next to **Save draft**).
+   * Click **Approve** on the task.
+9. If for some reason the document has already been published but changes still need to be made to it, click **Unpublish & save** on the document (drop-down next to **Save & publish**) before requesting changes. (Only reviewers can make changes to published documents.)
 
-![](../.gitbook/assets/image%20%28134%29.png)
+![](<../.gitbook/assets/image (134).png>)
 
 {% hint style="info" %}
 The most important part of the process is where you click **Save & publish**, don't forget this crucial step!
@@ -35,13 +38,17 @@ The most important part of the process is where you click **Save & publish**, do
 * Make new tasks to record other changes that still need to be done, such as linking amendments or a commencing work.
 * If a document is almost ready to be published and there are only a few small changes, you can make the changes yourself and leave a comment on the task to let the first editor know what change you made, so that they know for next time.
 
-{% page-ref page="reviewer-checklist.md" %}
+{% content-ref url="reviewer-checklist.md" %}
+[reviewer-checklist.md](reviewer-checklist.md)
+{% endcontent-ref %}
 
 ### Exercise
 
-* [ ] Copy and paste the text below into the editor \(make sure your document is blank\).
+UPDATE / DELETE
 
-```text
+Copy and paste the text below into the editor (make sure your document is blank).
+
+```
 PREFACE
 
 An Act to establish the Nigerian Customs Service Board and for matters connected therewith.
@@ -172,18 +179,19 @@ PARA 3. Text text text-
 ```
 
 * [ ] Click Update.
-* [ ] Using only comments on the document \(do not make any changes yourself\), point out any errors that should be corrected.
+* [ ] Using only comments on the document (do not make any changes yourself), point out any errors that should be corrected.
 * [ ] Use the reviewer checklist to methodically work through the document from start to end.
 
-{% page-ref page="reviewer-checklist.md" %}
+{% content-ref url="reviewer-checklist.md" %}
+[reviewer-checklist.md](reviewer-checklist.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 Types of errors:
 
-Keywords used incorrectly: 5   
-Numbering errors: 4   
-Indentation errors: 6   
-Heading errors: 2   
+Keywords used incorrectly: 5 \
+Numbering errors: 4 \
+Indentation errors: 6 \
+Heading errors: 2 \
 Line break errors: 2
 {% endhint %}
-

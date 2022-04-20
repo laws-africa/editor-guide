@@ -19,17 +19,17 @@
 6. [Tables](../how-tos/tables.md)
 7. [Images](../how-tos/images.md)
 8. [Links](../how-tos/work-with-links.md)
-9. Schedules and Annexures
+9. [Schedules and Annexes](../markup-guide/marking-up-schedules-annexes.md)
 10. Comments and editorial notes
 
 ## Lesson 3 – The editor continued
 
 1. Questions
-2. Editing a document: [Schedules](../document-elements/schedules.md)
+2. Editing a document: [Schedules and Annexes](../markup-guide/marking-up-schedules-annexes.md)
 3. Editing a document: [Tables](../how-tos/tables.md)
 4. Editing a document: [Images](../how-tos/images.md)
 5. [Resolving editor warnings](../how-tos/editor-warnings.md)
-6. [Special keywords](../document-elements/keywords.md)
+6. [Special keywords](broken-reference)
 7. [Special characters](../how-tos/special-characters.md)
 8. [Italicised terms](../how-tos/italicised-terms.md)
 9. [Search and rescue](../how-tos/search-and-rescue.md)

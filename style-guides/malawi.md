@@ -22,7 +22,7 @@ The references and date that appear alongside/under the Long Title of the Act mu
 ![](<../.gitbook/assets/image (185).png>)
 
 The margin references in the pdfs have been moved into the body of the Act in the  Word docs. \
-These references must be  in `[[double squares]]`and **no changes** must be made to their wording.
+These references must be  in `{{*[annotation markup]}}` and **no changes** must be made to their wording.
 
 Using the pdf as reference, check that they have been placed correctly by following these instructions:
 
@@ -45,6 +45,8 @@ In view mode
 ![](<../.gitbook/assets/image (189).png>)
 
 In edit mode
+
+UPDATE SCREENSHOT
 
 ![](<../.gitbook/assets/image (187).png>)
 

@@ -8,11 +8,11 @@ description: Special instructions for cleaning up Zimbabwe imports
 
 **NB: Use the Word docs to import, but use the pdfs as reference when cleaning up the imports.**
 
-Word docs saved here:  
-[https://drive.google.com/drive/u/1/folders/1hQubPO35alWRr-xEg\_SAXw\_IX30Tz6qh](https://drive.google.com/drive/u/1/folders/1NuC-suAyCXXBJvP7vD_ZYwMQz0Gc7gKh)
+Word docs saved here:\
+[https://drive.google.com/drive/u/1/folders/1hQubPO35alWRr-xEg\_SAXw\_IX30Tz6qh](https://drive.google.com/drive/u/1/folders/1NuC-suAyCXXBJvP7vD\_ZYwMQz0Gc7gKh)
 
-Pdfs saved here:  
-[https://drive.google.com/drive/u/1/folders/1u\_If\_mzwdh9c9YiKShVax9AcamRsGiJl](https://drive.google.com/drive/u/1/folders/1u_If_mzwdh9c9YiKShVax9AcamRsGiJl)
+Pdfs saved here:\
+[https://drive.google.com/drive/u/1/folders/1u\_If\_mzwdh9c9YiKShVax9AcamRsGiJl](https://drive.google.com/drive/u/1/folders/1u\_If\_mzwdh9c9YiKShVax9AcamRsGiJl)
 
 
 
@@ -22,19 +22,17 @@ For the existing annotations in the consolidated Acts:
 
 Change "s." or "Section" to "section", "Subsection" to "subsection", "Paragraph" to "paragraph",  "Definition" to "definition",  "Proviso" to "proviso", "Long Title" to "long title", "Heading" to "heading" and "Item" to "item". The only ones that must remain capitalised are "Chapter", "Part" and "Schedule".
 
-Remove the full stop at the end of the annotation \(if there is one\)
+Remove the full stop at the end of the annotation (if there is one)
 
 Please do not make any additional changes to the existing annotations, including the annotations in definitions sections.
 
-
-
 ### Example
 
-\[Section amended by section 4 of Act 22 of 2001.\]  
-or  
-\[ s. amended by section 4 of Act 22 of 2001.\]  
-becomes  
-\[section amended by section 4 of Act [22 of 2001](https://edit.laws.africa/works/akn/zw/act/2001/22)\]
+\[Section amended by section 4 of Act 22 of 2001.]\
+or\
+\[ s. amended by section 4 of Act 22 of 2001.]\
+becomes\
+\[section amended by section 4 of Act [22 of 2001](https://edit.laws.africa/works/akn/zw/act/2001/22)]
 
 
 
@@ -44,19 +42,18 @@ becomes
 
 Look out for random hyphens in words. This is occurring when a word was broken and hyphenated at the end of a line in the pdf, like this:
 
-![](../.gitbook/assets/image%20%28137%29.png)
+![](<../.gitbook/assets/image (137).png>)
 
 These are easier to spot in the pdf as they will always occur at the end of a line.  When you come across them, please delete the hyphen.
 
 ### References in Acts
 
-For  references in the Acts, ie:
+For  references in the Acts, e.g.:
 
-![](../.gitbook/assets/image%20%28132%29.png)
+![](<../.gitbook/assets/image (132).png>)
 
-Please wrap these in `[[double squares]]`.
+Please wrap these in `{{*[annotation markup]}}`.
 
 ### Section numbers written out as words
 
 Where there are section numbers in the text that are written as words and italicised, **do not** manually italicise them when cleaning up the document.
-

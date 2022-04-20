@@ -13,31 +13,45 @@ Act 5 of 2012 has the following provisions:&#x20;
 3. Annotate the amendments.
 
 ```
-1. First section of principal Act
+SEC 1. - First section of principal Act
 
-(1) First subsection, will be deleted.
+  SUBSEC (1)
 
-(2) This one will be left alone.
+    First subsection, will be deleted.
 
-2. Second section of principal Act
+  SUBSEC (2)
 
-This one will be left alone.
+    This one will be left alone.
 
-3. Third section of principal Act
+SEC 2. - Second section of principal Act
 
-Introductory text:
+  This one will be left alone.
 
-(a) first paragraph;
+SEC 3. - Third section of principal Act
 
-(b) subsequent paragraph; and
+  Introductory text:
+  
+  PARA (a)
+  
+    first paragraph;
+  
+  PARA (b)
+  
+    subsequent paragraph; and
+  
+  PARA (c)
+  
+    final paragraph.
 
-(c) final paragraph.
+SEC 4. - Fourth section of principal Act
 
-4. Fourth section of principal Act
+  SUBSEC (1)
 
-(1) This one will be left alone.
+    This one will be left alone.
 
-(2) Old subsection (will be replaced).
+  SUBSEC (2)
+
+    Old subsection (will be replaced).
 
 
 ```
@@ -49,37 +63,53 @@ When you're done, it should look like this in View mode:
 and like this in Edit mode:
 
 ```
-1. First section of principal Act
+SEC 1. - First section of principal Act
 
-(1) [[subsection (1) deleted by section 1 of Act 5 of 2012]]
+  SUBSEC (1)
 
-(2) This one will be left alone.
+    {{*[subsection (1) deleted by section 1 of Act 5 of 2012]}}
 
-2. Second section of principal Act
+  SUBSEC (2)
 
-This one will be left alone.
+    This one will be left alone.
 
-3. Third section of principal Act
+SEC 2. - Second section of principal Act
 
-    Introductory text:
+  This one will be left alone.
 
-    (a) first paragraph;
+SEC 3. - Third section of principal Act
 
-    (aA) a new paragraph;
+  Introductory text:
+  
+  PARA (a)
+  
+    first paragraph;
 
-        [[paragraph (aA) inserted by section 2 of Act 5 of 2012]]
+  PARA (aA)
+  
+    a new paragraph;
+    
+    {{*[paragraph (aA) inserted by section 2 of Act 5 of 2012]}}
+  
+  PARA (b)
+  
+    subsequent paragraph; and
+  
+  PARA (c)
+  
+    final paragraph.
 
-    (b) subsequent paragraph; and
+SEC 4. - Fourth section of principal Act
 
-    (c) final paragraph.
+  SUBSEC (1)
 
-4. Fourth section of principal Act
+    This one will be left alone.
 
-(1) This one will be left alone.
+  SUBSEC (2)
 
-(2) New subsection.
+    New subsection.
 
-[[subsection (2) substituted by section 3 of Act 5 of 2012]]
+    {{*[subsection (2) substituted by section 3 of Act 5 of 2012]}}
+    
 
 ```
-

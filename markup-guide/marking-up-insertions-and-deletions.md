@@ -4,7 +4,7 @@ description: >-
   another.
 ---
 
-# Marking up amendment markings
+# Marking up insertions and deletions
 
 After working through this section, you should be able to:
 
@@ -32,7 +32,7 @@ If the inserted text starts with a space, simply add a second space after the `+
 
 Will look like this in View mode:&#x20;
 
-![](<../../.gitbook/assets/image (207).png>)
+![](<../.gitbook/assets/image (207).png>)
 
 ## Marking up deletions
 
@@ -55,7 +55,7 @@ If the deleted text starts with a space, simply add a second space after the `-`
 
 Will look like this in View mode:&#x20;
 
-![](<../../.gitbook/assets/image (209) (1).png>)
+![](<../.gitbook/assets/image (209) (1) (1).png>)
 
 ## Exercise
 
@@ -71,7 +71,7 @@ A letter of agreement Memorandum of Understanding has been signed between the se
 
 When you're done, it should look like this in View mode:
 
-![](<../../.gitbook/assets/image (206).png>)
+![](<../.gitbook/assets/image (206) (1).png>)
 
 and like this in Edit mode:
 

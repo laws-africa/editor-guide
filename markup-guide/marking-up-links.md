@@ -15,27 +15,33 @@ The pattern for marking up links is as follows:
 If the linked text is the link itself, simply repeat it: once as the URL, and once as the text.
 {% endhint %}
 
+{% hint style="warning" %}
+The link should never include spaces, and should always start with `https://` or `http://`if it's external.
+{% endhint %}
+
 ### Examples
 
-```
-More information at {{>https://laws.africa our website}}.
-```
+#### Text differs from link
 
-will look like this in View mode:
+> Please visit [our website](https://laws.africa) for more information.
 
-![](<../../.gitbook/assets/image (110).png>)
+Looks like this in Edit mode:
+
+```
+Please visit {{>https://laws.africa our website}} for more information.
+```
 
 If you click on the linked text ('our website'), you will be taken to [https://laws.africa](https://laws.africa).
 
+#### Text and link are the same
+
+> Please visit [https://laws.africa](https://laws.africa) for more information.
+
+Looks like this in Edit mode:
+
 ```
-See {{>https://www.cbd.int/brc/ https://www.cbd.int/brc/}}
+Please visit {{>https://laws.africa https://laws.africa}} for more information.
 ```
-
-will look like this in View mode:
-
-![](<../../.gitbook/assets/image (205).png>)
-
-If you click on the linked text, you will be taken to [https://www.cbd.int/brc/](https://www.cbd.int/brc/).
 
 ## Exercise
 

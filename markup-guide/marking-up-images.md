@@ -35,8 +35,8 @@ PARA 9.
 * Choose the image from the existing attachments (or add it to this list if it's not there) and click **Insert image**
 * The markup described above will be inserted for you automatically.
 
-![](<../../.gitbook/assets/Screenshot from 2021-11-02 11-00-56.png>)
+![](<../.gitbook/assets/Screenshot from 2021-11-02 11-00-56.png>)
 
-![](<../../.gitbook/assets/Screenshot from 2021-11-02 11-03-58.png>)
+![](<../.gitbook/assets/Screenshot from 2021-11-02 11-03-58.png>)
 
-![](<../../.gitbook/assets/image (205) (1).png>)
+![The image markup has been inserted at line 13](<../.gitbook/assets/image (205) (1).png>)

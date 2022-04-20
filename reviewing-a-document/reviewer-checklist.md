@@ -12,16 +12,16 @@ description: For straightforward Acts
 * [ ] Schedules: headings / subheadings / section references marked up correctly
 * [ ] Headings are [Sentence case](../style-guides/laws.africa.md#headings)
 * [ ] Defined terms captured
-* [ ] References linked correctly \(specifically, no references linked incorrectly\)
+* [ ] References linked correctly (and no references linked incorrectly)
 * [ ] Terms italicised correctly
 * [ ] Editor warnings all resolved
 
 ### Keywords
 
-* [ ] Heading keywords used appropriately \(e.g. `Part`, not `CROSSHEADING Part`\)
-* [ ] Formatting \(`//` for italics and `**` for bold\) not overused, e.g. not used for crossheadings
+* [ ] Heading keywords used appropriately (e.g. `PART`, not `CROSSHEADING Part`)
+* [ ] Formatting (`//` for italics and `**` for bold) not overused, e.g. not used for crossheadings
 * [ ] Table heading style used rather than manually bolding text
-* [ ] Superscripts \(`12^^th^^`\) and subscripts \(`CO_^2^_`\) captured
+* [ ] Superscripts (`12{{^th}}`) and subscripts (`CO{{_2}}`) captured
 
 ### Structure
 
@@ -36,11 +36,12 @@ description: For straightforward Acts
 
 Check for these by skimming the text and searching for repeated occurrences of any errors.
 
-* [ ] \(1\) accidentally recorded as lowercase \(L\) or uppercase \(i\) \(there should be an editor warning for this\)
+* [ ] (1) accidentally recorded as lowercase (L) or uppercase (i) (there should be an editor warning for this)
 * [ ] Words joined together, e.g. `of the` recorded as `ofthe`
 * [ ] Ligatures misrecognised, e.g. `ri` recorded as `n`
-* [ ] Numbers picked up incorrectly \(e.g. SO,OOO instead of 50,000\)
-* [ ] Currency symbols misrecognised \(e.g. N instead of ₦\)
+* [ ] Numbers picked up incorrectly (e.g. SO,OOO instead of 50,000)
+* [ ] Currency symbols misrecognised (e.g. N instead of ₦)
 
-{% page-ref page="../document-elements/keywords.md" %}
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

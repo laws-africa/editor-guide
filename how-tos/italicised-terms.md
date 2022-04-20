@@ -30,6 +30,10 @@ The 'In this document' tab displays the terms that have been italicised in the c
 
 To remove italics from a single term, delete the surrounding `//`s. For example, `This //text// shouldn't be italicised` → `This text shouldn't be italicised`.&#x20;
 
+{% hint style="info" %}
+Select `text` in the above example and hit Ctrl+I to remove the italics. Hitting Ctrl+I again will re-italicise it.
+{% endhint %}
+
 To remove italics from **all** italicised terms in the document:
 
 1. Click **Analysis** and then **Italicised terms**.
