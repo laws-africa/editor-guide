@@ -77,6 +77,7 @@
 * [UNEP](style-guides/unep.md)
 * [Zimbabwe](style-guides/zimbabwe.md)
 * [Seychelles](style-guides/seychelles.md)
+* [Pan-African Parliament](style-guides/pan-african-parliament.md)
 
 ## Administration
 
