@@ -130,7 +130,7 @@ In these cases, follow the instructions and use the verb 'amended' in the annota
 
 If more than one amendment Act/notice has commenced on the same date, they must all be applied in **the same document** at that point in time (see image below as an example)
 
-![](<../../.gitbook/assets/image (210).png>)
+![](<../../.gitbook/assets/image (210) (1).png>)
 
 When applying these amendments, do them one at a time, in chronological order. Follow the same procedure as for any amendment task, ie:
 

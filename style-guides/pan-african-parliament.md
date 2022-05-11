@@ -11,17 +11,25 @@ _Noting of Y, etc."_
 
 We haven't yet found a use for `PREFACE`.
 
-The `BODY` in Recommendations usually begins as is highlighted in the example below&#x20;
+### Body&#x20;
+
+The `BODY` in Recommendations usually begins as is highlighted in the example below.
 
 ![](../.gitbook/assets/rec1.png)
 
-The `BODY` in Resolutions usually begins as is highlighted in the example below&#x20;
+The `BODY` in Resolutions usually begins as is highlighted in the example below.
 
 ![](../.gitbook/assets/res1.png)
 
-Below are other examples of the `BODY` of Recommendations and Resolutions&#x20;
+Below are other examples of the `BODY` of Recommendations and Resolutions.&#x20;
 
 ![](../.gitbook/assets/rec2.png) ![](../.gitbook/assets/res2.png)
+
+### Documents without a preamble
+
+Sometimes a document will not have a preamble. In such instances, the first keyword used should be `BODY`. Below is an example of one such document.
+
+![](<../.gitbook/assets/image (208).png>)
 
 ### Hierarchical structure
 

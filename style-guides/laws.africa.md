@@ -89,7 +89,7 @@ From [https://edit.laws.africa/works/akn/za-wc/act/pn/2010/232/](https://edit.la
 
 ![](<../.gitbook/assets/image (97).png>)
 
-![](<../.gitbook/assets/image (208).png>)
+![](<../.gitbook/assets/image (208) (1).png>)
 
 ### Other notices
 

@@ -50,4 +50,4 @@ In the image below:
 * Dec 25 of 1984 means Decree 25 of 1979
 * the date "1 June 2020" right at the top of the document is the consolidation date
 
-![](<../.gitbook/assets/image (208) (1).png>)
+![](<../.gitbook/assets/image (208) (1) (1).png>)
