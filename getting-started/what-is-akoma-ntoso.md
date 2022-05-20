@@ -4,7 +4,7 @@ description: Akoma Ntoso is an XML language for marking up legislative documents
 
 # What is Akoma Ntoso
 
-[Akoma Ntoso](http://akomantoso.org) is an XML markup standard for legislative documents. It captures rich metadata and structural information about legislation and allows a computer to automate common tasks.
+[Akoma Ntoso](http://akomantoso.org/) is an XML markup standard for legislative documents. It captures rich metadata and structural information about legislation and allows a computer to automate common tasks.
 
 Akoma Ntoso is a non-proprietary, open standard managed by OASIS.
 
@@ -42,4 +42,4 @@ The Laws.Africa editor makes working with Akoma Ntoso easy. So easy, that you ne
 
 Instead, you work with a simplified version of the document that focuses just on content and structure, that looks like this:
 
-![](<../.gitbook/assets/image (212).png>)
+![](<../.gitbook/assets/image (212) (1).png>)

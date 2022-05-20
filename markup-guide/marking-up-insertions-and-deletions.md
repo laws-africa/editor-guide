@@ -55,7 +55,7 @@ If the deleted text starts with a space, simply add a second space after the `-`
 
 Will look like this in View mode:&#x20;
 
-![](<../.gitbook/assets/image (209) (1) (1).png>)
+![](<../.gitbook/assets/image (209) (1) (1) (1).png>)
 
 ## Exercise
 

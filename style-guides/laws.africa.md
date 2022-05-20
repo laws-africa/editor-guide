@@ -101,4 +101,4 @@ From [https://edit.laws.africa/works/akn/za/act/gn/2020/752/](https://edit.laws.
 
 ![](<../.gitbook/assets/image (99).png>)
 
-![](<../.gitbook/assets/image (209).png>)
+![](<../.gitbook/assets/image (209) (1).png>)

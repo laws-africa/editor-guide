@@ -64,6 +64,7 @@
 
 * [Reviewing a document](reviewing-a-document/introduction.md)
 * [Reviewer checklist](reviewing-a-document/reviewer-checklist.md)
+* [Signing off a work](reviewing-a-document/signing-off-a-work.md)
 
 ## Style Guides
 
