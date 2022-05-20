@@ -18,6 +18,7 @@ When you review someone else's work, your goals are to:
    * If a Word document was imported and there's no gazette to compare against, click **Attachments** and download it.
 5. Compare the document against the imported file.
 6. Note any changes to be made on the document using comments.
+   * For metadata changes (e.g. missing multiple commencements, an incorrect assent date), create a task from each comment. These tasks should be resolved before the work is signed off.
 7. If the first editor needs to make changes before the document can be published, click **Request changes** on the task. You can add a general comment at the same time.
 8. When the document is ready to be published:
    * Link the defined terms again ('Analysis | Defined terms').

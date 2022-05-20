@@ -13,7 +13,7 @@ Annotations are how we show readers what happened to a piece of legislation over
 
 ![Inserting the annotation](<../../.gitbook/assets/image (78).png>)
 
-![The automatically inserted annotation still needs to be edited](<../../.gitbook/assets/image (211) (1).png>)
+![The automatically inserted annotation still needs to be edited](<../../.gitbook/assets/image (211) (2).png>)
 
 ## How to write an annotation from scratch
 

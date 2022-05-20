@@ -42,4 +42,4 @@ The Laws.Africa editor makes working with Akoma Ntoso easy. So easy, that you ne
 
 Instead, you work with a simplified version of the document that focuses just on content and structure, that looks like this:
 
-![](<../.gitbook/assets/image (212) (1).png>)
+![](<../.gitbook/assets/image (212) (2).png>)
