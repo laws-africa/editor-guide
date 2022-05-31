@@ -2,8 +2,8 @@
 
 Tables are often used in schedules and to show information in columns.
 
-{% content-ref url="../markup-guide/marking-up-tables.md" %}
-[marking-up-tables.md](../markup-guide/marking-up-tables.md)
+{% content-ref url="../../markup-guide/marking-up-tables.md" %}
+[marking-up-tables.md](../../markup-guide/marking-up-tables.md)
 {% endcontent-ref %}
 
 ## How to insert a table in Edit mode
@@ -27,7 +27,7 @@ You can copy and paste a table from a Word document.
 
 ## How to edit a table
 
-![](../.gitbook/assets/table-editor-buttons.png)
+![](../../.gitbook/assets/table-editor-buttons.png)
 
 1. Click **Edit table** to enter table edit mode.
 2. Make your changes to the table.

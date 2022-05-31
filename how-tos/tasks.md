@@ -46,7 +46,7 @@ One of the most common ways of creating a task to create it from a comment on a 
 
 The task itself will have a preview of the part of the document where the comment was made.
 
-![](<../.gitbook/assets/image (216).png>)
+![](<../.gitbook/assets/image (216) (1).png>)
 
 ![](<../.gitbook/assets/image (212).png>)
 

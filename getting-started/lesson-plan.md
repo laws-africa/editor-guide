@@ -16,7 +16,7 @@
 3. Questions
 4. [Terminology guide](terminology-guide.md)
 5. [Style guides](../style-guides/laws.africa.md)
-6. [Tables](../how-tos/tables.md)
+6. [Tables](../how-tos/tables/)
 7. [Images](../how-tos/images.md)
 8. [Links](../how-tos/work-with-links.md)
 9. [Schedules and Annexes](../markup-guide/marking-up-schedules-annexes.md)
@@ -26,7 +26,7 @@
 
 1. Questions
 2. Editing a document: [Schedules and Annexes](../markup-guide/marking-up-schedules-annexes.md)
-3. Editing a document: [Tables](../how-tos/tables.md)
+3. Editing a document: [Tables](../how-tos/tables/)
 4. Editing a document: [Images](../how-tos/images.md)
 5. [Resolving editor warnings](../how-tos/editor-warnings.md)
 6. [Special keywords](broken-reference)

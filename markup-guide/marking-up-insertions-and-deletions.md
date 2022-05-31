@@ -32,7 +32,7 @@ If the inserted text starts with a space, simply add a second space after the `+
 
 Will look like this in View mode:&#x20;
 
-![](<../.gitbook/assets/image (207).png>)
+![](<../.gitbook/assets/image (207) (1).png>)
 
 ## Marking up deletions
 

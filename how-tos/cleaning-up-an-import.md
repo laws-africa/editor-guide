@@ -30,7 +30,7 @@ Content and structure is more important than matching exactly what the text look
    * Check line breaks: should two paragraphs be joined together, or one paragraph be split into two?
    * Check indents, especially of dangling text after the end of a list of paragraphs.
    * Briefly scan the text for OCR errors – but no need to check word for word.
-9. You may also need to insert a [table](tables.md), insert an [image](images.md), or work with [Schedules](../markup-guide/marking-up-schedules-annexes.md).
+9. You may also need to insert a [table](tables/), insert an [image](images.md), or work with [Schedules](../markup-guide/marking-up-schedules-annexes.md).
 10. Before submitting the task for review:&#x20;
     * [Resolve all editor warnings](editor-warnings.md).
     * Check the [Reviewer checklist](../reviewing-a-document/reviewer-checklist.md).
