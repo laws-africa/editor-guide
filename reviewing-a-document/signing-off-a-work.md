@@ -28,7 +28,7 @@ But if there's a task open to indicate not all defined terms were captured by th
 
 ## Doing the review
 
-![The first part of the sign-off task (metadata)](<../.gitbook/assets/image (212) (1).png>)
+![The first part of the sign-off task (metadata)](<../.gitbook/assets/image (212) (1) (1).png>)
 
 In the above example, the work is being published for the first time.
 
@@ -36,7 +36,7 @@ Every new item (in this case all of them) is highlighted in green. Any items tha
 
 Each of the pieces of metadata should be checked against the original. If all are right and none are missing, check the 'Approve these changes' box, and click 'Next'.
 
-![The next part of the sign-off task (content)](<../.gitbook/assets/image (214) (1).png>)
+![The next part of the sign-off task (content)](<../.gitbook/assets/image (214) (1) (1).png>)
 
 Check the content against the original, looking especially at the structure of the document.
 
@@ -48,7 +48,7 @@ If a commencements table appears at the top, make sure to check each of those en
 
 If everything looks good, check the 'Approve these changes' box at the bottom of this page too.
 
-![](<../.gitbook/assets/image (211) (1).png>)
+![](<../.gitbook/assets/image (211) (1) (1).png>)
 
 Once all the changes have been approved, the 'Publish changes' button will activate. You should click it to complete the task.
 

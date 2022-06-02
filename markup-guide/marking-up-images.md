@@ -39,4 +39,4 @@ PARA 9.
 
 ![](<../.gitbook/assets/Screenshot from 2021-11-02 11-03-58.png>)
 
-![The image markup has been inserted at line 13](<../.gitbook/assets/image (205) (1).png>)
+![The image markup has been inserted at line 13](<../.gitbook/assets/image (205) (1) (1).png>)
