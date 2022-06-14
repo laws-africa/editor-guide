@@ -230,6 +230,56 @@ If a bullet has more than one paragraph, maintain the indentation so the text li
         This text will go back into subparagraph (xxiii).
 ```
 
+### Nested bullets
+
+```
+PARA 1.
+
+  //Decides// to amend Annex II to the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal by adding the following entry:
+
+  TABLE
+    TR
+      TC
+
+      TC
+        Plastic waste with the exception of the following:
+
+        BULLETS
+          * Plastic waste that is hazardous waste
+          * Plastic waste listed below:
+
+            BULLETS
+              * Plastic waste …, including but not limited to the following polymers:
+
+                BULLETS
+                  * Polyethylene (PE)
+                  * Polypropylene (PP)
+
+              * Plastic waste …, including but not limited to the following resins:
+
+                BULLETS
+                  * Urea formaldehyde resins
+                  * Phenol formaldehyde resins
+
+              * Plastic waste … one of the following fluorinated polymers:
+
+                BULLETS
+                  * Perfluoroethylene/propylene (FEP)
+                  * Perfluoroalkoxy alkanes:
+
+                    BULLETS
+                      * Tetrafluoroethylene/perfluoroalkyl vinyl ether (PFA)
+                      * Tetrafluoroethylene/perfluoromethyl vinyl ether (MFA)
+
+                  * Polyvinylfluoride (PVF)
+                  * Polyvinylidenefluoride (PVDF)
+
+          * Mixtures of plastic waste.
+
+
+
+```
+
 ## Numbered lists
 
 {% hint style="warning" %}
