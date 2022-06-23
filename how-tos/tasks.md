@@ -50,7 +50,7 @@ The task itself will have a preview of the part of the document where the commen
 
 ![](<../.gitbook/assets/image (212) (1).png>)
 
-![](<../.gitbook/assets/image (213).png>)
+![](<../.gitbook/assets/image (213) (1).png>)
 
 ![](<../.gitbook/assets/image (211) (1).png>)
 

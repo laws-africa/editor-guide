@@ -78,4 +78,4 @@ in a 3-column table.
 
 Click 'Update', and the error no longer displays:
 
-![](<../../.gitbook/assets/image (214).png>)
+![](<../../.gitbook/assets/image (214) (1).png>)

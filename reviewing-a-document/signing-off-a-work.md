@@ -36,7 +36,7 @@ Every new item (in this case all of them) is highlighted in green. Any items tha
 
 Each of the pieces of metadata should be checked against the original. If all are right and none are missing, check the 'Approve these changes' box, and click 'Next'.
 
-![The next part of the sign-off task (content)](<../.gitbook/assets/image (214) (1) (1).png>)
+![The next part of the sign-off task (content)](<../.gitbook/assets/image (214) (1) (1) (1).png>)
 
 Check the content against the original, looking especially at the structure of the document.
 
