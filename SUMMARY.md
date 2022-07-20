@@ -43,6 +43,7 @@
 * [Making comments](how-tos/making-comments.md)
 * [Inserting editorial notes](how-tos/inserting-editorial-notes.md)
 * [Changing a document's date](how-tos/change-a-documents-date.md)
+* [Changing a document's title](how-tos/changing-a-documents-title.md)
 * [Search and rescue](how-tos/search-and-rescue.md)
 
 ## Markup guide

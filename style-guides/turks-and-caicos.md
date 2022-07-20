@@ -12,7 +12,7 @@ For documents that are Rules please use keywords RULE and SUBRULE where you woul
 
 ![](<../.gitbook/assets/image (213).png>)
 
-![](<../.gitbook/assets/image (214).png>)
+![](<../.gitbook/assets/image (214) (1).png>)
 
 ### How to style Practice Directions
 

@@ -46,12 +46,12 @@ One of the most common ways of creating a task to create it from a comment on a 
 
 The task itself will have a preview of the part of the document where the comment was made.
 
-![](<../.gitbook/assets/image (216) (1) (1).png>)
+![](<../.gitbook/assets/image (216) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (212) (1).png>)
 
 ![](<../.gitbook/assets/image (213) (1).png>)
 
-![](<../.gitbook/assets/image (211) (1).png>)
+![](<../.gitbook/assets/image (211) (1) (1).png>)
 
-![](<../.gitbook/assets/image (215).png>)
+![](<../.gitbook/assets/image (215) (1).png>)

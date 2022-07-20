@@ -14,7 +14,7 @@ A quick count of the top row shows a total of 8 columns: the big one on the left
 
 #### Diagnosis
 
-![](<../../.gitbook/assets/image (216) (1).png>)
+![](<../../.gitbook/assets/image (216) (1) (1).png>)
 
 The first two rows look good:&#x20;
 
@@ -78,4 +78,4 @@ in a 3-column table.
 
 Click 'Update', and the error no longer displays:
 
-![](<../../.gitbook/assets/image (214) (1).png>)
+![](<../../.gitbook/assets/image (214) (1) (1).png>)
