@@ -82,6 +82,7 @@
 * [Seychelles](style-guides/seychelles.md)
 * [Pan-African Parliament](style-guides/pan-african-parliament.md)
 * [Turks and Caicos](style-guides/turks-and-caicos.md)
+* [AGP](style-guides/agp.md)
 
 ## Administration
 
