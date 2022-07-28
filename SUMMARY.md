@@ -71,7 +71,8 @@
 ## Style Guides
 
 * [Laws.Africa](style-guides/laws.africa.md)
-* [Malawi](style-guides/malawi.md)
+* [Lesotho](style-guides/malawi.md)
+* [Malawi](style-guides/malawi-1.md)
 * [Nigeria](style-guides/nigeria.md)
 * [South African Acts](style-guides/south-african-acts.md)
 * [South African By-laws](style-guides/south-african-by-laws.md)
