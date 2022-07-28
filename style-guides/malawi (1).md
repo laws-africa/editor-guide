@@ -1,5 +1,5 @@
 ---
-description: Special instructions for cleaning up Malawi imports
+description: Special instructions for cleaning up Lesotho imports
 ---
 
 # Lesotho
