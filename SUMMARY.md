@@ -81,9 +81,8 @@
 * [UNEP](style-guides/unep.md)
 * [Zimbabwe](style-guides/zimbabwe.md)
 * [Seychelles](style-guides/seychelles.md)
-* [Pan-African Parliament](style-guides/pan-african-parliament.md)
+* [Pan-African Parliament/ AGP](style-guides/pan-african-parliament-agp.md)
 * [Turks and Caicos](style-guides/turks-and-caicos.md)
-* [AGP](style-guides/agp.md)
 
 ## Administration
 
