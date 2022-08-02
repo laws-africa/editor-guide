@@ -24,6 +24,7 @@ Content and structure is more important than matching exactly what the text look
    * Save often :)
 7. Structure:
    * See [Marking up the structure](../markup-guide/marking-up-the-structure.md).
+   * For definitions that contain lists, use the [Numbered lists](../markup-guide/marking-up-the-structure.md#definitions) markup.
    * Make all headings [Sentence case](../style-guides/laws.africa.md#headings): only the first letter of the heading as well as any proper nouns or defined terms should be capitalised.
 8. Sections:
    * Check the first and last words of paragraphs against the PDF.

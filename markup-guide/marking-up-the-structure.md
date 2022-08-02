@@ -283,7 +283,7 @@ PARA 1.
 ## Numbered lists
 
 {% hint style="warning" %}
-Do not use this markup for numbered elements like paragraphs or subparagraphs. Only use it for numbered lists in the Preface (a very rare exception) or tables.
+Do not use this markup for numbered elements like paragraphs or subparagraphs. Only use it for numbered lists in defined terms, the Preface, or tables.
 {% endhint %}
 
 The pattern for numbered lists is as follows:
@@ -293,7 +293,34 @@ The pattern for numbered lists is as follows:
 * Below the second keyword, indented, the content of the item
 * To mark the end of the numbered list, unindent the next element.
 
-### Example
+### Examples
+
+#### Definitions
+
+```
+SEC 1. - Definitions
+
+  Unless stated otherwise in this Act:
+  
+  "bread" means one loaf of bread;
+
+  ITEMS
+    "pigeon" means:
+    
+    ITEM (a)
+      a city pigeon; or
+
+    ITEM (b)
+      a country pigeon,
+
+    but not a pigeon that has been bred in captivity;
+    
+  "another term" means something else.
+
+
+```
+
+#### Preface
 
 ```
 PREFACE
