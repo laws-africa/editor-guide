@@ -55,6 +55,12 @@ If a term is consistently used in the upper case in a work, it should be used in
 [fix-all-caps-headings.md](../how-tos/fix-all-caps-headings.md)
 {% endcontent-ref %}
 
+### Marking up headings with or without keywords&#x20;
+
+If a document is divided by headings for which a keyword exists, such as `CHAPTER/PART`, please use `SUBPART`  for any further headings which do not have a keyword.
+
+If a document is divided by headings for which a keyword does  not exist, please use `DIVISION`  and `SUBDIVISION`  for those headings.
+
 ## Formatting
 
 In general, we don't mark up bold, italics, or underlined text purely for emphasis.
@@ -102,3 +108,10 @@ From [https://edit.laws.africa/works/akn/za/act/gn/2020/752/](https://edit.laws.
 ![](<../.gitbook/assets/image (99).png>)
 
 ![](<../.gitbook/assets/image (209) (1).png>)
+
+### Treaties and other documents with a Preamble
+
+In the Preamble of a document, style the first word of each sentence (words highlighted in the image below) as it is in the source document. If such word it **underlined**, please remove the underlining and **add italics** to it.&#x20;
+
+![](../.gitbook/assets/1.png)
+
