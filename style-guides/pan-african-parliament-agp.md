@@ -65,6 +65,12 @@ The most common grouping of content is numbered paragraphs.
 
 In AGP treaty documents, we use `PREAMBLE` for text like "_The African Union, Recalling X, Noting of Y, etc."_ We haven't yet found a use for `PREFACE`.
 
+
+
+In the Preamble of a document, style the first word of each sentence (words highlighted in the image below) as it is in the source document. If such word it **underlined**, please remove the underlining and **add italics** to it.&#x20;
+
+![](../.gitbook/assets/1.png)
+
 #### Body <a href="#body" id="body"></a>
 
 The `BODY` in treaties usually begins **after** the phrase "Have agrees as follows", as is highlighted in the example below.![](https://1576826725-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LoitfV0OP-HrMLMazq\_%2Fuploads%2FMaItnlGMIaUGf46n7Bfc%2Fimage.png?alt=media\&token=b24a6f96-cc48-4bec-b29d-7894883ee60d)
@@ -87,7 +93,11 @@ Within the main body and in Schedules, content is often grouped under headings. 
 
 `SUBPARA`
 
-#### Things to look for
+If a document is divided by headings for which a keyword exists, such as `CHAPTER/PART`, please use `SUBPART`  for any further headings which do not have a keyword.
+
+If a document is divided by headings for which a keyword does  not exist, please use `DIVISION`  and `SUBDIVISION`  for those headings.
+
+#### Things to look out for
 
 ![Please change this text that appears at the end of a document to sentence case. ](<../.gitbook/assets/image (1).png>)
 
@@ -96,5 +106,9 @@ Within the main body and in Schedules, content is often grouped under headings. 
 Please fix spacing errors. Please add a comment in the margin ONLY if adding a space changes the meaning of the sentence.
 
 ![Examples of spacing issues](../.gitbook/assets/Spacing.PNG)
+
+Please remove signatures that appear at the end of documents.
+
+![](<../.gitbook/assets/image (9) (1).png>)
 
 #### &#x20;

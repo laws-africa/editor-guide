@@ -16,7 +16,7 @@ PDFs saved here:\
 
 Please include legislation history (shown in the image below) when importing documents in Seychelles. These must be put in a single annotation, with Act references separated by a semi-colon. e.g. `{{*[Act 5 of 1943; Act 5 of 2013; S.I. 7 of 2021]}}`.&#x20;
 
-![](<../.gitbook/assets/Screenshot 2022-04-08 150556.png>)
+![](<../.gitbook/assets/Screenshot 2022-04-08 150556 (1).png>)
 
 ## Annotations
 
