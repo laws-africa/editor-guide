@@ -99,15 +99,25 @@ If a document is divided by headings for which a keyword does  not exist, please
 
 #### Things to look out for
 
-![Please change this text that appears at the end of a document to sentence case. ](<../.gitbook/assets/image (1).png>)
+**Please** change that appears at the end of a document to sentence case as demonstrated in the example below:
+
+
+
+**ADOPTED BY THE TWENTY-THIRD ORDINARY SESSION OF THE ASSEMBLY, HELD IN MALABO, EQUATORIAL GUINEA  27TH JUNE 2014** changes to **:**&#x20;
+
+**Adopted by the Twenty-Third Ordinary Session of the Assembly, held in Malabo, Equatorial Guinea 27th June 2014**&#x20;
+
+****
+
+**Please** take out underling in headings
 
 ![Please take out underling in headings.](<../.gitbook/assets/image (6) (1).png>)
 
-Please fix spacing errors. Please add a comment in the margin ONLY if adding a space changes the meaning of the sentence.
+**Please** fix spacing errors. Please add a comment in the margin ONLY if adding a space changes the meaning of the sentence.
 
 ![Examples of spacing issues](../.gitbook/assets/Spacing.PNG)
 
-Please remove signatures that appear at the end of documents.
+**Please** remove signatures that appear at the end of documents.
 
 ![](<../.gitbook/assets/image (9) (1).png>)
 
