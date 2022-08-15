@@ -52,7 +52,7 @@ In the image below:
 
 ![](<../.gitbook/assets/image (208) (1) (1).png>)
 
-### Signing off subsidiary legislation
+## Signing off subsidiary legislation
 
 The consolidation date of a work that is subsidiary legislation, is the same as the consolidation date of that work's primary work.&#x20;
 
