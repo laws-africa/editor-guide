@@ -51,3 +51,13 @@ In the image below:
 * the date "1 June 2020" right at the top of the document is the consolidation date
 
 ![](<../.gitbook/assets/image (208) (1) (1).png>)
+
+### Signing off subsidiary legislation
+
+The consolidation date of a work that is subsidiary legislation, is the same as the consolidation date of that work's primary work.&#x20;
+
+#### Explanation
+
+Some PDF copies of consolidated Acts in Seychelles came with subsidiary legislation in the same document. The subsidiary legislation was separated from from its primary works to create separate (stand-alone) PDF documents.&#x20;
+
+A single consolidation date is given at the top of the unedited PDFs containing a primary work and its subsidiary legislation. This consolidation date applies to the primary work and its subsidiary legislation.
