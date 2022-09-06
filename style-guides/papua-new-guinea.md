@@ -6,6 +6,14 @@ Please import from word (.docx) documents, found here: [https://drive.google.com
 
 Please use PDF documents to check against. PDFs are found here: [https://drive.google.com/drive/u/0/folders/1csEuWRUsNm7SV4TylLq9KKNAYm0CCsle](https://drive.google.com/drive/u/0/folders/1csEuWRUsNm7SV4TylLq9KKNAYm0CCsle)
 
+#### Points in time
+
+If a publication date and a consolidation date are provided, please import at the consolidation date.
+
+If there is no consolidation date, but a publication date, please import at the publication date.&#x20;
+
+If there is neither a consolidation date nor a publication date, please import at the commencement date.&#x20;
+
 #### Preface and long title&#x20;
 
 Below is an example of a `LONGTITLE` and how it should be marked up.
