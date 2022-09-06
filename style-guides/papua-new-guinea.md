@@ -48,3 +48,11 @@ PREFACE
 Please DO NOT include statements of certification that appear and the end of a document
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-05 115600.png" alt=""><figcaption></figcaption></figure>
+
+For references of Acts that are in bold text and italics, remove the bold text and keep the italics
+
+<figure><img src="../.gitbook/assets/bold and italics.png" alt=""><figcaption><p>Highlighted text should be italicised but not boldened </p></figcaption></figure>
+
+When marking up Parts, please remove the full stop after the number.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Should be marked up as <code>PART I - PRELIMINARY</code></p></figcaption></figure>

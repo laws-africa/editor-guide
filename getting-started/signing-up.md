@@ -7,7 +7,7 @@
 5. Click on your name in the top-right corner and then click **Profile**.
 6. Click **Edit profile** to correct or add details.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 ![](<../.gitbook/assets/image (205) (1) (1) (1).png>)
 
