@@ -1,12 +1,12 @@
 # Papua New Guinea
 
-#### Where to find documents
+### Where to find documents
 
 Please import from word (.docx) documents, found here: [https://drive.google.com/drive/u/0/folders/12uRt6n6D9nuevxMpxHDwD4HgWiTbhp1E](https://drive.google.com/drive/u/0/folders/12uRt6n6D9nuevxMpxHDwD4HgWiTbhp1E)
 
 Please use PDF documents to check against. PDFs are found here: [https://drive.google.com/drive/u/0/folders/1csEuWRUsNm7SV4TylLq9KKNAYm0CCsle](https://drive.google.com/drive/u/0/folders/1csEuWRUsNm7SV4TylLq9KKNAYm0CCsle)
 
-#### Points in time
+### Points in time
 
 If a publication date and a consolidation date are provided, please import at the consolidation date.
 
@@ -14,7 +14,7 @@ If there is no consolidation date, but a publication date, please import at the 
 
 If there is neither a consolidation date nor a publication date, please import at the commencement date.&#x20;
 
-#### Preface and long title&#x20;
+### Preface and long title&#x20;
 
 Below is an example of a `LONGTITLE` and how it should be marked up.
 
@@ -43,15 +43,21 @@ PREFACE
 ```
 {% endcode %}
 
-#### Things to remember
+### Things to remember
+
+#### Statements of certification
 
 Please DO NOT include statements of certification that appear and the end of a document
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-05 115600.png" alt=""><figcaption></figcaption></figure>
 
+#### References of Acts
+
 For references of Acts that are in bold text and italics, remove the bold text and keep the italics
 
 <figure><img src="../.gitbook/assets/bold and italics.png" alt=""><figcaption><p>Highlighted text should be italicised but not boldened </p></figcaption></figure>
+
+#### Marking up Parts
 
 When marking up Parts, please remove the full stop after the number.
 
