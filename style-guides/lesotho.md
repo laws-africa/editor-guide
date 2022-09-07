@@ -34,6 +34,8 @@ The text on the left of the long-title must be retained, please style like this:
 
 #### Text in margins
 
+Notes/remarks in the margins that have been manually written must be ignored.
+
 Some of the pdfs have text in the margins that has to be brough into the main body of text. Some of these are section headings \[outlined in green in the image below] and have been brought in already and placed next to the section number, please check carefully that those have been done correctly.
 
 Some of them are not section headings and must be styled as annotations. In the example outlined in red in the image below, the annotation will be placed directly under the paragraph that it appears next to.
