@@ -18,4 +18,16 @@ Word docs and pdfs are saved here:
 
 #### Endnotes
 
-Most of the works in Lesotho contain endnotes which appear at the end of the document. These must be treated as footnotes and styled accordingly.\
+Most of the works in Lesotho contain endnotes which appear at the end of the document. These must be treated as footnotes and styled accordingly.
+
+#### Metadata at the top of Acts
+
+Some of the Lesotho pdfs have this information \[hi-lighted below] at the top of the Act
+
+<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+
+The date underneath the long-title is the date of commencement and must be deleted as it is already captured in the metadata of this work.
+
+The text on the left of the long-title must be retained, please style like this:
+
+<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
