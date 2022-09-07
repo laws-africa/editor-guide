@@ -31,3 +31,15 @@ The date underneath the long-title is the date of commencement and must be delet
 The text on the left of the long-title must be retained, please style like this:
 
 <figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+
+#### Text in margins
+
+Some of the pdfs have text in the margins that has to be brough into the main body of text. Some of these are section headings \[outlined in green in the image below] and have been brought in already and placed next to the section number, please check carefully that those have been done correctly.
+
+Some of them are not section headings and must be styled as annotations. In the example outlined in red in the image below, the annotation will be placed directly under the paragraph that it appears next to.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Like this:
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

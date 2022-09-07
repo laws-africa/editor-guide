@@ -36,7 +36,7 @@ A commencement notice can give:&#x20;
 
 In this case, all the provisions of the work commence on the same date; this date is given in a Commencing work, often a notice, which will be gazetted like all other works.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 When this is the case, you should:
 
