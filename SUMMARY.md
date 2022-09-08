@@ -74,6 +74,7 @@
 * [Lesotho](style-guides/lesotho.md)
 * [Malawi](style-guides/malawi.md)
 * [Nigeria](style-guides/nigeria.md)
+* [Zambia](style-guides/zambia.md)
 * [South African Acts](style-guides/south-african-acts.md)
 * [South African By-laws](style-guides/south-african-by-laws.md)
 * [Tanzania](style-guides/tanzania.md)
