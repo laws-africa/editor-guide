@@ -48,6 +48,8 @@ If a commencements table appears at the top, make sure to check each of those en
 
 If everything looks good, check the 'Approve these changes' box at the bottom of this page too.
 
+
+
 ![](<../.gitbook/assets/image (211) (1) (1) (1).png>)
 
 Once all the changes have been approved, the 'Publish changes' button will activate. You should click it to complete the task.
@@ -74,9 +76,15 @@ If changes do need to be made, there are two common patterns to follow:
   * **Reload** the page if you still have it open, or 'Publish changes' at the end will fail.
   * Continue with your review.
 
+&#x20;
+
 {% hint style="warning" %}
 The part about reloading the page before continuing the review is serious – don't end up having to review the same thing twice!
 {% endhint %}
+
+### Placeholder date
+
+Sometimes we might get documents that need to be imported that do not have dates. To solve the problem of importing these documents while we look for a date, we use the date **01-01-1600** as a placeholder. When you see a work with this date, **please do not sign it off**. Such a work can only be signed off once the correct date has been found. On encountering such a work, create a task on it detailing that the correct date needs to be found, if such a task does not already exist.&#x20;
 
 {% content-ref url="../managing-works/creating-and-editing-works/" %}
 [creating-and-editing-works](../managing-works/creating-and-editing-works/)
