@@ -82,9 +82,7 @@ If changes do need to be made, there are two common patterns to follow:
 The part about reloading the page before continuing the review is serious – don't end up having to review the same thing twice!
 {% endhint %}
 
-### Placeholder date
-
-Sometimes we might get documents that need to be imported that do not have dates. To solve the problem of importing these documents while we look for a date, we use the date **01-01-1600** as a placeholder. When you see a work with this date, **please do not sign it off**. Such a work can only be signed off once the correct date has been found. On encountering such a work, create a task on it detailing that the correct date needs to be found, if such a task does not already exist.&#x20;
+&#x20;
 
 {% content-ref url="../managing-works/creating-and-editing-works/" %}
 [creating-and-editing-works](../managing-works/creating-and-editing-works/)
@@ -93,6 +91,10 @@ Sometimes we might get documents that need to be imported that do not have dates
 {% content-ref url="../managing-works/creating-and-editing-works/working-with-commencements.md" %}
 [working-with-commencements.md](../managing-works/creating-and-editing-works/working-with-commencements.md)
 {% endcontent-ref %}
+
+### Placeholder date&#x20;
+
+Sometimes we might get documents that need to be imported that do not have dates. To solve the problem of importing these documents while we look for a date, we use the date **01-01-1600** as a placeholder. When you see a work with this date, **please do not sign it off**. Such a work can only be signed off once the correct date has been found. On encountering such a work, create a task on it detailing that the correct date needs to be found, if such a task does not already exist.&#x20;
 
 ### Send back for changes
 
