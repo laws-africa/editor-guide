@@ -62,3 +62,21 @@ For references of Acts that are in bold text and italics, remove the bold text a
 When marking up Parts, please remove the full stop after the number.
 
 <figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>Should be marked up as <code>PART I - PRELIMINARY</code></p></figcaption></figure>
+
+### Documents that are consolidations
+
+A consolidated document is one that is update with amendments up to a certain date. In Papua New Guinea, if a document is consolidated, please change footnotes of amendment information to editorial remarks.&#x20;
+
+&#x20;
+
+<figure><img src="../.gitbook/assets/PPNG.png" alt=""><figcaption><p>The highlighted footnotes should all be captured as editorial remarks.  </p></figcaption></figure>
+
+Use \{{\*\[remark]\}} to capture amendment information. Please pay attention to the position of each editorial remark. An editorial remark should be under the numbered item to which it relates. In the example above, footnote 19 refers to the entire section 10 and the editorial remark should be at the end of that section. &#x20;
+
+For the annotations in the consolidated Acts:
+
+Change "s." or "Section" to "section", "Subsection" to "subsection", "Paragraph" to "paragraph",  "Definition" to "definition",  "Proviso" to "proviso", "Long Title" to "long title", "Heading" to "heading" and "Item" to "item". The only ones that must remain capitalised are "Chapter", "Part" and "Schedule".
+
+Remove the full stop at the end of the annotation (if there is one)
+
+Please do not make any additional changes to the existing annotations, including the annotations in the definitions.
