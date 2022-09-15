@@ -57,6 +57,14 @@ The most common grouping of content is numbered paragraphs.
 
 `SUBPARA`
 
+### Notes for reviewers
+
+#### Dates
+
+The adoption date of a PAP document (resolution, recommendation or model law) is the last date of the session in which the document was presented.&#x20;
+
+<figure><img src="../.gitbook/assets/PAP.png" alt=""><figcaption><p>e.g. Documents presented at the 3rd session of the Pan-African Parliament in 2005, were all adopted on the 11th of April 2005. </p></figcaption></figure>
+
 ## AGP
 
 ### General <a href="#general" id="general"></a>
