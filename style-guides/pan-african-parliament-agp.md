@@ -113,7 +113,7 @@ If a document is divided by headings for which a keyword does  not exist, please
 
 **ADOPTED BY THE TWENTY-THIRD ORDINARY SESSION OF THE ASSEMBLY, HELD IN MALABO, EQUATORIAL GUINEA  27TH JUNE 2014** changes to **:**&#x20;
 
-**Adopted by the Twenty-Third Ordinary Session of the Assembly, held in Malabo, Equatorial Guinea 27th June 2014**&#x20;
+**Adopted by the twenty-third Ordinary Session of the Assembly, held in Malabo, Equatorial Guinea 27th June 2014**&#x20;
 
 ****
 
