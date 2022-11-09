@@ -5,10 +5,10 @@
 **NB: Use the Word docs to import, but use the PDFs as reference when cleaning up the imports.**
 
 Word docs saved here:\
-[https://drive.google.com/drive/u/0/folders/1t\_s7FF28n7Yi4Bfo4rE8r-FXrxlNNgN6](https://drive.google.com/drive/u/0/folders/1t\_s7FF28n7Yi4Bfo4rE8r-FXrxlNNgN6)
+[https://drive.google.com/drive/folders/1t\_s7FF28n7Yi4Bfo4rE8r-FXrxlNNgN6?usp=share\_link](https://drive.google.com/drive/folders/1t\_s7FF28n7Yi4Bfo4rE8r-FXrxlNNgN6?usp=share\_link)
 
 PDFs saved here:\
-[https://drive.google.com/drive/u/0/folders/1Li47Ui0VdWXFyLISVL8zSE4vvyShIWip](https://drive.google.com/drive/u/0/folders/1Li47Ui0VdWXFyLISVL8zSE4vvyShIWip)
+[https://drive.google.com/drive/folders/1Li47Ui0VdWXFyLISVL8zSE4vvyShIWip?usp=share\_link](https://drive.google.com/drive/folders/1Li47Ui0VdWXFyLISVL8zSE4vvyShIWip?usp=share\_link)
 
 
 
