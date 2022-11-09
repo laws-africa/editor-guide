@@ -9,10 +9,9 @@ description: Special instructions for cleaning up Zimbabwe imports
 **NB: Use the Word docs to import, but use the pdfs as reference when cleaning up the imports.**
 
 Word docs saved here:\
-[https://drive.google.com/drive/u/1/folders/1hQubPO35alWRr-xEg\_SAXw\_IX30Tz6qh](https://drive.google.com/drive/u/1/folders/1NuC-suAyCXXBJvP7vD\_ZYwMQz0Gc7gKh)
+[https://drive.google.com/drive/folders/1ESe6HHbX\_iClb4WMNrYAJR5kYu34nrSt?usp=share\_link](https://drive.google.com/drive/folders/1ESe6HHbX\_iClb4WMNrYAJR5kYu34nrSt?usp=share\_link)
 
-Pdfs saved here:\
-[https://drive.google.com/drive/u/1/folders/1u\_If\_mzwdh9c9YiKShVax9AcamRsGiJl](https://drive.google.com/drive/u/1/folders/1u\_If\_mzwdh9c9YiKShVax9AcamRsGiJl)
+Pdfs saved here: [https://drive.google.com/drive/folders/14uXQCl9VxoApGyXBYeJAs23Qcc2pAAm8?usp=share\_link](https://drive.google.com/drive/folders/14uXQCl9VxoApGyXBYeJAs23Qcc2pAAm8?usp=share\_link)
 
 
 
