@@ -4,13 +4,13 @@
 
 #### 1996 Consolidation
 
-PDFs for reference: [https://drive.google.com/drive/u/0/folders/1bKsOYDXu5wiHncPlKnqfuVK2PHVFJ-RD](https://drive.google.com/drive/u/0/folders/1bKsOYDXu5wiHncPlKnqfuVK2PHVFJ-RD)
+PDFs for reference: [https://drive.google.com/drive/folders/1bKsOYDXu5wiHncPlKnqfuVK2PHVFJ-RD?usp=share\_link](https://drive.google.com/drive/folders/1bKsOYDXu5wiHncPlKnqfuVK2PHVFJ-RD?usp=share\_link)
 
-Word documents: [https://drive.google.com/drive/u/0/folders/1hHI\_zNcF0vePS8xV88lYVp7pf\_uP\_tGj](https://drive.google.com/drive/u/0/folders/1hHI\_zNcF0vePS8xV88lYVp7pf\_uP\_tGj)
+Word documents: [https://drive.google.com/drive/folders/1hHI\_zNcF0vePS8xV88lYVp7pf\_uP\_tGj?usp=share\_link](https://drive.google.com/drive/folders/1hHI\_zNcF0vePS8xV88lYVp7pf\_uP\_tGj?usp=share\_link)
 
 #### Update documents
 
-These are for documents if a date after 31 December 1996. [https://drive.google.com/drive/u/0/folders/1IecOPTPKGZKJizv4Gk1CJd5UmrzXglQ6](https://drive.google.com/drive/u/0/folders/1IecOPTPKGZKJizv4Gk1CJd5UmrzXglQ6)
+These are for documents if a date after 31 December 1996. [https://drive.google.com/drive/folders/1IecOPTPKGZKJizv4Gk1CJd5UmrzXglQ6?usp=share\_link](https://drive.google.com/drive/folders/1IecOPTPKGZKJizv4Gk1CJd5UmrzXglQ6?usp=share\_link)
 
 ### Cleaning up a document&#x20;
 
