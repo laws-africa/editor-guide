@@ -2,9 +2,9 @@
 
 ### Where to find documents
 
-Please import from word (.docx) documents, found here: [https://drive.google.com/drive/u/0/folders/12uRt6n6D9nuevxMpxHDwD4HgWiTbhp1E](https://drive.google.com/drive/u/0/folders/12uRt6n6D9nuevxMpxHDwD4HgWiTbhp1E)
+Please import from word (.docx) documents, found here: [https://drive.google.com/drive/folders/12uRt6n6D9nuevxMpxHDwD4HgWiTbhp1E?usp=share\_link](https://drive.google.com/drive/folders/12uRt6n6D9nuevxMpxHDwD4HgWiTbhp1E?usp=share\_link)
 
-Please use PDF documents to check against. PDFs are found here: [https://drive.google.com/drive/u/0/folders/1csEuWRUsNm7SV4TylLq9KKNAYm0CCsle](https://drive.google.com/drive/u/0/folders/1csEuWRUsNm7SV4TylLq9KKNAYm0CCsle)
+Please use PDF documents to check against. PDFs are found here: [https://drive.google.com/drive/folders/1csEuWRUsNm7SV4TylLq9KKNAYm0CCsle?usp=share\_link](https://drive.google.com/drive/folders/1csEuWRUsNm7SV4TylLq9KKNAYm0CCsle?usp=share\_link)
 
 ### Points in time
 
