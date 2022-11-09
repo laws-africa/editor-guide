@@ -10,7 +10,7 @@ description: Special instructions for cleaning up Lesotho imports
 
 Word docs and pdfs are saved here:
 
-[https://drive.google.com/drive/u/1/folders/1WfVfs\_97rQuTDQu3Kr7OtaEPmWTSH33V](https://drive.google.com/drive/u/1/folders/1WfVfs\_97rQuTDQu3Kr7OtaEPmWTSH33V)
+[https://drive.google.com/drive/folders/1WfVfs\_97rQuTDQu3Kr7OtaEPmWTSH33V?usp=share\_link](https://drive.google.com/drive/folders/1WfVfs\_97rQuTDQu3Kr7OtaEPmWTSH33V?usp=share\_link)
 
 ## Cleaning up the import
 
