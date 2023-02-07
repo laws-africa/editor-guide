@@ -1,6 +1,6 @@
 # Mauritius
 
-## Documents for import
+Documents for import
 
 Please use Word documents for import, and PDF documents to compare against.&#x20;
 
@@ -19,6 +19,16 @@ Please do not change the wording of annotations. These should be left as they ar
 {% code overflow="wrap" lineNumbers="true" %}
 ```markup
 {{*[S. 2 amended by s. 3 of Act 21 of 2004; s. 3 of Act 34 of 2011 w.e.f. 1 January 2012.]}}
+```
+{% endcode %}
+
+Certain annotations will appear in round brackets, such as in the example below. These should be marked up as an annotation/remark. &#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-02-06 094548.png" alt=""><figcaption><p>How this annotation should be marked up is shown below. </p></figcaption></figure>
+
+{% code overflow="wrap" lineNumbers="true" %}
+```markup
+{{*[Subsec. (6) not in operation.]}}
 ```
 {% endcode %}
 
