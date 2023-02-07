@@ -82,6 +82,7 @@
 * [UNEP](style-guides/unep.md)
 * [Zimbabwe](style-guides/zimbabwe.md)
 * [Seychelles](style-guides/seychelles.md)
+* [Mauritius](style-guides/mauritius.md)
 * [Pan-African Parliament/ AGP](style-guides/pan-african-parliament-agp.md)
 * [Turks and Caicos](style-guides/turks-and-caicos.md)
 * [Papua New Guinea](style-guides/papua-new-guinea.md)

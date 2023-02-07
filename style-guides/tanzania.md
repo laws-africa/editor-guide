@@ -5,7 +5,7 @@
 **NB: Use the Word docs to import, but use the pdfs as reference when cleaning up the imports.**
 
 Word docs and pdfs are saved here:\
-[https://drive.google.com/drive/u/1/folders/1JqUJkyXx32zMbG3EUW2F4KpGXckoHkBs](https://drive.google.com/drive/u/1/folders/1JqUJkyXx32zMbG3EUW2F4KpGXckoHkBs)
+&#x20;[https://drive.google.com/drive/folders/15PfG-gzRTwslHBHcUEtSKt6-cotr-Nvv?usp=share\_link](https://drive.google.com/drive/folders/15PfG-gzRTwslHBHcUEtSKt6-cotr-Nvv?usp=share\_link)
 
 ## Cleaning up the import
 
