@@ -341,6 +341,34 @@ PREFACE
 
 ```
 
+### Nested items
+
+Repeat the pattern, with the nested `ITEMS` keyword inside the `ITEM` in which it appears.
+
+```
+ITEMS
+  "possessions"—
+
+  ITEM (a)
+    means property of any kind, nature or description, whether movable or immovable; and
+
+  ITEM (b)
+    ITEMS
+      includes —
+
+      ITEM (i)
+        any cash in a bank account or bank deposit; and
+
+      ITEM (ii)
+        any currency, whether or not the currency is legal tender …,
+        
+      but does not include …, [applies to list in item (b) only]
+      
+  and "possession" is the singular of "possessions"; [applies to outer list]
+
+
+```
+
 ## Exercises
 
 ### Hierarchical structure 1
