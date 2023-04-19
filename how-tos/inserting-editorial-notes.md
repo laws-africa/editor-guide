@@ -11,7 +11,7 @@ Where there is a very obvious error in numbering in the original Gazette, as wel
 &#x20;    (b) blah blah\
 &#x20;    (d) blah blah\
 &#x20;    _\[Please note: numbering as in original.]_\
-&#x20;    __     (e) blah blah
+&#x20;    (e) blah blah
 
 or
 

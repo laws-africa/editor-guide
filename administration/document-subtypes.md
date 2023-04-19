@@ -17,7 +17,7 @@ To add a document subtype:
 5. Click **Save**
 
 {% hint style="info" %}
-Use only lowercase in the **abbreviation** and replace spaces with **** hyphens (-).
+Use only lowercase in the **abbreviation** and replace spaces with hyphens (-).
 {% endhint %}
 
 ![](../.gitbook/assets/document-subtype.png)

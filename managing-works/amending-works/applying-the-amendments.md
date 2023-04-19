@@ -17,7 +17,7 @@ Amending work:
 > 2\. Insert the following section 3A after the existing section 3:
 >
 > "**3A When to pick strawberries** \
-> ****Strawberries may be picked on Tuesdays.".
+> Strawberries may be picked on Tuesdays.".
 
 Amended work before amendment:
 
@@ -58,7 +58,7 @@ Amending work:
 Amended work before amendment:
 
 > **12 How to pick apples** \
-> ****Apples may only be picked using special apple-picking equipment.
+> Apples may only be picked using special apple-picking equipment.
 >
 > **13 How to pick strawberries** \
 > (1) Strawberries may be picked using special strawberry-picking equipment. \
@@ -67,7 +67,7 @@ Amended work before amendment:
 Amended work after amendment:
 
 > **12 \*\*\***\
-> ****_\[section 12 repealed by section 6 of Act 1 of 2023]_
+> _\[section 12 repealed by section 6 of Act 1 of 2023]_
 >
 > **13 How to pick strawberries** \
 > (1) _\[subsection (1) repealed by section 7 of Act 1 of 2023]_ \

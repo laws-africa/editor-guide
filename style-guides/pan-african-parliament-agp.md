@@ -115,7 +115,7 @@ If a document is divided by headings for which a keyword does  not exist, please
 
 **Adopted by the twenty-third Ordinary Session of the Assembly, held in Malabo, Equatorial Guinea 27th June 2014**&#x20;
 
-****
+
 
 **Please** take out underling in headings
 

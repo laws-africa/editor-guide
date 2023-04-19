@@ -86,6 +86,7 @@
 * [Pan-African Parliament/ AGP](style-guides/pan-african-parliament-agp.md)
 * [Turks and Caicos](style-guides/turks-and-caicos.md)
 * [Papua New Guinea](style-guides/papua-new-guinea.md)
+* [eSwatini](style-guides/eswatini.md)
 
 ## Administration
 
