@@ -30,7 +30,11 @@ Using the pdf as reference, check that they have been placed correctly by follow
 
 * another example
 
-![](<../.gitbook/assets/image (190).png>)
+<div align="center">
+
+<img src="../.gitbook/assets/image (190).png" alt="">
+
+</div>
 
 This is how it will look on the platform, **please take note of how the references are indented**:
 

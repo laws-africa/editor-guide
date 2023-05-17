@@ -6,12 +6,12 @@
 2. [How Laws.Africa digitises African legal information for public use](digitising-legislation.md)
 3. [Akoma Ntoso](what-is-akoma-ntoso.md)
 4. [How to find a task](../how-tos/tasks.md)
-5. [Importing a document](../how-tos/importing-a-document.md)
+5. [Importing a document](../how-tos/importing-a-document/)
 6. [Cleaning up an imported document](../how-tos/cleaning-up-an-import.md)
 
 ## Lesson 2 – The editor
 
-1. Recap: [Importing a document](../how-tos/importing-a-document.md)
+1. Recap: [Importing a document](../how-tos/importing-a-document/)
 2. Recap: [Cleaning up an import](../how-tos/cleaning-up-an-import.md)
 3. Questions
 4. [Terminology guide](terminology-guide.md)

@@ -30,7 +30,8 @@
 ## How-tos
 
 * [Tasks](how-tos/tasks.md)
-* [Importing a document](how-tos/importing-a-document.md)
+* [Importing a document](how-tos/importing-a-document/README.md)
+  * [The importer](how-tos/importing-a-document/the-importer.md)
 * [Cleaning up an import](how-tos/cleaning-up-an-import.md)
 * [Fixing all-caps headings](how-tos/fix-all-caps-headings.md)
 * [Working with tables](how-tos/tables/README.md)

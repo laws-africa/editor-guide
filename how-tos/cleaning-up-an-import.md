@@ -6,6 +6,10 @@ Once you have imported a piece of legislation, it needs to be cleaned up before 
 Content and structure is more important than matching exactly what the text looks like in the gazette (presentation).
 {% endhint %}
 
+{% content-ref url="importing-a-document/the-importer.md" %}
+[the-importer.md](importing-a-document/the-importer.md)
+{% endcontent-ref %}
+
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
