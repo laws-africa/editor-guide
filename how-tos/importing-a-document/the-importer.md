@@ -23,8 +23,7 @@ These should all be recognised:
 * Items
   * These should only be in the definitions sections
   * There should be no paragraphs or subparagraphs in the definitions section
-* Schedule
-* Annex
+* Annexure, Appendix, Attachment, Schedule
 
 ### For all recognised elements
 
@@ -37,6 +36,11 @@ The following should be picked up:
 {% hint style="info" %}
 There should be a ‘ - ’ between the number and the heading.
 {% endhint %}
+
+### For Annexures, Appendixes, Attachments, and Schedules
+
+* There should be no dash before the heading.
+* The subheading should be picked up as well.
 
 ## Indentation
 
