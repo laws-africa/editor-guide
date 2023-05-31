@@ -29,18 +29,19 @@ These should all be recognised:
 
 The following should be picked up:
 
-* Keyword (e.g. CHAP, PART, SEC)
+* Keyword (e.g. `CHAP`, `PART`, `SEC`)
 * Number
 * Heading
 
 {% hint style="info" %}
-There should be a ‘ - ’ between the number and the heading.
+There should be a ‘ `-` ’ between the number and the heading.
 {% endhint %}
 
 ### For Annexures, Appendixes, Attachments, and Schedules
 
 * There should be no dash before the heading.
 * The subheading should be picked up as well.
+* There should be `PARAGRAPHS` and `SUBPARAGRAPHS` within these, and no `SECTION`s.
 
 ## Indentation
 
@@ -57,12 +58,13 @@ So the top-level structure should still always be checked first.
 
 ### Indentation within elements
 
-```
-Some intro text:
-(a)	first para; and
-(b)	second para,
-except something that applies to both previous paragraphs.
-```
+> Some intro text:&#x20;
+>
+> (a) first para; and&#x20;
+>
+> (b) second para,&#x20;
+>
+> except something that applies to both previous paragraphs.
 
 In cases like this, the importer will do its best to unindent that last piece of text to the correct level — within the containing element if there is one, but not within the final (sub)element.
 
@@ -71,13 +73,17 @@ However, human intervention will always be required here as simply looking at th
 Editors should check for:
 
 * False positives: where the importer has unindented text that should actually be part of the final element. Sometimes an element legitimately contains two or more paragraphs of text, like in places where provisos always go on the next line.
-* Missed matches: where the importer has failed to unindent the final element, or has put it in the next element or as a standalone paragraph. This is especially common in the definitions section, where the ‘exception’ text should be indented under ‘ITEMS’ but not under the final ‘ITEM’.
+* Missed matches: where the importer has failed to unindent the final element, or has put it in the next element or as a standalone paragraph. This is especially common in the definitions section, where the ‘exception’ text should be indented under `ITEMS` but not under the final `ITEM`.
 
 ## Other elements
 
 ### Annotations
 
 When a standalone paragraph begins with a \[ and ends with a ], the importer will automatically apply the annotation mark-up.
+
+### Quotes
+
+Quotes should be fairly clean — no instances of two single quotes instead of one double (`''` instead of `"`) — and should in general not require any clean-up or adjustments after import.
 
 ### Tables
 
