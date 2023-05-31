@@ -113,5 +113,5 @@ From [https://edit.laws.africa/works/akn/za/act/gn/2020/752/](https://edit.laws.
 
 In the Preamble of a document, style the first word of each sentence (words highlighted in the image below) as it is in the source document. If such word it **underlined**, please remove the underlining and **add italics** to it.&#x20;
 
-![](../.gitbook/assets/1.png)
+![](<../.gitbook/assets/1 (1).png>)
 

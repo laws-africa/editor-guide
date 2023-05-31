@@ -77,7 +77,7 @@ In AGP treaty documents, we use `PREAMBLE` for text like "_The African Union, Re
 
 In the Preamble of a document, style the first word of each sentence (words highlighted in the image below) as it is in the source document. If such word it **underlined**, please remove the underlining and **add italics** to it.&#x20;
 
-![](../.gitbook/assets/1.png)
+![](<../.gitbook/assets/1 (1).png>)
 
 #### Body <a href="#body" id="body"></a>
 

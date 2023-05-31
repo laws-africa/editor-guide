@@ -46,6 +46,7 @@
 * [Changing a document's date](how-tos/change-a-documents-date.md)
 * [Changing a document's title](how-tos/changing-a-documents-title.md)
 * [Search and rescue](how-tos/search-and-rescue.md)
+* [How to handle different language documents](how-tos/how-to-handle-different-language-documents.md)
 
 ## Markup guide
 
@@ -88,6 +89,7 @@
 * [Turks and Caicos](style-guides/turks-and-caicos.md)
 * [Papua New Guinea](style-guides/papua-new-guinea.md)
 * [eSwatini](style-guides/eswatini.md)
+* [Untitled](style-guides/untitled.md)
 
 ## Administration
 
