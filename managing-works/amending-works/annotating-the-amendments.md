@@ -7,6 +7,7 @@ Annotations are how we show readers what happened to a piece of legislation over
 1. In Edit mode, place your cursor in the line below the one where the change was made.
 2. Click 'Insert | Insert annotation …' and select the appropriate verb (refer to the amending work).
 3. Amend the annotation:
+   * First, double-check that the amending work is correct — especially when there are multiple amendments at the same date.
    * Replace the section reference (`section 10` in the screenshot below) with the provision that was affected – in this case, `subsection (2)`.
    * Replace `XXX` with the section of the amending work that made this particular change. (If the amending work doesn't have sections, delete all of `section XXX of`.)
 4. In our example, the final annotation will read `{{*[subsection (2) substituted by section 8(1)(b) of the {{>/za-playground/act/by-law/2020/practice-3 Amendment By-law, 2020}}]}}` – note it does not start with a capital letter, and there are no spaces between the brackets in the reference to section 8(1)(b).
@@ -50,8 +51,8 @@ or:
   (For example, 'altered' seems to be preferred over 'amended' in Nigeria.)
 * When the amending work doesn't have an Act number, use its short title.
 
-## Placement of annotations when new Chapter/Part/Schedule is inserted
+## Placement of annotations when a new Chapter/Part/Schedule is inserted
 
-* When an entire new Chapter/Part/Schedule is **inserted** place the annotation at the top, directly underneath the heading.
+* When an entire new Chapter/Part/Schedule is **inserted**, place the annotation at the top, directly underneath the heading.
 * Also place an annotation underneath each section in the new Chapter/Part. These annotations are only inserted when the Chapter/Part has been **inserted**, not if it has been **substituted**.
-* When a new Schedule is inserted, just the one heading at the top is necessary.
+* When a new Schedule is inserted, just the one annotation at the top is necessary.
