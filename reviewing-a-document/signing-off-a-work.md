@@ -46,6 +46,8 @@ If a commencements table appears at the top, make sure to check each of those en
 * You will have to do this manually, i.e. go to the commencement tab on the work and create a new commencement at the appropriate date, then tick the new provisions that have been inserted.
 * See here for detailed instructions on how to create a new commencement date: [https://docs.laws.africa/managing-works/creating-and-editing-works/working-with-commencements#insertion-of-new-sections-by-amendment](https://docs.laws.africa/managing-works/creating-and-editing-works/working-with-commencements#insertion-of-new-sections-by-amendment)
 
+Once the commencement table is complete, go to the "commencements" tab on the work and remove any notes that have been left regarding which provisions commence on the different dates. If the work is a stub, **do not remove** the notes as stubs do not have commencement tables and we need to have that information recorded.
+
 If everything looks good, check the 'Approve these changes' box at the bottom of this page too.
 
 
