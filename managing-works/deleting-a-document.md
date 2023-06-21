@@ -4,7 +4,7 @@ You can delete a document by clicking 'Settings | Delete'.
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="197"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="197"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 You cannot delete a published document. Mark it as a draft first.
