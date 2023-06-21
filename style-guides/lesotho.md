@@ -50,7 +50,7 @@ Some of the pdfs have text in the margins that has to be brough into the main bo
 
 Some of them are not section headings and must be styled as annotations. In the example outlined in red in the image below, the annotation will be placed directly under the paragraph that it appears next to.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 Like this:
 

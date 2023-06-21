@@ -45,7 +45,7 @@
 * [Making comments](how-tos/making-comments.md)
 * [Inserting editorial notes](how-tos/inserting-editorial-notes.md)
 * [Changing a document's date](how-tos/change-a-documents-date.md)
-* [Changing a document's title](how-tos/changing-a-documents-title.md)
+* [Changing a document's short title or language](how-tos/changing-a-documents-short-title-or-language.md)
 * [Search and rescue](how-tos/search-and-rescue.md)
 * [How to handle different language documents](how-tos/how-to-handle-different-language-documents.md)
 
