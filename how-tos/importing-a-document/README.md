@@ -1,5 +1,13 @@
 # Importing a document
 
+Follow these tips for getting the best results when importing documents:
+
+* Prefer Word (.docx) documents; use PDFs only as a last resort.
+* Make sure the document uses manual, not automatic, numbering.
+* Remove the Table of Contents / Arrangement of Sections at the start of the document.
+* Make sure that the text isn't in images or text boxes in the input file.
+* Make sure tables are correct, and haven't for example been marked up only using tabs in the input file.
+
 ## Importing a Word document
 
 1. Assign the task to yourself: click 'Assign to' and select your name from the list.
