@@ -14,6 +14,7 @@
 
 * [Creating and editing works](managing-works/creating-and-editing-works/README.md)
   * [Working with commencements](managing-works/creating-and-editing-works/working-with-commencements.md)
+* [Deleting a document](managing-works/deleting-a-document.md)
 * [Amending works](managing-works/amending-works/README.md)
   * [Creating the amending work](managing-works/amending-works/creating-the-amending-work.md)
   * [Linking the amendment](managing-works/amending-works/linking-the-amendment.md)

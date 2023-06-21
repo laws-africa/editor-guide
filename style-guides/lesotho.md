@@ -36,7 +36,7 @@ The text on the left of the long-title must be retained, please style like this:
 
 For Lesotho you'll notice that often the Minister's name in the Preface at the top of a Gazetted notice, is styled like this:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 These must be styled like this on the platform:
 
