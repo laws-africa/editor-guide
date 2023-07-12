@@ -100,3 +100,4 @@
 * [Document subtypes](administration/document-subtypes.md)
 * [Task labels](administration/task-labels.md)
 * [Taxonomies](administration/taxonomies.md)
+* [Notion templates](administration/notion-templates.md)
