@@ -74,6 +74,8 @@
 ## Style Guides
 
 * [Laws.Africa](style-guides/laws.africa.md)
+* [Namibia](style-guides/namibia/README.md)
+  * [Regulations](style-guides/namibia/regulations.md)
 * [Lesotho](style-guides/lesotho.md)
 * [Malawi](style-guides/malawi.md)
 * [Nigeria](style-guides/nigeria.md)
