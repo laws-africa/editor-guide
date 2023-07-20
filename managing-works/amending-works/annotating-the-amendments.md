@@ -51,8 +51,8 @@ or:
   (For example, 'altered' seems to be preferred over 'amended' in Nigeria.)
 * When the amending work doesn't have an Act number, use its short title.
 
-## Placement of annotations when a new Chapter/Part/Schedule is inserted
+## Placement of annotations when a new Chapter/Part/Schedule is inserted/substituted
 
-* When an entire new Chapter/Part/Schedule is **inserted**, place the annotation at the top, directly underneath the heading.
-* Also place an annotation underneath each section in the new Chapter/Part. These annotations are only inserted when the Chapter/Part has been **inserted**, not if it has been **substituted**.
+* When an entire Chapter/Part/Schedule is inserted or substituted, place the annotation at the top, directly underneath the heading.
+* Also place an annotation underneath each section within the Chapter/Part.
 * When a new Schedule is inserted, just the one annotation at the top is necessary.
