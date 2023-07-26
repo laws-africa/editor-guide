@@ -17,12 +17,12 @@ Word docs and pdfs are saved here:\
 
 #### Margin references
 
-The references and date that appear alongside/under the Long Title of the Act must be deleted.
+The references that appear alongside/under the Long Title of the Act must be moved to above the Long Title and styled like this:
 
-![](<../.gitbook/assets/image (185).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-The margin references in the pdfs have been moved into the body of the Act in the  Word docs. \
-These references must be  in `{{*[annotation markup]}}` and **no changes** must be made to their wording.
+The margin references in the pdfs have been moved into the body of the Act in the Word docs. \
+These references must be in `{{*[annotation markup]}}` and **no changes** must be made to their wording.
 
 Using the pdf as reference, check that they have been placed correctly by following these instructions:
 
