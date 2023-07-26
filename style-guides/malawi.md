@@ -21,6 +21,8 @@ The references that appear alongside/under the Long Title of the Act must be mov
 
 <figure><img src="../.gitbook/assets/image (221).png" alt="" width="563"><figcaption></figcaption></figure>
 
+The date that underneath the Long Title may be deleted as it has been captured in the metadata which appears at the top of the work.
+
 The margin references in the pdfs have been moved into the body of the Act in the Word docs. \
 These references must be in `{{*[annotation markup]}}` and **no changes** must be made to their wording.
 
