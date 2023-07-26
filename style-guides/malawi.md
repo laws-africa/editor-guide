@@ -19,7 +19,7 @@ Word docs and pdfs are saved here:\
 
 The references that appear alongside/under the Long Title of the Act must be moved to above the Long Title and styled like this:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (221).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The margin references in the pdfs have been moved into the body of the Act in the Word docs. \
 These references must be in `{{*[annotation markup]}}` and **no changes** must be made to their wording.
