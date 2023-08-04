@@ -45,6 +45,6 @@ Please remove the text that comes immediately after the Namibian coat of arms or
 
 ### Annotations
 
-Annotations will look a little different in Namibia. They are automatically centre aligned and in red.
+Annotations will look a little different in Namibia. They are automatically centre aligned and in green.
 
 ![](../../.gitbook/assets/annotations.png)
