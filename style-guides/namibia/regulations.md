@@ -41,6 +41,24 @@ Please remove the text that comes immediately after the Namibian coat of arms or
 
 <figure><img src="../../.gitbook/assets/part headings.png" alt="" width="563"><figcaption></figcaption></figure>
 
+#### Forms
+
+Forms are not to reproduced when importing regulations.
+
+\
+For Forms, please still insert the heading and style as usual, with an editorial note underneath, as shown below:
+
+<pre><code><strong>ANNEXURE - Annexure 1
+</strong>    SUBHEADING Forms
+    {{*[Editorial note: The forms have not been reproduced]}}
+</code></pre>
+
+#### Tables
+
+Tables in Schedules **must** be imported.&#x20;
+
+
+
 ## Good to know
 
 ### Annotations
