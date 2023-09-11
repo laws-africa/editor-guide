@@ -35,6 +35,14 @@ Please remove the text that comes immediately after the Namibian coat of arms or
 
 <figure><img src="../../.gitbook/assets/Preface.png" alt="" width="563"><figcaption><p>The highlighted text should be removed</p></figcaption></figure>
 
+#### Preface ("as amended by" information)
+
+If a document has "as amended by" information, this must be included in the in PREFACE and marked up as seen below.&#x20;
+
+<figure><img src="../../.gitbook/assets/today 5.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/today 4.png" alt="" width="375"><figcaption></figcaption></figure>
+
 #### Headings
 
 **Chapter, Part** and **Schedule** headings should be marked up in all caps.
