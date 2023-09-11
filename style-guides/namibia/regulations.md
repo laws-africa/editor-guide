@@ -65,17 +65,7 @@ For Forms, please still insert the heading and style as usual, with an editorial
 
 Tables in Schedules **must** be imported.&#x20;
 
-
-
-## Good to know
-
-### Annotations
-
-Annotations will look a little different in Namibia. They are automatically centre aligned and in green.
-
-![](../../.gitbook/assets/annotations.png)
-
-### Annotation with multiple elements
+#### Annotations with multiple elements
 
 If an annotation has multiple numbered elements, as shown below, mark it up as a QUOTE and mark up each individual elements/line as its own annotation.
 
@@ -83,49 +73,55 @@ If an annotation has multiple numbered elements, as shown below, mark it up as a
 
 <figure><img src="../../.gitbook/assets/today 2.png" alt="" width="375"><figcaption></figcaption></figure>
 
-> {% code lineNumbers="true" fullWidth="true" %}
-> ```
-> QUOTE
->     DIVISION - {{*"SCHEDULE}}
->
->       ITEMS
->         {{*The following sectors of business within or relating to the tourism industry are regulated sectors:}}
->
->         ITEM (a)
->           {{*activity operators, being persons conducting business to provide recreational facilities, equipment and training to tourists in relation to tourist related activities such as horse riding, air ballooning, boat trips, dolphin cruises, white water rafting, quad biking or other similar activities;}}
->
->         ITEM (b)
->           {{*air charter operators, being persons conducting business by providing non-scheduled air flight services to tourists for scenic tours, transport to tourist destination spots or for other recreational purposes, either with or without the provision of the services of a pilot;}}
->
->         ITEM (c)
->           {{*booking agents, being persons conducting business by providing services for making bookings or reservations for travel by air, road or sea or for accommodation at hotels or other accommodation establishments on behalf of tourists or any sector of the tourism industry.}}
->
->         ITEM (d)
->           {{*conference centre operators, being persons conducting business by providing facilities, equipment and services for the holding of conferences, not being a facility which forms part of and is conducted by a registered accommodation establishment;}}
->
->         ITEM (e)
->           {{*foreign tour operators, being persons conducting business from a base elsewhere than in Namibia and provide services for bringing tourists from a foreign country to tourist destinations in Namibia;}}
->
->         ITEM (f)
->           ITEMS
->             {{*shuttle and transport service operators, being persons conducting business for providing services for transporting tourists-}}
->
->             ITEM (i)
->               {{*upon arrival or departure from or to a port of entry, excluding any courtesy transport service offered by a registered accommodation establishment or regulated business exclusively to their guests or clients; or}}
->
->             ITEM (ii)
->               {{*from any place in Namibia across any border of Namibia to a destination in a foreign country;}}
->
->         ITEM (g)
->           {{*tour facilitators, being persons conducting business for providing services for planning and arranging all-inclusive tour packages for tourists, either fixed tour programs or customized tour programs to suit the preferences of individual tourists, with respect to itinerary, destinations and accommodation and if provision for the transportation of clients is included, such transportation is provided by means of motor vehicles specially hired for the particular purpose by the tour facilitator or provided by a tour and safari operator with whom arrangements have been made by the facilitator for transportation of the clients;}}
->
->         ITEM (h)
->           {{*tour and safari operators, being persons conducting business from a base in Namibia by providing services for the planning and arranging of a combination of various tourists-related services as a cohesive programme for purchase directly from the operator or through a booking agent and includes services and facilities such as sightseeing tours, transport to tourist destination spots, guides and meals as well as the provisions of accommodation to clients for the duration of a tour in facilities provided by the operator or in registered accommodation establishments;}}
->
->         ITEM (i)
->           {{*trophy hunting operators, being persons conducting business by providing services and facilities to tourists for hunting game for trophy purposes; and}}
->
->         ITEM (j)
->           {{*vehicle rental operators, being persons conducting business by providing services to tourists for hiring motor vehicles for travel, either with or without inclusion of the services of a driver to operate the vehicle.”]}}
-> ```
-> {% endcode %}
+```
+QUOTE
+    DIVISION - {{*"SCHEDULE}}
+
+      ITEMS
+        {{*The following sectors of business within or relating to the tourism industry are regulated sectors:}}
+
+        ITEM (a)
+          {{*activity operators, being persons conducting business to provide recreational facilities, equipment and training to tourists in relation to tourist related activities such as horse riding, air ballooning, boat trips, dolphin cruises, white water rafting, quad biking or other similar activities;}}
+
+        ITEM (b)
+          {{*air charter operators, being persons conducting business by providing non-scheduled air flight services to tourists for scenic tours, transport to tourist destination spots or for other recreational purposes, either with or without the provision of the services of a pilot;}}
+
+        ITEM (c)
+          {{*booking agents, being persons conducting business by providing services for making bookings or reservations for travel by air, road or sea or for accommodation at hotels or other accommodation establishments on behalf of tourists or any sector of the tourism industry.}}
+
+        ITEM (d)
+          {{*conference centre operators, being persons conducting business by providing facilities, equipment and services for the holding of conferences, not being a facility which forms part of and is conducted by a registered accommodation establishment;}}
+
+        ITEM (e)
+          {{*foreign tour operators, being persons conducting business from a base elsewhere than in Namibia and provide services for bringing tourists from a foreign country to tourist destinations in Namibia;}}
+
+        ITEM (f)
+          ITEMS
+            {{*shuttle and transport service operators, being persons conducting business for providing services for transporting tourists-}}
+
+            ITEM (i)
+              {{*upon arrival or departure from or to a port of entry, excluding any courtesy transport service offered by a registered accommodation establishment or regulated business exclusively to their guests or clients; or}}
+
+            ITEM (ii)
+              {{*from any place in Namibia across any border of Namibia to a destination in a foreign country;}}
+
+        ITEM (g)
+          {{*tour facilitators, being persons conducting business for providing services for planning and arranging all-inclusive tour packages for tourists, either fixed tour programs or customized tour programs to suit the preferences of individual tourists, with respect to itinerary, destinations and accommodation and if provision for the transportation of clients is included, such transportation is provided by means of motor vehicles specially hired for the particular purpose by the tour facilitator or provided by a tour and safari operator with whom arrangements have been made by the facilitator for transportation of the clients;}}
+
+        ITEM (h)
+          {{*tour and safari operators, being persons conducting business from a base in Namibia by providing services for the planning and arranging of a combination of various tourists-related services as a cohesive programme for purchase directly from the operator or through a booking agent and includes services and facilities such as sightseeing tours, transport to tourist destination spots, guides and meals as well as the provisions of accommodation to clients for the duration of a tour in facilities provided by the operator or in registered accommodation establishments;}}
+
+        ITEM (i)
+          {{*trophy hunting operators, being persons conducting business by providing services and facilities to tourists for hunting game for trophy purposes; and}}
+
+        ITEM (j)
+          {{*vehicle rental operators, being persons conducting business by providing services to tourists for hiring motor vehicles for travel, either with or without inclusion of the services of a driver to operate the vehicle.”]}}
+```
+
+## Good to know
+
+### Annotations
+
+Annotations will look a little different in Namibia. They are automatically centre aligned and in green.
+
+<figure><img src="../../.gitbook/assets/annotations.png" alt="" width="375"><figcaption></figcaption></figure>
