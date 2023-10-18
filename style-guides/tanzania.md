@@ -1,13 +1,55 @@
 # Tanzania
 
-## Importing the Word documents
+## Importing the HTML documents
 
-**NB: Use the Word docs to import, but use the pdfs as reference when cleaning up the imports.**
+**NB: Use the HTML files to import and for reference when cleaning up the imports.**
 
-Word docs and pdfs are saved here:\
-&#x20;[https://drive.google.com/drive/folders/15PfG-gzRTwslHBHcUEtSKt6-cotr-Nvv?usp=share\_link](https://drive.google.com/drive/folders/15PfG-gzRTwslHBHcUEtSKt6-cotr-Nvv?usp=share\_link)
+HTML files are saved here:\
 
-## Cleaning up the import
+
+[https://drive.google.com/drive/folders/13Qx11isfHmciPjCQOAhIhNis7vS6H3E1?usp=share\_link](https://drive.google.com/drive/folders/13Qx11isfHmciPjCQOAhIhNis7vS6H3E1?usp=share\_link)
+
+## Cleaning up the import - 2002 consolidation
+
+### Things to look out for in Tanzania
+
+#### Importing&#x20;
+
+Import the HTML file whose number corresponds with the Chapter number of the Act. For instance, the HTML file for Arbitration Act (Chapter 15) is numbered "15.html" in the 2002 Consolidation-Principal Acts-HTML files folder.
+
+<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption><p>An example of how the Act is referenced in drive is captured in the image below.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+
+When importing Swahili HTML files, the language (Swahili) must be selected as demonstrated in the image captured below.
+
+<figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+
+#### Legislation history
+
+References to legislation history, as highlighted in the image below, must be captured in a single annotation above the LONGTITLE. Each reference should be separated by a semi-colon.
+
+<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption><p>An example of how to mark up the text in this image is captured below. </p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+
+#### Footnotes
+
+The asterisks (\*) used to denote the footnotes should be deleted. Only numbers should be retained.
+
+<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption><p>An example of how to mark up the text is captured in the image captured below.</p></figcaption></figure>
+
+In view mode
+
+<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+
+In edit mode
+
+<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+
+For references in the Schedule heading: change “s.” to “Section”
+
+## Cleaning up import (where Gazettes are available)
 
 ### Things to look out for in Tanzania
 
