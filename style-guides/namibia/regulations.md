@@ -61,6 +61,17 @@ For Forms, please still insert the heading and style as usual, with an editorial
     {{*[Editorial note: The forms have not been reproduced]}}
 </code></pre>
 
+If forms are subsequently amended /substituted an annotation should be included to that effect
+
+````
+{{*[Editorial note: The forms have not been reproduced.]}}
+
+  {{*[form 4 substituted by section 11 of {{>/akn/za/act/gn/1997/r961 Government Notice R961 of 1997}}]}}
+```
+````
+
+
+
 #### Tables
 
 Tables in Schedules **must** be imported.&#x20;
