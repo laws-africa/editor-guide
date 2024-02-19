@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [English](README.md)
+* [Welcome](<README (1).md>)
 
 ## Getting started
 
