@@ -3,7 +3,7 @@
 ### Clean up
 
 * French and Portuguese words for CHAPTER, ARTICLE, PART will automatically appear translated on the view screen when you mark them up in the usual way eg. French Chapter will automatically come up as Chapitre when you mark it up using CHAP
-* **French language:** where Article 1 appears as Article 1er (superscripted) in the pdf, then mark up as Article 1 and not as 1er
+* **French language:** where Article 1 appears as Article 1er (superscripted) or as Article Premier in the pdf, then mark up as Article 1 and not as 1er or as Premier
 
 <figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
