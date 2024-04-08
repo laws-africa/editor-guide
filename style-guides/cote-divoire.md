@@ -11,7 +11,7 @@ description: >-
 
 When importing French docx files, the language (French) must be selected as demonstrated in the image captured below.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Chapitre 1 appears as **CHAPITRE PREMIER** in the docx, mark up as Chapter 1
 * &#x20;Article 1 appears as  **ARTICLE PREMIER** in the docx,  mark up as Article 1&#x20;
@@ -20,17 +20,26 @@ When importing French docx files, the language (French) must be selected as demo
 
     References to legislation history, amendments/modifications reflecting at the top of the work should be captured as an annotation in the Preface
 
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+In edit mode:
+
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+In view mode:
+
+![](<../.gitbook/assets/image (4) (1).png>)&#x20;
+
+**Amendment of Articles**
+
+Word nouveau (new) will be added in round brackets after article number. Annotation with details of amending work should appear immediately below Article heading, with no round brackets.
+
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 In edit mode:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 In view mode:
 
-![](<../.gitbook/assets/image (4).png>)&#x20;
-
-**Amendment of Articles**
-
-
-
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
