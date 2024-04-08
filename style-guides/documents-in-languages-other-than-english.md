@@ -7,7 +7,7 @@
 
 <figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
-* ![](../.gitbook/assets/image.png)
+* ![](<../.gitbook/assets/image (6).png>)
 * **Definitions:** markup in bold is not presently supported. French documents use French version quotation marks « or » as they appear in the document. Do not mark up as italics or bold.
 
 ![](../.gitbook/assets/6.png)

@@ -119,7 +119,7 @@ If a document is divided by headings for which a keyword does  not exist, please
 
 **Please** take out underling in headings
 
-![Please take out underling in headings.](<../.gitbook/assets/image (6) (1).png>)
+![Please take out underling in headings.](<../.gitbook/assets/image (6) (1) (1).png>)
 
 **Please** fix spacing errors. Please add a comment in the margin ONLY if adding a space changes the meaning of the sentence.
 

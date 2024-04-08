@@ -18,17 +18,17 @@ All PDF documents have 3 languages, Kinyarwanda, English and French. The French 
 
 Please do not import the text that appears at the top of the first page of each document. The table of contents should also not be imported.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Preface and Preamble
 
 The text highlighted in the image below should be marked under the PREFACE.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Highlighted text should be marked up under the PREFACE.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Highlighted text should be marked up under the PREFACE.</p></figcaption></figure>
 
 The text highlighted in the image below should be marked under the PREAMBLE.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Highlighted text should be marked up under the PREAMBLE.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Highlighted text should be marked up under the PREAMBLE.</p></figcaption></figure>
 
 #### PREFACE and PREAMBLE markup example
 
@@ -59,7 +59,7 @@ PREAMBLE
 
 The date and signatories at the bottom of each document should be excluded from the import.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Elements
 
@@ -79,4 +79,4 @@ CHAPTER
 
 
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>

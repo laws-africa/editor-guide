@@ -40,7 +40,7 @@ For Lesotho you'll notice that often the Minister's name in the Preface at the t
 
 These must be styled like this on the platform:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Text in margins
 
