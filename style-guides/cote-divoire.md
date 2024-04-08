@@ -11,5 +11,4 @@ description: >-
 
 * Chapitre 1 appears as **CHAPITRE PREMIER** in the docx, mark up as Chapter 1
 * &#x20;Article 1 appears as  **ARTICLE PREMIER** in the docx,  mark up as Article 1&#x20;
-*
-*
+* French words for CHAPTER (Chapitre), TITLE (Titre) and PART (Partie) will automatically appear translated on the view screen when you mark them up in the usual way eg. Chapter will automatically come up as Chapitre when you mark it up using CHAP
