@@ -43,3 +43,42 @@ In edit mode:
 In view mode:
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+**Adding accents to letters which are changed by editors from Captials to Sentence Case in Title and Chapter headings**&#x20;
+
+Copy from text within Chapter, or use Google French to English translation if unsure accent needed. Check list of common words which requte accents added. Only capitalise if appropriate&#x20;
+
+
+
+Définitions
+
+Dispositions générales
+
+&#x20;
+
+activités
+
+électricité
+
+équipements
+
+financières
+
+générales
+
+procédure
+
+régime&#x20;
+
+réglementation
+
+règles
+
+régulation
+
+sécurité
+
+spécifiques
+
+
+
