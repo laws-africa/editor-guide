@@ -58,6 +58,8 @@ Dispositions générales
 
 activités
 
+affectés
+
 électricité
 
 équipements
