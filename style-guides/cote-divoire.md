@@ -64,6 +64,10 @@ affectés
 
 équipements
 
+l'état
+
+l'État
+
 financières
 
 générales
