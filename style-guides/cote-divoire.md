@@ -62,6 +62,8 @@ activités
 
 affectés
 
+attachés
+
 comités
 
 Comités
