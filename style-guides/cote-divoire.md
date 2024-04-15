@@ -86,6 +86,10 @@ procédure
 
 régime&#x20;
 
+règlement
+
+Règlement
+
 réglementation
 
 règles
