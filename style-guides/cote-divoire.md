@@ -60,6 +60,10 @@ activités
 
 affectés
 
+comités
+
+Comités
+
 électricité
 
 équipements
