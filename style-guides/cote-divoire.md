@@ -70,9 +70,11 @@ Comités
 
 l'état
 
-l'État
+l'État&#x20;
 
 financières
+
+&#x20;foncière
 
 générales
 
