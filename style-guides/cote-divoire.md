@@ -13,8 +13,8 @@ When importing French docx files, the language (French) must be selected as demo
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Chapitre 1 appears as **CHAPITRE PREMIER** in the docx, mark up as Chapter 1
-* &#x20;Article 1 appears as  **ARTICLE PREMIER** in the docx,  mark up as Article 1&#x20;
+* Chapitre 1 appears as **CHAPITRE PREMIER** in the docx, mark up as `CHAP premier`
+* &#x20;Article 1 appears as  **ARTICLE PREMIER** in the docx,  mark up as `ART premier`&#x20;
 * French words for CHAPTER (Chapitre), TITLE (Titre) and PART (Partie) will automatically appear translated on the view screen when you mark them up in the usual way eg. Chapter will automatically come up as Chapitre when you mark it up using CHAP
 *   **Legislation history**
 
