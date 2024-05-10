@@ -16,7 +16,7 @@ When importing French docx files, the language (French) must be selected as demo
 * Chapitre 1 appears as **CHAPITRE PREMIER** in the docx, mark up as `CHAP premier`
 * &#x20;Article 1 appears as  **ARTICLE PREMIER** in the docx,  mark up as `ART premier`&#x20;
 * Title 1 appears as  **TITRE PREMIER** in the docx,  mark up as TITLE `premier`
-* **BUT** Section 1 appears as  **SECTION PREMIERE** in the docx,  mark up as `SEC première`
+* **BUT** Section 1 appears as  **SECTION PREMIERE** in the docx,  mark up as `SEC première; likewise`**PARTIE PREMIERE** mark up as `PART première`
 * French words for CHAPTER (Chapitre), TITLE (Titre) and PART (Partie) will automatically appear translated on the view screen when you mark them up in the usual way eg. Chapter will automatically come up as Chapitre when you mark it up using CHAP
 *   **Legislation history**
 
