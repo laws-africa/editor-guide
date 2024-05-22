@@ -26,7 +26,7 @@ When importing French docx files, the language (French) must be selected as demo
 
 In edit mode:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In view mode:
 
@@ -36,15 +36,15 @@ In view mode:
 
 Word nouveau (new) will be added in round brackets after article number. Annotation with details of amending work should appear immediately below Article heading, with no round brackets.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 In edit mode:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 In view mode:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Adding accents to letters which are changed by editors from Captials to Sentence Case in Title and Chapter headings**&#x20;
 
@@ -118,7 +118,21 @@ sécurité
 
 spécifiques
 
+**Paragraphe which contains Articles**&#x20;
 
+
+
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+In edit mode: mark up as a SUBPART, include ‘paragraphe’ as part of the number (not the heading)
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+In view mode:
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Annexes**&#x20;
 
