@@ -13,6 +13,7 @@ When importing French docx files, the language (French) must be selected as demo
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
+* **Hierarchy of Documents**: Livre (Book), Titre (Title), Chapitre (Chapter), Section, Article&#x20;
 * Livre 1 appears as **LIVRE PREMIER** in the docx, mark up as `BOOK premier`
 * Chapitre 1 appears as **CHAPITRE PREMIER** in the docx, mark up as `CHAP premier`
 * &#x20;Article 1 appears as  **ARTICLE PREMIER** in the docx,  mark up as `ART premier`&#x20;
