@@ -32,7 +32,9 @@ In edit mode:
 
 In view mode:
 
-![](<../.gitbook/assets/image (4) (1).png>)&#x20;
+![](<../.gitbook/assets/image (4) (1).png>)
+
+Example of annotation of multiple amendments [https://edit.laws.africa/documents/15249/](https://edit.laws.africa/documents/15249/)
 
 **Amendment of Articles**
 
