@@ -142,6 +142,39 @@ In view mode:
 
 Found at end of works, mark up as a SCHEDULE
 
+**Table and Forms in Annexes**
+
+**Tables** in document Schedules/Annexes **must** be imported.
+
+**Forms**
+
+Forms are not to reproduced&#x20;
+
+For Forms, please still insert the heading of form and style as usual, with an editorial note (in French) underneath, as shown below:
+
+
+
+```
+ANNEXURE - Annexure 1
+    SUBHEADING Formulaires
+    {{*[Note éditoriale : Les formulaires n’ont pas été reproduits.]}}
+```
+
+If forms are subsequently amended /substituted an annotation should be included to that effect
+
+
+
+````
+  {{*[Note éditoriale : Les formulaires n’ont pas été reproduits.]}}
+
+  {{*[Le formulaire 4 est remplacé par .........]}}
+```
+````
+
+
+
+
+
 
 
 
