@@ -138,6 +138,14 @@ In view mode:
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+**Irregular numbering of documents: annotation to be inserted**&#x20;
+
+Edit mode:
+
+```bluebell
+{{*[Attention: numérotation comme à l'original.]}}
+```
+
 **Annexes**&#x20;
 
 Found at end of works, mark up as a SCHEDULE
