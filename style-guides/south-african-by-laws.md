@@ -1,40 +1,66 @@
 ---
-description: Style guide for municipal by-laws in South Africa.
+description: Style guide for municipal By-laws in South Africa.
 ---
 
 # South African By-laws
 
 ## Short titles
 
-Because by-laws in South Africa are often missing a ‘short title’ section, and because they’re inconsistent with regard to casing, the placement of ‘by-law’, the inclusion of the municipality, etc., we’ve decided to standardise the titles for by-laws in the following ways:
+South African By-laws don't all have 'Short title' sections, and they aren't named consistently when they do have them. This means alphabetical lists of By-laws aren't easy to scan.&#x20;
 
-1. Exclude **By-law relating to the** or any part thereof.
-   * By-law relating to the Keeping of Dogs → Keeping of Dogs
-   * By-law relating to Animals → Animals
-2. Exclude **B/by-law/s** at the end of the title.
-   * Animal by-law → Animal
-   * Guns, Germs and Steel By-laws → Guns, Germs and Steel
-3. Exclude **of the XYZ Municipality** or similar.
-   * Liquor by-law of the Cape Town Metro Municipality → Liquor
-   * Cape Town: Liquor by-law  → Liquor
-   * Air Quality By-law of the Swartland Municipality → Air Quality
-4. Include e.g. **(Municipal Council of Piketberg)** in brackets at the end of the title if this is a more local council / municipality than the (e.g. District) Municipality you’re working in.
-5. Use lower case for these words: of, and, in, the, for, on.
-6. Capitalise the first letter of all other words.
-7. For stubs, use the name of the principal work followed by ': Commencement' /  ': Amendment' / ': Repeal' – see [https://edit.laws.africa/places/za-cpt/works/?q=\&stub=only](https://edit.laws.africa/places/za-cpt/works/?q=\&stub=only) for examples.
+{% hint style="info" %}
+For example, where would you look look for a By-law on air quality in the Swartland municipality? Under **B** for By-law, **S** for Swartland, or **A** for Air Quality?
+{% endhint %}
 
-### **Example of by-law titles**
+We standardise the titles for By-laws by:
 
-* Electricity Supply
-* Fire Safety
-* Keeping of Bees
-* Municipal Planning
-* Property Rates
-* Rates
-* Street Trading
-* Tariff
+1.  Excluding **By-law relating to the** or similar from the _start_ of the title.
 
-## Cleaning up a by-law
+    > By-law relating to the Keeping of Dogs → Keeping of Dogs By-law, 2012
+    >
+    > By-law relating to Animals → Animals By-law, 2023
+2.  Always including or adding **By-law(s), \<year>** at the end of the title — capital B, hyphen, lowercase l — and if they use 'By-laws' with an 's' in the original, keep it.
 
-Please remove the names and titles of officers, eg.  DR J H LEIBBRANDT, CITY MANAGER
+    > Animal bylaw → Animal By-law, 2012
+    >
+    > Guns, Germs and Steel By-Laws → Guns, Germs and Steel By-laws, 2023
+3.  Excluding **of the XYZ Municipality** or similar.
+
+    > Liquor by-law of the Cape Town Metro Municipality → Liquor By-law, 2020
+    >
+    > Cape Town: Liquor by-law → Liquor By-law, 2021
+    >
+    > Air Quality By-law of the Swartland Municipality → Air Quality By-law, 2018
+4.  Using **Title Case**: lowercase words like 'of, and, in, the, for, on', and capitalise the rest.
+
+    > Air quality by-law, 2016 -> Air Quality By-law, 2016
+
+### **Examples of By-law titles**
+
+* Electricity Supply By-law, 2012
+* Fire Safety By-law, 2023
+* Keeping of Bees By-law, 2001
+* Municipal Planning By-law, 2014
+* Property Rates By-law, 2020
+* Rates By-law, 2019
+* Street Trading By-law, 2022
+* Tariff By-law, 2018
+
+{% hint style="warning" %}
+For stubs, use the name of the main By-law (including its year) followed by ': Commencement / Amendment / Repeal'.
+
+> Street Trading By-law, 2022: Commencement
+>
+> Keeping of Bees By-law, 2001: Amendment
+>
+> Electricity Supply By-law, 2012: Repeal
+{% endhint %}
+
+Oddities and edge cases:
+
+*   If the By-law is for a more local council or municipality than say a district municipality we're monitoring, include the name of the more local council in brackets at the end of the title.
+
+    > Keeping of Bees (Municipal Council of Piketberg) By-law, 1998
+    >
+    > Levying of an Availability Charge for Sewerage (Municipal Council of Velddrif) By-law, 1994
 
