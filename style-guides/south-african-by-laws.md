@@ -47,13 +47,15 @@ We standardise the titles for By-laws by:
 * Tariff By-law, 2018
 
 {% hint style="warning" %}
-For stubs, use the name of the main By-law (including its year) followed by ': Commencement / Amendment / Repeal'.
+For stubs, use the name of the main By-law (excluding its year) followed by ': Commencement / Amendment / Repeal'.
 
-> Street Trading By-law, 2022: Commencement
+> Street Trading By-law: Commencement
 >
-> Keeping of Bees By-law, 2001: Amendment
+> Keeping of Bees By-law: Amendment
 >
-> Electricity Supply By-law, 2012: Repeal
+> Electricity Supply By-law: Repeal
+
+See [https://edit.laws.africa/places/za-cpt/works?stub=stub](https://edit.laws.africa/places/za-cpt/works?stub=stub) for examples.
 {% endhint %}
 
 Oddities and edge cases:
