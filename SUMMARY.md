@@ -48,6 +48,7 @@
 * [Changing a document's short title or language](how-tos/changing-a-documents-short-title-or-language.md)
 * [Search and rescue](how-tos/search-and-rescue.md)
 * [How to handle different language documents](how-tos/how-to-handle-different-language-documents.md)
+* [How to mark up defined terms which do not occur in a Definitions section](how-tos/how-to-mark-up-defined-terms-which-do-not-occur-in-a-definitions-section.md)
 
 ## Markup guide
 
