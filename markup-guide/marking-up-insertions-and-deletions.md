@@ -34,6 +34,12 @@ Will look like this in View mode:&#x20;
 
 ![](<../.gitbook/assets/image (207) (1).png>)
 
+{% hint style="warning" %}
+While `{{+ insertions}}` and `__underlines__` look the same in View mode, they just happen to both be styled with an underline for now.
+
+If the style for insertions is updated to a double underline to set them apart from normal underlines, only `{{+ insertions}}` will be updated.
+{% endhint %}
+
 ## Marking up deletions
 
 The pattern for marking up deletions is as follows:
@@ -56,6 +62,13 @@ If the deleted text starts with a space, simply add a second space after the `-`
 Will look like this in View mode:&#x20;
 
 ![](<../.gitbook/assets/image (209) (1) (1) (1).png>)
+
+## Extra markup
+
+In some jurisdictions, extra markup is included in the original: for example in South Africa, deletions are given \[**in bold and with braces**]. In cases like these:
+
+* Ignore the bold — we could always update the style for deletions to be bold rather than strikethrough.
+* Leave in the braces, and include them outside the struckthrough text: `[{{- remove this}}]`.
 
 ## Exercise
 
