@@ -8,7 +8,7 @@ After working through this section, you should be able to:
 * Mark up nested elements inside a footnote
 * Mark the end of a footnote.
 
-## Marking up a footnote <a id="marking-up-a-footnote"></a>
+## Marking up a footnote <a href="#marking-up-a-footnote" id="marking-up-a-footnote"></a>
 
 The pattern for marking up footnotes is as follows:
 
@@ -20,7 +20,7 @@ The pattern for marking up footnotes is as follows:
 
 ### Example
 
-```text
+```
   PARA 1.
 
     Content of paragraph 1.{{FOOTNOTE 2}}
@@ -35,7 +35,7 @@ The pattern for marking up footnotes is as follows:
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](<../.gitbook/assets/image (43).png>)
 
 {% hint style="info" %}
 Note the indentation of the text after the end of the quote.
@@ -61,7 +61,7 @@ Note the two sets of closing `}}`s, one for the superscript markup and one for t
 
 ### Example
 
-```text
+```
   PARA 1.
 
     Content of paragraph 1.{{^{{FOOTNOTE 2}}}}
@@ -76,7 +76,7 @@ Note the two sets of closing `}}`s, one for the superscript markup and one for t
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](<../.gitbook/assets/image (247).png>)
 
 ## Marking up nested elements
 
@@ -84,7 +84,7 @@ To mark up nested elements inside a footnote, use the same principles as in [Mar
 
 ### Example
 
-```text
+```
   PARA 1.
 
     Content of paragraph 1.{{^{{FOOTNOTE 2}}}}
@@ -107,13 +107,13 @@ To mark up nested elements inside a footnote, use the same principles as in [Mar
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](<../.gitbook/assets/image (219).png>)
 
 ## Exercise
 
 Copy the text below and paste it into a practise document, then see the instructions that follow.
 
-```text
+```
 PARA 3.
 
     Content of third paragraph.2
@@ -146,9 +146,8 @@ Back into third paragraph.
 
 When you're done, it should look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28118%29.png)
+![](<../.gitbook/assets/image (184).png>)
 
 and like this in Edit mode:
 
-![](../../.gitbook/assets/image%20%28108%29.png)
-
+![](<../.gitbook/assets/image (163).png>)

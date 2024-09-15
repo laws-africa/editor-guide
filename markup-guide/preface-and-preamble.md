@@ -85,6 +85,6 @@ SEC 1. - Definitions
 
 ```
 
-![View mode](<../.gitbook/assets/image (27).png>)
+![View mode](<../.gitbook/assets/image (235).png>)
 
-![Edit mode](<../.gitbook/assets/image (206).png>)
+![Edit mode](<../.gitbook/assets/image (165).png>)

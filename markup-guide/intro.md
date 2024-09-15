@@ -8,6 +8,6 @@ Keywords introduce a group, and everything that falls into that group is indente
 
 See the 'Marking up' subsections for details, and the [Keyword reference](keyword-reference.md) for a summary.
 
-![](<../.gitbook/assets/image (112).png>)
+![](<../.gitbook/assets/image (29).png>)
 
-![](<../.gitbook/assets/image (116).png>)
+![](<../.gitbook/assets/image (285).png>)

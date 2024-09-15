@@ -91,7 +91,7 @@ To add a new taxonomy topic:
 11. For a new top-level topic, choose **Child of** and **-- root --**.
 12. Click **Save**
 
-<figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
 ## Editing a taxonomy topic
 

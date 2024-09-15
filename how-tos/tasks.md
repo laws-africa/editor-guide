@@ -14,15 +14,15 @@
    * Their type (start with 'Import content' tasks), and/or
    * Their country.
 
-![The navigation bar](<../.gitbook/assets/image (157).png>)
+![The navigation bar](<../.gitbook/assets/image (221).png>)
 
-![The 'My tasks' tab](<../.gitbook/assets/image (179).png>)
+![The 'My tasks' tab](<../.gitbook/assets/image (34).png>)
 
-![The 'priority tasks' tab](<../.gitbook/assets/image (181).png>)
+![The 'priority tasks' tab](<../.gitbook/assets/image (199).png>)
 
-![The 'All available tasks' tab](<../.gitbook/assets/image (169).png>)
+![The 'All available tasks' tab](<../.gitbook/assets/image (279).png>)
 
-![Tasks filtered to 'Open', 'Import content', 'Zimbabwe'](<../.gitbook/assets/image (149).png>)
+![Tasks filtered to 'Open', 'Import content', 'Zimbabwe'](<../.gitbook/assets/image (32).png>)
 
 ## Doing tasks
 
@@ -35,7 +35,7 @@ Once you have found a task:
    * For 'Apply amendment' tasks follow the instructions at [Amending works](../managing-works/amending-works/).
 4. Once you have completed the task, click **Submit for review**. The content will be reviewed by a second editor. They may return it to you for changes or approve the task and publish the document – you will get an email notification either way.
 
-![An 'Import content' task](<../.gitbook/assets/image (154).png>)
+![An 'Import content' task](<../.gitbook/assets/image (35).png>)
 
 ## Creating a task from a comment
 
@@ -46,12 +46,12 @@ One of the most common ways of creating a task to create it from a comment on a 
 
 The task itself will have a preview of the part of the document where the comment was made.
 
-![](<../.gitbook/assets/image (216) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (150).png>)
 
-![](<../.gitbook/assets/image (212) (1).png>)
+![](<../.gitbook/assets/image (263).png>)
 
-![](<../.gitbook/assets/image (213) (1).png>)
+![](<../.gitbook/assets/image (283).png>)
 
-![](<../.gitbook/assets/image (211) (1) (1).png>)
+![](<../.gitbook/assets/image (76).png>)
 
-![](<../.gitbook/assets/image (215) (1).png>)
+![](<../.gitbook/assets/image (56).png>)

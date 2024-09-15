@@ -14,10 +14,10 @@ For typos or grammar errors that have a likely correction, but we can't be compl
 
 You can reply to comments, create tasks from them, and if it's your own comment you can resolve or delete it.
 
-![Select the text and click on the comment bubble](<../.gitbook/assets/image (180).png>)
+![Select the text and click on the comment bubble](<../.gitbook/assets/image (185).png>)
 
-![Type your comment and click Comment](<../.gitbook/assets/image (183).png>)
+![Type your comment and click Comment](<../.gitbook/assets/image (125).png>)
 
-![Use the 'up / down' arrows to jump between comments on a document](<../.gitbook/assets/image (167).png>)
+![Use the 'up / down' arrows to jump between comments on a document](<../.gitbook/assets/image (230).png>)
 
-![Click on the dropdown of an existing comment to do more](<../.gitbook/assets/image (162).png>)
+![Click on the dropdown of an existing comment to do more](<../.gitbook/assets/image (136).png>)

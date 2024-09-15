@@ -8,19 +8,19 @@ After working through this section, you should be able to:
 * Merge cells horizontally and vertically
 * Mark the end of a table.
 
-## Marking up a table <a id="marking-up-a-footnote"></a>
+## Marking up a table <a href="#marking-up-a-footnote" id="marking-up-a-footnote"></a>
 
 The pattern for tables is as follows:
 
 * On a new line, the `TABLE` keyword
-* Below it, indented, the `TR` \(table row\) keyword
-* Below it, indented, either the `TH` \(table heading\) or `TC` \(table content\) keyword for each cell in the row
+* Below it, indented, the `TR` (table row) keyword
+* Below it, indented, either the `TH` (table heading) or `TC` (table content) keyword for each cell in the row
 * Below each of those, indented, the content of the cell
 * To mark the end of a table, unindent the text.
 
 ### Example
 
-```text
+```
 TABLE
     TR
         TH
@@ -39,14 +39,14 @@ Regular old text.
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28131%29.png)
+![](<../.gitbook/assets/image (203).png>)
 
 ## Marking up quoted content
 
 The pattern for quoted content is as follows:
 
 * On a new line inside a `TH` or `TC` block, the `QUOTE` keyword
-* Optionally, `{startQuote “}` immediately after \(no space after the keyword\)
+* Optionally, `{startQuote “}` immediately after (no space after the keyword)
 * Below it, indented, the keyword of the quoted element
 * Below that, indented, the content of the quoted element
 * To mark the end of the quote, unindent the text.
@@ -57,7 +57,7 @@ The above is the same logic as for [Marking up the structure](marking-up-the-str
 
 ### Example
 
-```text
+```
 TABLE
     TR
         TH
@@ -105,19 +105,19 @@ TABLE
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28122%29.png)
+![](<../.gitbook/assets/image (195).png>)
 
 ## Merging cells horizontally
 
 To merge cells horizontally, we use the `colspan` keyword, as follows:
 
-* Immediately after either `TH` or `TC` \(no space\), `{colspan` 
-*  The total number of cells to merge horizontally, e.g. `3`
-*  The closing `}`.
+* Immediately after either `TH` or `TC` (no space), `{colspan`&#x20;
+* &#x20;The total number of cells to merge horizontally, e.g. `3`
+* &#x20;The closing `}`.
 
 ### Example
 
-```text
+```
 TABLE
 
     TR
@@ -134,7 +134,7 @@ TABLE
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28130%29.png)
+![](<../.gitbook/assets/image (162).png>)
 
 {% hint style="info" %}
 Note how the first row in Edit mode only has one `TH`.
@@ -144,13 +144,13 @@ Note how the first row in Edit mode only has one `TH`.
 
 To merge cells vertically, we use the `rowspan` keyword, as follows:
 
-* Immediately after either `TH` or `TC` \(no space\), `{rowspan` 
-*  The total number of cells to merge vertically, e.g. `3`
-*  The closing `}`.
+* Immediately after either `TH` or `TC` (no space), `{rowspan`&#x20;
+* &#x20;The total number of cells to merge vertically, e.g. `3`
+* &#x20;The closing `}`.
 
 ### Example
 
-```text
+```
 TABLE
     TR
         TH
@@ -175,7 +175,7 @@ TABLE
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28129%29.png)
+![](<../.gitbook/assets/image (264).png>)
 
 {% hint style="info" %}
 Note how the third row in Edit mode only has one `TC`, which will be in the second column.
@@ -189,7 +189,7 @@ If `{rowspan 2}` had been applied to the second column in the second row instead
 
 Copy the text below and paste it into a practise document, then see the instructions that follow.
 
-```text
+```
 Big Heading A
 
 Heading 1, Heading 2, Heading 3
@@ -209,17 +209,17 @@ Content 1, Content 2
 
 When you're done, it should look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28124%29.png)
+![](<../.gitbook/assets/image (269).png>)
 
 and like this in Edit mode:
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](<../.gitbook/assets/image (70).png>)
 
 ### Quoted content
 
 Copy the text below and paste it into a practise document, then see the instructions that follow.
 
-```text
+```
 TABLE
     TR
         TH{rowspan 2}
@@ -242,17 +242,16 @@ TABLE
 
 ```
 
-1. Insert `QUOTE{startQuote “}` before the start of both quotes \(lines 9 and 19\).
+1. Insert `QUOTE{startQuote “}` before the start of both quotes (lines 9 and 19).
 2. Indent each quote under its keyword.
 3. Delete the repeated `“` at the start of each quote.
-4. Model the first quote as section 2, including subsections \(1\) and \(2\), using the appropriate keywords and indentation.
-5. Model the second quote as paragraph \(a\).
+4. Model the first quote as section 2, including subsections (1) and (2), using the appropriate keywords and indentation.
+5. Model the second quote as paragraph (a).
 
 When you're done, it should look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28121%29.png)
+![](<../.gitbook/assets/image (53).png>)
 
 and like this in Edit mode:
 
-![](../../.gitbook/assets/image%20%28125%29.png)
-
+![](<../.gitbook/assets/image (209).png>)

@@ -6,7 +6,7 @@ The 'Broken table' error will tell you what the system thinks the total rows and
 
 ### Example 1
 
-![](<../../.gitbook/assets/image (218).png>)
+![](<../../.gitbook/assets/image (23).png>)
 
 In this example, it says '37 rows and 9 columns'.
 
@@ -14,7 +14,7 @@ A quick count of the top row shows a total of 8 columns: the big one on the left
 
 #### Diagnosis
 
-![](<../../.gitbook/assets/image (216) (1) (1).png>)
+![](<../../.gitbook/assets/image (78).png>)
 
 The first two rows look good:&#x20;
 
@@ -30,15 +30,15 @@ In this case simply replacing the 9 with an 8 will fix the issue.
 
 (It should also be a `TH` and the bold should be removed, but that's for a separate section.)
 
-![](<../../.gitbook/assets/image (217) (1).png>)
+![](<../../.gitbook/assets/image (274).png>)
 
 Click 'Update', and the error no longer displays:
 
-![](<../../.gitbook/assets/image (207).png>)
+![](<../../.gitbook/assets/image (262).png>)
 
 ### Example 2
 
-![](<../../.gitbook/assets/image (205).png>)
+![](<../../.gitbook/assets/image (242).png>)
 
 In this example, it says '51 rows and 11 columns'.
 
@@ -46,7 +46,7 @@ From first glance it seems as if the table should have 3 columns (not 11). A qui
 
 #### Diagnosis
 
-![](<../../.gitbook/assets/image (212).png>)
+![](<../../.gitbook/assets/image (273).png>)
 
 The first two rows look wrong:
 
@@ -78,4 +78,4 @@ in a 3-column table.
 
 Click 'Update', and the error no longer displays:
 
-![](<../../.gitbook/assets/image (214) (1) (1).png>)
+![](<../../.gitbook/assets/image (268).png>)

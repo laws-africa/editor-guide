@@ -18,7 +18,7 @@ Under 'Attachments' on a document, you can upload more files.
 You can also edit their filenames or delete unneeded ones, by clicking the pencil (edit) and trashcan (delete) icons.
 {% endhint %}
 
-![](<../.gitbook/assets/image (71).png>)
+![](<../.gitbook/assets/image (38).png>)
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (250).png>)
 

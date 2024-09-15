@@ -6,7 +6,7 @@ description: Manage the task labels users can attached to tasks.
 
 Task labels make it easier to manage tasks. For example, use a 'gazette missing' label to indicate that a task is blocked on a missing gazette.
 
-![](../.gitbook/assets/task-labels%20%281%29.png)
+![](../.gitbook/assets/task-labels.png)
 
 ## Adding a new task label
 
@@ -30,7 +30,7 @@ To edit a task label:
 
 1. Open the admin interface
 2. Under **Indigo API** click **Task labels**
-3. Click on the task label you want to edit 
+3. Click on the task label you want to edit&#x20;
 4. Make your changes
 5. Click **Save**
 
@@ -42,4 +42,3 @@ To delete a task label:
 2. Under **Indigo API** click **Task labels**
 3. Click on the task label to delete
 4. Click **Delete**
-

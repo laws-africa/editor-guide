@@ -19,7 +19,7 @@ Word docs and pdfs are saved here:\
 
 The references that appear alongside/under the Long Title of the Act must be moved to above the Long Title and styled like this:
 
-<figure><img src="../.gitbook/assets/image (221).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The date that underneath the Long Title may be deleted as it has been captured in the metadata which appears at the top of the work.
 
@@ -30,17 +30,17 @@ Using the pdf as reference, check that they have been placed correctly by follow
 
 * if the reference/s appear directly under the section heading in the margin of the pdf they apply to that entire section, so should be positioned right at the end of that section.
 
-![](<../.gitbook/assets/image (188).png>)
+![](<../.gitbook/assets/image (127).png>)
 
 * if the reference/s appear alongside a specific subsection, paragraph etc, place them under that subsection, paragraph, etc
 
-![](<../.gitbook/assets/image (186).png>)
+![](<../.gitbook/assets/image (244).png>)
 
 * another example
 
 <div align="center">
 
-<img src="../.gitbook/assets/image (190).png" alt="">
+<img src="../.gitbook/assets/image (186).png" alt="">
 
 </div>
 
@@ -48,13 +48,13 @@ This is how it will look on the platform, **please take note of how the referenc
 
 In view mode
 
-![](<../.gitbook/assets/image (189).png>)
+![](<../.gitbook/assets/image (210).png>)
 
 In edit mode
 
 UPDATE SCREENSHOT
 
-![](<../.gitbook/assets/image (187).png>)
+![](<../.gitbook/assets/image (107).png>)
 
 
 

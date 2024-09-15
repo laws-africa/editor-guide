@@ -16,7 +16,7 @@ PDFs saved here:\
 
 Please include legislation history (shown in the image below) when importing documents in Seychelles. These must be put in a single annotation, with Act references separated by a semi-colon. e.g. `{{*[Act 5 of 1943; Act 5 of 2013; S.I. 7 of 2021]}}`.&#x20;
 
-![](<../.gitbook/assets/Screenshot 2022-04-08 150556 (1).png>)
+![](<../.gitbook/assets/Screenshot 2022-04-08 150556.png>)
 
 ## Annotations
 
@@ -26,7 +26,7 @@ Change "s." or "Section" to "section", "Subsection" to "subsection", "Paragraph"
 
 Remove the full stop at the end of the annotation (if there is one).
 
-![](<../.gitbook/assets/Screenshot 2022-04-07 161928 (2).png>)
+![](<../.gitbook/assets/Screenshot 2022-04-07 161928.png>)
 
 Notes, usually in red, which follow this format "Note: ..." as highlighted in the image below should be marked up as editorial remarks: `{{*[annotation markup]}}`.
 
@@ -50,7 +50,7 @@ In the image below:
 * Dec 25 of 1984 means Decree 25 of 1979
 * the date "1 June 2020" right at the top of the document is the consolidation date
 
-![](<../.gitbook/assets/image (208) (1) (1).png>)
+![](<../.gitbook/assets/image (254).png>)
 
 ## Signing off subsidiary legislation
 

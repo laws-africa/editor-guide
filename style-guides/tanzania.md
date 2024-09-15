@@ -17,35 +17,35 @@ HTML files are saved here:\
 
 Import the HTML file whose number corresponds with the Chapter number of the Act. For instance, the HTML file for Arbitration Act (Chapter 15) is numbered "15.html" in the 2002 Consolidation-Principal Acts-HTML files folder.
 
-<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption><p>An example of how the Act is referenced in drive is captured in the image below.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (290).png" alt=""><figcaption><p>An example of how the Act is referenced in drive is captured in the image below.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 When importing Swahili HTML files, the language (Swahili) must be selected as demonstrated in the image captured below.
 
-<figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
 #### Legislation history
 
 References to legislation history, as highlighted in the image below, must be captured in a single annotation above the LONGTITLE. Each reference should be separated by a semi-colon.
 
-<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption><p>An example of how to mark up the text in this image is captured below. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (288).png" alt=""><figcaption><p>An example of how to mark up the text in this image is captured below. </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
 
 #### Footnotes
 
 The asterisks (\*) used to denote the footnotes should be deleted. Only numbers should be retained.
 
-<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption><p>An example of how to mark up the text is captured in the image captured below.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (294).png" alt=""><figcaption><p>An example of how to mark up the text is captured in the image captured below.</p></figcaption></figure>
 
 In view mode
 
-<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
 In edit mode
 
-<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
 For references in the Schedule heading: change “s.” to “Section”
 
@@ -64,17 +64,17 @@ Using the pdf as reference, check that they have been placed correctly by follow
 
 * if the reference/s appear directly under the section heading in the margin of the pdf they apply to that entire section, so should be positioned right at the end of that section.
 
-![](<../.gitbook/assets/image (188).png>)
+![](<../.gitbook/assets/image (127).png>)
 
 * if the reference/s appear alongside a specific subsection, paragraph etc, place them under that subsection, paragraph, etc
 
-![](<../.gitbook/assets/image (186).png>)
+![](<../.gitbook/assets/image (244).png>)
 
 * another example
 
 <div align="center">
 
-<img src="../.gitbook/assets/image (190).png" alt="">
+<img src="../.gitbook/assets/image (186).png" alt="">
 
 </div>
 
@@ -82,19 +82,19 @@ This is how it will look on the platform, **please take note of how the referenc
 
 In view mode
 
-![](<../.gitbook/assets/image (189).png>)
+![](<../.gitbook/assets/image (210).png>)
 
 In edit mode
 
 UPDATE SCREENSHOT
 
-![](<../.gitbook/assets/image (187).png>)
+![](<../.gitbook/assets/image (107).png>)
 
 
 
 If there is a string of references in one margin note in the pdf, like this:
 
-![](<../.gitbook/assets/image (201).png>)
+![](<../.gitbook/assets/image (214).png>)
 
 Please string them together, like this: `{{*[Acts Nos. 2 of 2010 s. 19; 13 of 2017 s. 4]}}`
 
@@ -113,7 +113,7 @@ Cap. references are inconsistent in pdf - sometimes there is a space between the
 
 If there are spaces missing in the references in margin notes, please insert them. Example:
 
-![](<../.gitbook/assets/image (200).png>)
+![](<../.gitbook/assets/image (181).png>)
 
 Should look like this:\
 `{{*[G.N. No. 41 of 1992]}}`

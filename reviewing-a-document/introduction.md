@@ -26,7 +26,7 @@ When you review someone else's work, your goals are to:
    * Click **Approve** on the task.
 9. If for some reason the document has already been published but changes still need to be made to it, click **Unpublish & save** on the document (drop-down next to **Save & publish**) before requesting changes. (Only reviewers can make changes to published documents.)
 
-![](<../.gitbook/assets/image (134).png>)
+![](<../.gitbook/assets/image (131).png>)
 
 {% hint style="info" %}
 The most important part of the process is where you click **Save & publish**, don't forget this crucial step!

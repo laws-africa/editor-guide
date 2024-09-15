@@ -135,4 +135,4 @@ QUOTE
 
 Annotations will look a little different in Namibia. They are automatically centre aligned and in green.
 
-<figure><img src="../../.gitbook/assets/annotations.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/annotations (1).png" alt="" width="375"><figcaption></figcaption></figure>

@@ -10,11 +10,10 @@
 2. In Drive, open the relevant folder and download the Word doc with that chapter number. For example, for Chapter 271, I'll open the folder 'Chapters 201 to 300' and download the Word doc called 'chapter 271.docx'.
 3. Use this as the document to import.
 
-![Hover over &apos;Divorce Act&apos; to see that it&apos;s Chapter 249](../.gitbook/assets/image%20%2889%29.png)
+![Hover over 'Divorce Act' to see that it's Chapter 249](<../.gitbook/assets/image (20).png>)
 
-![Download &apos;chapter 249.docx&apos; from the folder &apos;Chapters 201 to 300&apos;](../.gitbook/assets/image%20%2886%29.png)
+![Download 'chapter 249.docx' from the folder 'Chapters 201 to 300'](<../.gitbook/assets/image (276).png>)
 
-![Click &apos;Import document&apos; at the consolidation date: 2000-12-31](../.gitbook/assets/image%20%2887%29.png)
+![Click 'Import document' at the consolidation date: 2000-12-31](<../.gitbook/assets/image (278).png>)
 
-![Upload the Word document you downloaded from Drive](../.gitbook/assets/image%20%2890%29.png)
-
+![Upload the Word document you downloaded from Drive](<../.gitbook/assets/image (177).png>)

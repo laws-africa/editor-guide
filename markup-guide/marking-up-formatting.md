@@ -21,15 +21,15 @@ Spaces and any punctuation that are included between `{{^` and `}}` will also be
 
 ### Example
 
-```text
+```
 On the 15{{^th}} of July 2020 …
 ```
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+![](<../.gitbook/assets/image (58).png>)
 
-## Marking up subscripts <a id="marking-up-subscripts"></a>
+## Marking up subscripts <a href="#marking-up-subscripts" id="marking-up-subscripts"></a>
 
 The pattern for marking up subscripts is as follows:
 
@@ -43,15 +43,15 @@ Spaces and any punctuation that are included between `{{_` and `}}` will also be
 
 ### Example
 
-```text
+```
 The amount of CO{{_2}} in the atmosphere …
 ```
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](<../.gitbook/assets/image (87).png>)
 
-## Marking up bold text <a id="marking-up-subscripts"></a>
+## Marking up bold text <a href="#marking-up-subscripts" id="marking-up-subscripts"></a>
 
 The pattern for marking up bold text is as follows:
 
@@ -65,15 +65,15 @@ Spaces and any punctuation that are included between the `**`s will also be bold
 
 ### Example
 
-```text
+```
 **This whole sentence is bold.**
 ```
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+![](<../.gitbook/assets/image (259).png>)
 
-## Marking up italics text <a id="marking-up-subscripts"></a>
+## Marking up italics text <a href="#marking-up-subscripts" id="marking-up-subscripts"></a>
 
 The pattern for marking up italics text is as follows:
 
@@ -87,19 +87,19 @@ Spaces and any punctuation that are included between the `//`s will also be ital
 
 ### Example
 
-```text
+```
 Just //this text// is in italics.
 ```
 
 will look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+![](<../.gitbook/assets/image (196).png>)
 
 ## Exercise
 
 Copy the text below and paste it into a practise document, then see the instructions that follow.
 
-```text
+```
 PARA 12.
   
     On the 12th of July 2020, the amount of CO2 in the atmosphere was bold.
@@ -115,9 +115,8 @@ PARA 12.
 
 When you're done, it should look like this in View mode:
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+![](<../.gitbook/assets/image (143).png>)
 
 and like this in Edit mode:
 
-![](../../.gitbook/assets/image%20%28120%29.png)
-
+![](<../.gitbook/assets/image (31).png>)

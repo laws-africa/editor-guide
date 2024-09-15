@@ -7,14 +7,14 @@
 5. Click on your name in the top-right corner and then click **Profile**.
 6. Click **Edit profile** to correct or add details.
 
-![](<../.gitbook/assets/image (3) (2) (1).png>)
+![](<../.gitbook/assets/image (228).png>)
 
-![](<../.gitbook/assets/image (205) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (116).png>)
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (22).png>)
 
-![](<../.gitbook/assets/image (57).png>)
+![](<../.gitbook/assets/image (30).png>)
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (93).png>)
 
-![](<../.gitbook/assets/image (63).png>)
+![](<../.gitbook/assets/image (28).png>)

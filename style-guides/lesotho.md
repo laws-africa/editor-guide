@@ -24,23 +24,23 @@ Most of the works in Lesotho contain endnotes which appear at the end of the doc
 
 Some of the Lesotho pdfs have this information \[hi-lighted below] at the top of the Act
 
-<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 The date underneath the long-title is the date of commencement and must be deleted as it is already captured in the metadata of this work.
 
 The text on the left of the long-title must be retained, please style like this:
 
-<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 #### Preface
 
 For Lesotho you'll notice that often the Minister's name in the Preface at the top of a Gazetted notice, is styled like this:
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 These must be styled like this on the platform:
 
-<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 #### Text in margins
 
@@ -50,8 +50,8 @@ Some of the pdfs have text in the margins that has to be brough into the main bo
 
 Some of them are not section headings and must be styled as annotations. In the example outlined in red in the image below, the annotation will be placed directly under the paragraph that it appears next to.
 
-<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 Like this:
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>

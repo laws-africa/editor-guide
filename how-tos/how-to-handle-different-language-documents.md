@@ -8,7 +8,7 @@ If a document exists in more than one language and you wish to add different ver
 * Scroll down to the point(s) in time.
 * **Create a new document at the same point in time**. To do this click Manage points in time.
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click "import document."
 

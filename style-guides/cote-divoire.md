@@ -11,7 +11,7 @@ description: >-
 
 When importing French docx files, the language (French) must be selected as demonstrated in the image captured below.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 * **Hierarchy of Documents**: Livre (Book), Titre (Title), Chapitre (Chapter), Section, Article&#x20;
 * Livre 1 appears as **LIVRE PREMIER** in the docx, mark up as `BOOK premier`
@@ -24,15 +24,15 @@ When importing French docx files, the language (French) must be selected as demo
 
     References to legislation history, amendments/modifications reflecting at the top of the work should be captured as an annotation in the Preface
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 In edit mode:
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 In view mode:
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 Example of annotation of multiple amendments [https://edit.laws.africa/documents/15249/](https://edit.laws.africa/documents/15249/)
 
@@ -44,11 +44,11 @@ Word nouveau (new) will be added in round brackets after article number. Annotat
 
 In edit mode:
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 In view mode:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **Adding accents to letters which are changed by editors from Captials to Sentence Case in Title and Chapter headings**&#x20;
 

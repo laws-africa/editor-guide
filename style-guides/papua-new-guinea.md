@@ -61,7 +61,7 @@ For references of Acts that are in bold text and italics, remove the bold text a
 
 When marking up Parts, please remove the full stop after the number.
 
-<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>Should be marked up as <code>PART I - PRELIMINARY</code></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>Should be marked up as <code>PART I - PRELIMINARY</code></p></figcaption></figure>
 
 ### Documents that are consolidations
 

@@ -35,7 +35,7 @@ Below are other examples of the `BODY` of Recommendations and Resolutions.&#x20;
 
 Sometimes a document will not have a preamble. In such instances, the first keyword used should be `BODY`. Below is an example of one such document.
 
-![](<../.gitbook/assets/image (208).png>)
+![](<../.gitbook/assets/image (233).png>)
 
 #### Hierarchical structure
 
@@ -77,7 +77,7 @@ In AGP treaty documents, we use `PREAMBLE` for text like "_The African Union, Re
 
 In the Preamble of a document, style the first word of each sentence (words highlighted in the image below) as it is in the source document. If such word it **underlined**, please remove the underlining and **add italics** to it.&#x20;
 
-![](<../.gitbook/assets/1 (1).png>)
+![](../.gitbook/assets/1.png)
 
 #### Body <a href="#body" id="body"></a>
 
@@ -119,11 +119,11 @@ If a document is divided by headings for which a keyword does  not exist, please
 
 **Please** take out underling in headings
 
-![Please take out underling in headings.](<../.gitbook/assets/image (6) (1) (1).png>)
+![Please take out underling in headings.](<../.gitbook/assets/image (6) (1).png>)
 
 **Please** fix spacing errors. Please add a comment in the margin ONLY if adding a space changes the meaning of the sentence.
 
-![Examples of spacing issues](../.gitbook/assets/Spacing.PNG)
+![Examples of spacing issues](<../.gitbook/assets/Spacing (1).PNG>)
 
 **Please** remove signatures that appear at the end of documents.
 

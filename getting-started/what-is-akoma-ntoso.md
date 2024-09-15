@@ -34,7 +34,7 @@ Akoma Ntoso separates content and structure from presentation.
 
 Treating these three elements separately makes it very easy to apply different presentations for different use cases, such as desktop, mobile and print.
 
-![Content, Structure and Presentation as layers.](<../.gitbook/assets/image (79).png>)
+![Content, Structure and Presentation as layers.](<../.gitbook/assets/image (226).png>)
 
 ### Working with Akoma Ntoso
 
@@ -42,4 +42,4 @@ The Laws.Africa editor makes working with Akoma Ntoso easy. So easy, that you ne
 
 Instead, you work with a simplified version of the document that focuses just on content and structure, that looks like this:
 
-![](<../.gitbook/assets/image (212) (2).png>)
+![](<../.gitbook/assets/image (151).png>)

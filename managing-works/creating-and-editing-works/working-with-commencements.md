@@ -22,7 +22,7 @@ Sometimes, the 'Short title and commencement' or 'Commencement' section of the w
 
 When this is the case, you should check 'Commenced' and give the relevant date when initially creating the work on the platform.
 
-![](<../../.gitbook/assets/image (75).png>)
+![](<../../.gitbook/assets/image (106).png>)
 
 ## Commencement by notice
 
@@ -36,7 +36,7 @@ A commencement notice can give:&#x20;
 
 In this case, all the provisions of the work commence on the same date; this date is given in a Commencing work, often a notice, which will be gazetted like all other works.
 
-![](<../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../.gitbook/assets/image (111).png>)
 
 When this is the case, you should:
 
@@ -50,13 +50,13 @@ When this is the case, you should:
 Commencement notices always commence on publication.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (197).png>)
 
 ### Different provisions commence on different dates
 
 In this case, a Commencing work will specify which provisions commence on which date.
 
-![](<../../.gitbook/assets/image (65).png>)
+![](<../../.gitbook/assets/image (88).png>)
 
 When this is the case, you should:
 
@@ -80,13 +80,13 @@ _\[subsection (3) commenced on 21 March 2020 by GN 123 of 2020]_, \
 with the correct details filled in. The notice number should be linked before the document is published.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (60).png>)
+![](<../../.gitbook/assets/image (152).png>)
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (68).png>)
 
-![](<../../.gitbook/assets/image (36).png>)
+![](<../../.gitbook/assets/image (191).png>)
 
-![](<../../.gitbook/assets/image (82).png>)
+![](<../../.gitbook/assets/image (62).png>)
 
 ### Certain provisions commence but only in relation to other provisions
 

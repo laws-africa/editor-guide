@@ -58,7 +58,7 @@ SEC 4. - Fourth section of principal Act
 
 When you're done, it should look like this in View mode:
 
-![](<../../.gitbook/assets/image (184).png>)
+![](<../../.gitbook/assets/image (139).png>)
 
 and like this in Edit mode:
 

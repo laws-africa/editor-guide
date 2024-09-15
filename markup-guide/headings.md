@@ -134,4 +134,4 @@ Taxes should …
 
 Your goal is to make it look like this:
 
-![](<../.gitbook/assets/image (84).png>)
+![](<../.gitbook/assets/image (128).png>)

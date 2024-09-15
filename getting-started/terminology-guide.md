@@ -4,7 +4,7 @@ description: A guide to the terms used on the platform.
 
 # Terminology guide
 
-![The terminology of Laws.Africa.](../.gitbook/assets/laws.africa-terminology.png)
+![The terminology of Laws.Africa.](<../.gitbook/assets/Laws.Africa Terminology.png>)
 
 ## Terms
 
@@ -14,21 +14,21 @@ A **Work** is the logical concept of an Act, By-law, Regulations, Notice, or oth
 
 An **Expression** is a particular version of a Work, in a specific language and at a particular Point in Time. A Work may have many expressions associated with it. Expressions are also referred to as **Documents** on the platform.
 
-A **Point in Time** is all the Expressions of a Work on a particular date. There is usually only one Expression at a particular date, unless the Work is available in multiple languages. Often, a Point in Time is synonymous with an Expression. Each Point in Time will have all the previous amendments applied to it, and the oldest \(or first\) point in time will be the work as originally published. Points in Time generally have an event associated with them, most commonly publication or amendment.
+A **Point in Time** is all the Expressions of a Work on a particular date. There is usually only one Expression at a particular date, unless the Work is available in multiple languages. Often, a Point in Time is synonymous with an Expression. Each Point in Time will have all the previous amendments applied to it, and the oldest (or first) point in time will be the work as originally published. Points in Time generally have an event associated with them, most commonly publication or amendment.
 
 ### Primary vs Subsidiary legislation
 
-**Primary legislation** includes Acts and By-laws. They lay down the rights and obligations of government and citizens and usually focus on a certain subject area.   
+**Primary legislation** includes Acts and By-laws. They lay down the rights and obligations of government and citizens and usually focus on a certain subject area. \
 Example: the Nursing Act.
 
-**Subsidiary legislation** includes Regulations, Statutory Instruments and Orders and are made in terms of a Primary work. They often deal with the practical application of the rights and obligations laid down in a Primary work.   
-Example: the Nursing Regulations \(in terms of the Nursing Act\).
+**Subsidiary legislation** includes Regulations, Statutory Instruments and Orders and are made in terms of a Primary work. They often deal with the practical application of the rights and obligations laid down in a Primary work. \
+Example: the Nursing Regulations (in terms of the Nursing Act).
 
 ### Principal, Commencing, Amending, and Repealing works
 
 A **Principal work** can be a new Act, a new By-law, or a new set of Regulations.
 
-A **Commencing work** is normally a Notice that provides the Commencement date for a Principal work. \(Many Principal works commence on publication or specify their own Commencement date.\)
+A **Commencing work** is normally a Notice that provides the Commencement date for a Principal work. (Many Principal works commence on publication or specify their own Commencement date.)
 
 An **Amending work** is a Work that makes changes to a Principal work. Amending works are published when government needs to update or change an existing piece of legislation.
 
@@ -48,15 +48,14 @@ When a Work is **Repealed**, it is no longer in force. This is done by a **Repea
 
 ## Abbreviations
 
-| Abbreviation | Meaning |
-| :--- | :--- |
-| GenN | General Notice |
-| GG | Government Gazette |
-| GN | Government Notice |
-| LAN | Local Area Notice |
-| LN | Legal Notice |
-| Proc | Proclamation |
-| PG | Provincial Gazette |
-| PN | Provincial Notice |
-| SI | Statutory Instrument |
-
+| Abbreviation | Meaning              |
+| ------------ | -------------------- |
+| GenN         | General Notice       |
+| GG           | Government Gazette   |
+| GN           | Government Notice    |
+| LAN          | Local Area Notice    |
+| LN           | Legal Notice         |
+| Proc         | Proclamation         |
+| PG           | Provincial Gazette   |
+| PN           | Provincial Notice    |
+| SI           | Statutory Instrument |

@@ -11,7 +11,7 @@
 * Never run it as a last step.
 * Quick-edit sections that need words re-capitalised by clicking the pencil next to the heading.
 
-![Quick-edit section 2: 'inspector-general of police' should match the casing in subsection (1).](../.gitbook/assets/quick-edit.png)
+![Quick-edit section 2: 'inspector-general of police' should match the casing in subsection (1).](../.gitbook/assets/Quick-edit.png)
 
 {% hint style="info" %}
 For more guidance on sentence case, see the [Laws.Africa style guide](../style-guides/laws.africa.md#headings).

@@ -41,7 +41,7 @@ becomes\
 
 Look out for random hyphens in words. This is occurring when a word was broken and hyphenated at the end of a line in the pdf, like this:
 
-![](<../.gitbook/assets/image (137).png>)
+![](<../.gitbook/assets/image (208).png>)
 
 These are easier to spot in the pdf as they will always occur at the end of a line.  When you come across them, please delete the hyphen.
 
@@ -49,7 +49,7 @@ These are easier to spot in the pdf as they will always occur at the end of a li
 
 For  references in the Acts, e.g.:
 
-![](<../.gitbook/assets/image (132).png>)
+![](<../.gitbook/assets/image (216).png>)
 
 Please wrap these in `{{*[annotation markup]}}`.
 

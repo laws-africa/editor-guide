@@ -13,8 +13,8 @@ To change the document's short title and/or language:
 * Close the pop-up. Note that the work's short title is unchanged, while the document's title has been updated.
 * Save.
 
-![](<../.gitbook/assets/image (214).png>)
+![](<../.gitbook/assets/image (80).png>)
 
-![](<../.gitbook/assets/image (216).png>)
+![](<../.gitbook/assets/image (236).png>)
 
-![](<../.gitbook/assets/image (215).png>)
+![](<../.gitbook/assets/image (282).png>)

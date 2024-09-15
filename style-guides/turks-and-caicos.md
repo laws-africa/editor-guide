@@ -10,9 +10,9 @@ Please use the PDFs to check against. PDFs are found here: [https://drive.google
 
 For documents that are Rules please use keywords RULE and SUBRULE where you would otherwise use SECTION and SUBSECTION. Please see the example below&#x20;
 
-![](<../.gitbook/assets/image (213).png>)
+![](<../.gitbook/assets/image (270).png>)
 
-![](<../.gitbook/assets/image (214) (1).png>)
+![](<../.gitbook/assets/image (74).png>)
 
 ### How to style Practice Directions
 

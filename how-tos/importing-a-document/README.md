@@ -24,17 +24,17 @@ Follow these tips for getting the best results when importing documents:
 8. Once imported, the document will open and will be ready for [clean-up](../cleaning-up-an-import.md).
 9. After the imported document has been cleaned up, click **Submit for review** on the task. The content will be reviewed by a second editor. They may return it to you for changes or approve the task and publish the document – you will get an email notification either way.
 
-![](<../../.gitbook/assets/image (173).png>)
+![](<../../.gitbook/assets/image (189).png>)
 
-![](<../../.gitbook/assets/image (145).png>)
+![](<../../.gitbook/assets/image (110).png>)
 
-![](<../../.gitbook/assets/image (158).png>)
+![](<../../.gitbook/assets/image (54).png>)
 
-![](<../../.gitbook/assets/image (148).png>)
+![](<../../.gitbook/assets/image (112).png>)
 
-![](<../../.gitbook/assets/image (146).png>)
+![](<../../.gitbook/assets/image (180).png>)
 
-![](<../../.gitbook/assets/image (156).png>)
+![](<../../.gitbook/assets/image (104).png>)
 
 ## Importing a Gazette PDF
 
@@ -55,7 +55,7 @@ Follow these tips for getting the best results when importing documents:
 
 
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (123).png>)
 
 
 

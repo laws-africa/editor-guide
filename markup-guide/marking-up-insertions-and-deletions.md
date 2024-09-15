@@ -32,7 +32,7 @@ If the inserted text starts with a space, simply add a second space after the `+
 
 Will look like this in View mode:&#x20;
 
-![](<../.gitbook/assets/image (207) (1).png>)
+![](<../.gitbook/assets/image (188).png>)
 
 {% hint style="warning" %}
 While `{{+ insertions}}` and `__underlines__` look the same in View mode, they just happen to both be styled with an underline for now.
@@ -61,7 +61,7 @@ If the deleted text starts with a space, simply add a second space after the `-`
 
 Will look like this in View mode:&#x20;
 
-![](<../.gitbook/assets/image (209) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (192).png>)
 
 ## Extra markup
 
@@ -84,7 +84,7 @@ A letter of agreement Memorandum of Understanding has been signed between the se
 
 When you're done, it should look like this in View mode:
 
-![](<../.gitbook/assets/image (206) (1).png>)
+![](<../.gitbook/assets/image (260).png>)
 
 and like this in Edit mode:
 

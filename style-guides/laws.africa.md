@@ -93,9 +93,9 @@ So, even though the notice text says 'in the Schedule', we put the Regulations i
 
 From [https://edit.laws.africa/works/akn/za-wc/act/pn/2010/232/](https://edit.laws.africa/works/akn/za-wc/act/pn/2010/232/):
 
-![](<../.gitbook/assets/image (97).png>)
+![](<../.gitbook/assets/image (238).png>)
 
-![](<../.gitbook/assets/image (208) (1).png>)
+![](<../.gitbook/assets/image (102).png>)
 
 ### Other notices
 
@@ -105,13 +105,13 @@ Keep the body of the notice as the BODY, and the Schedule as a SCHEDULE.
 
 From [https://edit.laws.africa/works/akn/za/act/gn/2020/752/](https://edit.laws.africa/works/akn/za/act/gn/2020/752/):
 
-![](<../.gitbook/assets/image (99).png>)
+![](<../.gitbook/assets/image (92).png>)
 
-![](<../.gitbook/assets/image (209) (1).png>)
+![](<../.gitbook/assets/image (243).png>)
 
 ### Treaties and other documents with a Preamble
 
 In the Preamble of a document, style the first word of each sentence (words highlighted in the image below) as it is in the source document. If such word it **underlined**, please remove the underlining and **add italics** to it.&#x20;
 
-![](<../.gitbook/assets/1 (1).png>)
+![](../.gitbook/assets/1.png)
 

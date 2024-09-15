@@ -12,9 +12,9 @@ Annotations are how we show readers what happened to a piece of legislation over
    * Replace `XXX` with the section of the amending work that made this particular change. (If the amending work doesn't have sections, delete all of `section XXX of`.)
 4. In our example, the final annotation will read `{{*[subsection (2) substituted by section 8(1)(b) of the {{>/za-playground/act/by-law/2020/practice-3 Amendment By-law, 2020}}]}}` – note it does not start with a capital letter, and there are no spaces between the brackets in the reference to section 8(1)(b).
 
-![Inserting the annotation](<../../.gitbook/assets/image (78).png>)
+![Inserting the annotation](<../../.gitbook/assets/image (144).png>)
 
-![The automatically inserted annotation still needs to be edited](<../../.gitbook/assets/image (211) (2).png>)
+![The automatically inserted annotation still needs to be edited](<../../.gitbook/assets/image (82).png>)
 
 ## How to write an annotation from scratch
 

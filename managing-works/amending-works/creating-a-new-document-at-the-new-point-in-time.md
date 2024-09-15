@@ -6,5 +6,4 @@ Check that the previous document has been **published** before creating a new do
 
 At the new point in time, click **Create amended version** and select the language.
 
-![](../../.gitbook/assets/image%20%2844%29.png)
-
+![](<../../.gitbook/assets/image (183).png>)

@@ -405,11 +405,11 @@ PARA 3. Heading Content of third paragraph.
 
 When you're done, it should look like this in View mode:
 
-![](<../.gitbook/assets/image (103).png>)
+![](<../.gitbook/assets/image (109).png>)
 
 and like this in Edit mode:
 
-![](<../.gitbook/assets/image (119).png>)
+![](<../.gitbook/assets/image (135).png>)
 
 ### Hierarchical structure 2
 
@@ -442,12 +442,12 @@ Content
 
 When you're done, it should look like this in View mode:
 
-![](<../.gitbook/assets/image (109).png>)
+![](<../.gitbook/assets/image (227).png>)
 
 and like this in Edit mode:
 
-![](<../.gitbook/assets/image (104).png>)
+![](<../.gitbook/assets/image (94).png>)
 
 Note the indentation in the Table of Contents:
 
-![](<../.gitbook/assets/image (111).png>)
+![](<../.gitbook/assets/image (147).png>)
