@@ -34,6 +34,7 @@
 * [Importing a document](how-tos/importing-a-document/README.md)
   * [The importer](how-tos/importing-a-document/the-importer.md)
 * [Cleaning up an import](how-tos/cleaning-up-an-import.md)
+* [Going back to a previous version of a document](how-tos/going-back-to-a-previous-version-of-a-document.md)
 * [Fixing all-caps headings](how-tos/fix-all-caps-headings.md)
 * [Working with tables](how-tos/tables/README.md)
   * [Table errors](how-tos/tables/table-errors.md)
