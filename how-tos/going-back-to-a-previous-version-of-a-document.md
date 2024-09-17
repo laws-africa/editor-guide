@@ -7,7 +7,7 @@ Pro tip:
 
 If you're busy editing and something goes horribly wrong when you hit Update, just refresh the page to return to the last saved version of the document.&#x20;
 
-Any other unsaved changes will also be lost — another reason to save often [😉](https://emojipedia.org/winking-face)
+Any other unsaved changes will also be lost — another reason to save often 😉
 {% endhint %}
 
 If you have already saved and want to return to a previously saved version of a document:
