@@ -1,7 +1,7 @@
 # Uganda
 
 * Headings shouldn't end in stops, except in the case of 'etc.'
-* 'Cross-references' at the end of each Act.
+* Remove 'Cross-references' at the end of each Act.
 * Move "History" of legislation up to the top of a document in the preface but bellow the longtitle. The legislation must be marked up in an annotation or remark without the word "History" e.g, \{{\*\[Act 2 of 23; Cap. 1]\}}
 * If you come across an 'Explanation', please mark it up as an annotation or remark.
 
