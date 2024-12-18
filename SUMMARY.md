@@ -77,6 +77,7 @@
 
 * [Laws.Africa](style-guides/laws.africa.md)
 * [Côte d'Ivoire](style-guides/cote-divoire.md)
+* [Ghana](style-guides/ghana.md)
 * [Namibia](style-guides/namibia/README.md)
   * [Regulations](style-guides/namibia/regulations.md)
 * [Lesotho](style-guides/lesotho.md)
