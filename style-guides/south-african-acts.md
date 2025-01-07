@@ -1,5 +1,5 @@
 ---
-description: 'Style guide for South African Acts, both national and provincial.'
+description: Style guide for South African Acts, both national and provincial.
 ---
 
 # South African Acts
@@ -7,5 +7,4 @@ description: 'Style guide for South African Acts, both national and provincial.'
 ## Short titles
 
 1. Use the short title of the Act as given in its 'Short Title' section.
-2. Always include the year of the Act at the end of the title, even if the Short Title of the Act doesn't. For example: 'Western Cape Technical Colleges Law**, 1994**'.
-
+2. Always include the year of the Act at the end of the title, even if the Short Title of the Act doesn't. For example: 'Western Cape Technical Colleges La&#x77;**, 1994**'.

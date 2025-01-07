@@ -50,6 +50,12 @@
 * [Search and rescue](how-tos/search-and-rescue.md)
 * [How to handle different language documents](how-tos/how-to-handle-different-language-documents.md)
 * [How to mark up defined terms which do not occur in a Definitions section](how-tos/how-to-mark-up-defined-terms-which-do-not-occur-in-a-definitions-section.md)
+* [Very complicated amendments](how-tos/very-complicated-amendments/README.md)
+  * [Research](how-tos/very-complicated-amendments/research.md)
+  * [Undo some amendments?](how-tos/very-complicated-amendments/undo-some-amendments.md)
+  * [Update the timeline](how-tos/very-complicated-amendments/update-the-timeline.md)
+  * [Create the tasks](how-tos/very-complicated-amendments/create-the-tasks.md)
+  * [Apply the amendments](how-tos/very-complicated-amendments/apply-the-amendments.md)
 
 ## Markup guide
 

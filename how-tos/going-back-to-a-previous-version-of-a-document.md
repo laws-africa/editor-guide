@@ -21,6 +21,6 @@ If you have already saved and want to return to a previously saved version of a 
 Any unsaved changes, as well as any changes saved after the version you are restoring to, will be discarded.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>

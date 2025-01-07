@@ -76,7 +76,7 @@ If the commencement notice gives Chapters (the provisions list only contains sec
 If the commencement notice gives provisions below the secion level, these can only be recorded using editorial notes for the time being.&#x20;
 
 In the above example, an editorial note would be added below both section 97(3) and 97(4), each of which reads \
-_\[subsection (3) commenced on 21 March 2020 by GN 123 of 2020]_, \
+&#xNAN;_\[subsection (3) commenced on 21 March 2020 by GN 123 of 2020]_, \
 with the correct details filled in. The notice number should be linked before the document is published.
 {% endhint %}
 

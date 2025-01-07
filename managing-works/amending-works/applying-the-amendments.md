@@ -34,7 +34,7 @@ Amended work after amendment:
 >
 > **3A When to pick strawberries** \
 > Strawberries may be picked on Tuesdays.\
-> _\[section 3A inserted by section 2 of Act 1 of 2023]_
+> &#xNAN;_\[section 3A inserted by section 2 of Act 1 of 2023]_
 >
 > **4 When to pick onions** \
 > Onions may be picked on Mondays and Tuesdays..
@@ -67,7 +67,7 @@ Amended work before amendment:
 Amended work after amendment:
 
 > **12 \*\*\***\
-> _\[section 12 repealed by section 6 of Act 1 of 2023]_
+> &#xNAN;_\[section 12 repealed by section 6 of Act 1 of 2023]_
 >
 > **13 How to pick strawberries** \
 > (1) _\[subsection (1) repealed by section 7 of Act 1 of 2023]_ \
@@ -112,7 +112,7 @@ Amended work after amendment:
 >
 > **16 Fines** \
 > Fines may be from R50.00 to R1000.00, in increments of R50.00, depending on the severity of the offence.\
-> _\[section 16 substituted by section 9 of Act 1 of 2023]_
+> &#xNAN;_\[section 16 substituted by section 9 of Act 1 of 2023]_
 
 ## Amending text
 

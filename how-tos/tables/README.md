@@ -36,7 +36,7 @@ You can copy and paste a table from a Word document.
 5. Mark up heading cells by highlighting them and clicking **Heading**.
 6. Resize columns by clicking and dragging on the border between them.
 7. Left align, center and right-align text by clicking the editor alignment buttons.
-8. Click **Update** to save your changes, or click **Cancel** to discard them**.**
+8. Click **Update** to save your changes, or click **Cancel** to discard the&#x6D;**.**
 
 ## **Exercise**
 
@@ -98,7 +98,7 @@ Now make the header cells bold.
 1. Click **Edit table**.
 2. Highlight the header cells individually or as a group and click **Heading**.
 
-A tomato is [actually a fruit](https://en.wikipedia.org/wiki/Tomato#Fruit\_versus\_vegetable). Put it under both columns by merging the two cells in the tomato row.
+A tomato is [actually a fruit](https://en.wikipedia.org/wiki/Tomato#Fruit_versus_vegetable). Put it under both columns by merging the two cells in the tomato row.
 
 1. Select the Tomatoes cell and the one next to it by dragging the mouse.
 2. Click **Merge cells**.

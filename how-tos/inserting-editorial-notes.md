@@ -19,7 +19,7 @@ or
 2\. blah blah\
 3\. blah blah\
 3\. blah blah\
-_\[Please note: numbering as in original.]_\
+&#xNAN;_\[Please note: numbering as in original.]_\
 4\. blah blah
 
 As you can see,  the note goes directly under where the error occurs.
