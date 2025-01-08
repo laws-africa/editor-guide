@@ -8,6 +8,7 @@ Researcher 1:
 
 * Add an amendment at each date on which each amending Act amends the principal Act.
 * This can mean several amendments per amending Act, and it can also mean multiple amendments on the same date by different Acts.
+* If an amendment comes before the last published document, unpublish all documents from the date of that amendment (inclusive) onwards.
 * Also add amendments for each amended amendment.
 * Record each addition in the spreadsheet as you go — use 'x' or 'Yes' or something other than ✔ to show that it's ready for review.
 
@@ -20,13 +21,14 @@ Researcher 2:
 * Check the timeline on the principal Act, bearing in mind:
   * Everything that has been marked as ready for review on the spreadsheet (update to ✔ once checked)
   * Any amendments that should have been removed as part of the previous step
+  * Any documents that should be unpublished because of retroactive amendments
   * All other amended amendments.
-* If anything is missing or incorrect, make a comment in the spreadsheet and finish checking everything before making any changes.
+* If anything is missing or incorrect, make a comment in the spreadsheet and finish checking everything _before_ making any changes.
 * Approve or sign off all (changes to) the amending Acts.
 * Sign off the timeline changes to the principal work.
 
 {% hint style="info" %}
-You can use bulk sign-off to sign off only the timeline changes.
+You can use bulk sign-off to sign off only the timeline changes, but you have to use normal sign-off to sign off unpublishing a document.
 {% endhint %}
 
 At the end of this process, the timeline of the principal Act as well as any amended amendment Acts should be correct, and the spreadsheet should have a check mark under 'on timeline ✔' for each row (other than those that don't yet have a commencement date).

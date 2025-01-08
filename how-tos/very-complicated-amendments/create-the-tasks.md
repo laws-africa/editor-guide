@@ -8,6 +8,7 @@ The tasks will be done in chronological order, and per date in order of Act numb
 
 * Remember to include the date :)
 * The description will show on the timeline, so keep it brief, e.g. 'Apply the amendments made by Act 17 of 2023 (7 sections)'. If it's only one provision being amended, you can include all the details in the description rather than as comments.
+* If a retroactive amendment needs to be applied to more than one point in time, include this in the task very explicitly.
 * As comments on the task, for each provision amended per task, include from the spreadsheet:
   * The amending provision
   * The amended provision
