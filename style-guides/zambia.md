@@ -4,13 +4,13 @@
 
 #### 1996 Consolidation
 
-PDFs for reference: [https://drive.google.com/drive/folders/1bKsOYDXu5wiHncPlKnqfuVK2PHVFJ-RD?usp=share\_link](https://drive.google.com/drive/folders/1bKsOYDXu5wiHncPlKnqfuVK2PHVFJ-RD?usp=share\_link)
+PDFs for reference: [https://drive.google.com/drive/folders/1bKsOYDXu5wiHncPlKnqfuVK2PHVFJ-RD?usp=share\_link](https://drive.google.com/drive/folders/1bKsOYDXu5wiHncPlKnqfuVK2PHVFJ-RD?usp=share_link)
 
-Word documents: [https://drive.google.com/drive/folders/1hHI\_zNcF0vePS8xV88lYVp7pf\_uP\_tGj?usp=share\_link](https://drive.google.com/drive/folders/1hHI\_zNcF0vePS8xV88lYVp7pf\_uP\_tGj?usp=share\_link)
+Word documents: [https://drive.google.com/drive/folders/1hHI\_zNcF0vePS8xV88lYVp7pf\_uP\_tGj?usp=share\_link](https://drive.google.com/drive/folders/1hHI_zNcF0vePS8xV88lYVp7pf_uP_tGj?usp=share_link)
 
 #### Update documents
 
-These are for documents if a date after 31 December 1996. [https://drive.google.com/drive/folders/1IecOPTPKGZKJizv4Gk1CJd5UmrzXglQ6?usp=share\_link](https://drive.google.com/drive/folders/1IecOPTPKGZKJizv4Gk1CJd5UmrzXglQ6?usp=share\_link)
+These are for documents if a date after 31 December 1996. [https://drive.google.com/drive/folders/1IecOPTPKGZKJizv4Gk1CJd5UmrzXglQ6?usp=share\_link](https://drive.google.com/drive/folders/1IecOPTPKGZKJizv4Gk1CJd5UmrzXglQ6?usp=share_link)
 
 ### Cleaning up a document&#x20;
 
@@ -48,6 +48,25 @@ Statements indicating amendments should be captured as annotations. `{{*[text te
 References to Acts in the margins should be moved below the text to which they refer and marked up as an annotation. Where several references appear, these should be captured in a single annotation separated by semi-colons.&#x20;
 
 <figure><img src="../.gitbook/assets/caps.png" alt=""><figcaption></figcaption></figure>
+
+#### Applying Amendments
+
+When applying amendments to legislation, follow these guidelines:
+
+1. **Retain Original Annotations from Consolidations**\
+   Keep annotations like "(As amended by...)" as they appear in the consolidated version. These reflect the original consolidation notes and must not be altered.
+2. **Add New Annotations Below Consolidation Annotations**\
+   Include new annotations for applied amendments in the house style, placed directly **below the retained consolidation annotation**.
+3.  **Example:**\
+    Original consolidation annotation:\
+    &#x20;      \[`As amended by Act No. 31 of 1976]`
+
+    Added new annotation:\
+    &#x20;     `[section 14(3) substituted by Act 15 of 2005]`
+
+    Final format:\
+    &#x20;     \[`As amended by Act No. 31 of 1976]`\
+    &#x20;     \[`section 14(3) substituted by Act 15 of 2005]`
 
 ### Dates in Zambia
 
