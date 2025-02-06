@@ -50,77 +50,23 @@ In view mode:
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-**Adding accents to letters which are changed by editors from Captials to Sentence Case in Title and Chapter headings**&#x20;
+**Change headings from CAPITAL LETTERS to Sentence case**&#x20;
 
-Copy from text within Chapter, or use Google French to English translation if unsure accent needed. Check list of common words which requte accents added. Only capitalise if appropriate&#x20;
+Example of text that requires change&#x20;
 
+<figure><img src="../.gitbook/assets/Headings in Capitals.png" alt=""><figcaption></figcaption></figure>
 
+At top of screen Click Analysis then Click Make headings sentence case
 
-Définitions
+<figure><img src="../.gitbook/assets/Analysis makes headings sentence case.png" alt=""><figcaption></figcaption></figure>
 
-Dispositions générales
+Text of headings to sentence case and accents are automatically inserted:
 
-&#x20;
+<figure><img src="../.gitbook/assets/After running Analysis.png" alt=""><figcaption></figcaption></figure>
 
-à
+You still need to change the words PREMIER to premier. Correct mark up:
 
-activités
-
-affectés
-
-attachés
-
-comités
-
-Comités
-
-contrôle
-
-électricité
-
-équipements
-
-l'état
-
-l'État&#x20;
-
-financières
-
-&#x20;foncière
-
-générales
-
-matière&#x20;
-
-préalables
-
-président
-
-Président
-
-procédure&#x20;
-
-procédures
-
-réalisation
-
-régime
-
-règles
-
-règlement
-
-Règlement
-
-réglementation
-
-règles
-
-régulation
-
-sécurité
-
-spécifiques
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Paragraphe which contains Articles**&#x20;
 
