@@ -1,19 +1,18 @@
 ---
 description: >-
   Importing the docx documents : use docx files to import and for reference when
-  cleaning up the imports.  Docx files are saved here
-  https://drive.google.com/drive/u/1/folders/1zjKOvXiXzWQ4EJKYCnVNDlEoz
+  cleaning up the imports.  Docx files are saved here :
+  https://drive.google.com/drive/u/0/folders/1Ljr3T2AvqSY8ssKKVNGDJQ2
 ---
 
 # Côte d'Ivoire
 
 **Things to look out for in Côte d'Ivoire**
 
-When importing French docx files, the language (French) must be selected as demonstrated in the image captured below.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-* **Hierarchy of Documents**: Livre (Book), Titre (Title), Chapitre (Chapter), Section, Article&#x20;
+* **Hierarchy of Documents**:
+* &#x20;Livre (Book), Titre (Title), Chapitre (Chapter), Section, Article&#x20;
 * Livre 1 appears as **LIVRE PREMIER** in the docx, mark up as `BOOK premier`
 * Chapitre 1 appears as **CHAPITRE PREMIER** in the docx, mark up as `CHAP premier`
 * &#x20;Article 1 appears as  **ARTICLE PREMIER** in the docx,  mark up as `ART premier`&#x20;
