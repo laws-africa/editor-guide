@@ -23,7 +23,7 @@ description: >-
 
     References to legislation history, amendments/modifications reflecting at the top of the work should be captured as an annotation in the Preface
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 In edit mode:
 
@@ -39,15 +39,15 @@ Example of annotation of multiple amendments [https://edit.laws.africa/documents
 
 Word nouveau (new) will be added in round brackets after article number. Annotation with details of amending work should appear immediately below Article heading, with no round brackets.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 In edit mode:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 In view mode:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Change headings from CAPITAL LETTERS to Sentence case**&#x20;
 
@@ -65,7 +65,7 @@ Text of headings to sentence case and accents are automatically inserted:
 
 You still need to change the words PREMIER to premier. Correct mark up:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Paragraphe which contains Articles**&#x20;
 
@@ -73,15 +73,15 @@ You still need to change the words PREMIER to premier. Correct mark up:
 
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 In edit mode: mark up as a SUBPART, include ‘paragraphe’ as part of the number (not the heading)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In view mode:
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Irregular numbering of documents: annotation to be inserted**&#x20;
 
@@ -123,6 +123,40 @@ If forms are subsequently amended /substituted an annotation should be included 
   {{*[Le formulaire 4 est remplacé par .........]}}
 ```
 ````
+
+**Applying Amendments**
+
+The word **(nouveau)** is added in brackets to the article after the number to indicate that an entire article was substituted.&#x20;
+
+The annotation is placed below the article number and above the text.
+
+&#x20;View mode ↓
+
+&#x20;![](../.gitbook/assets/image.png)
+
+&#x20;Edit mode ↓
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;Where an article is substituted, use the word **remplacé**
+
+Where an article is repealed use the word **abrogé**
+
+Where an article is amended, or substituted several times, join the annotations together into one consolidated annotation.
+
+In View mode ↓
+
+&#x20;![](<../.gitbook/assets/image (3).png>)
+
+Edit mode ↓
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
+
+[https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments](https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments)
 
 
 
