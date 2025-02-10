@@ -150,8 +150,6 @@ In View mode ↓
 
 Edit mode ↓
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
