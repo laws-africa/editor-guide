@@ -1,63 +1,61 @@
 ---
 description: >-
-  Importing the docx documents : use docx files to import and for reference when
-  cleaning up the imports.  Docx files are saved here :
+  Importation des documents docx : utilisez les fichiers docx pour importer et
+  pour vous référer lors du nettoyage des importations :
   https://drive.google.com/drive/u/0/folders/1Ljr3T2AvqSY8ssKKVNGDJQ2
 ---
 
 # Côte d'Ivoire
 
-**Things to look out for in Côte d'Ivoire**
+**Ce qu'il faut savoir en Côte d'Ivoire**
 
-
-
-* **Hierarchy of Documents**:
+* **Hiérarchie de documents**:
 * &#x20;Livre (Book), Titre (Title), Sous-titre, Chapitre (Chapter), Section, Sous-section, Article&#x20;
-* Livre 1 appears as **LIVRE PREMIER** in the docx, mark up as `BOOK premier`
-* Chapitre 1 appears as **CHAPITRE PREMIER** in the docx, mark up as `CHAP premier`
-* &#x20;Article 1 appears as  **ARTICLE PREMIER** in the docx,  mark up as `ART premier`&#x20;
-* Title 1 appears as  **TITRE PREMIER** in the docx,  mark up as TITLE `premier`
-* **BUT** Section 1 appears as  **SECTION PREMIERE** in the docx,  mark up as **PARTIE PREMIERE** mark up as `PART première`
-* French words for BOOK (Livre), CHAPTER (Chapitre), TITLE (Titre) and PART (Partie) will automatically appear translated on the view screen when you mark them up in the usual way eg. Chapter will automatically come up as Chapitre when you mark it up using CHAP
-* Mark up **Sous-titre** as **SUBTITLE**
-* Mark up **Sous-section** as **SUBSEC**
-*   **Legislation history**
+* Livre 1 apparaît comme **LIVRE PREMIER** dans le docx, marquer comme `LIVRE premier`
+* Chapitre 1 apparaît comme **CHAPITRE PREMIER** dans le docx, marquer comme `CHAP premier`
+* &#x20;Article 1 apparaît comme  **ARTICLE PREMIER** dans le docx, marquer comme`ART premier`&#x20;
+* Title 1 apparaît comme **TITRE PREMIER** dans le docx, marquer comme TITRE `premier`
+* **BUT** Section 1 apparaît comme  **SECTION PREMIERE** dans le docx, marquer comme **PARTIE PREMIERE** marquer comme `PART première`
+* Les mots français pour BOOK (Livre), CHAPTER (Chapitre), TITLE (Titre) et PART (Partie) apparaîtront automatiquement traduits sur l'écran de visualisation lorsque vous les marquerez de la manière habituelle, par exemple Chapter apparaîtra automatiquement comme Chapitre lorsque vous le marquerez en utilisant CHAP.
+* Marquer comme **Sous-titre** comme **SUBTITLE**
+* Marquer comme **Sous-section** comme **SUBSEC**
+*   **Historique de la législation**
 
-    References to legislation history, amendments/modifications reflecting at the top of the work should be captured as an annotation in the Preface
+    Les références à l'historique de la législation, aux amendements/modifications figurant en tête de l'ouvrage doivent être reprises sous forme d'annotation dans la préface.
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-In edit mode:
+En mode édition:
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-In view mode:
+En mode affichage:
 
 ![](<../.gitbook/assets/image (12).png>)
 
-Example of annotation of multiple amendments [https://edit.laws.africa/documents/15249/](https://edit.laws.africa/documents/15249/)
+Exemple d'annotation de plusieurs amendements [https://edit.laws.africa/documents/15249/](https://edit.laws.africa/documents/15249/)
 
-**Amendment of Articles**
+**Modification des Amendements**
 
-Word nouveau (new) will be added in round brackets after article number. Annotation with details of amending work should appear immediately below Article heading, with no round brackets.
+Le mot (nouveau) sera ajouté entre crochets après le numéro de l'article. L'annotation avec les détails du travail de modification doit apparaître immédiatement sous le titre de l'article, sans crochets ronds.
 
 <figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
-In edit mode:
+En mode édition:
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-In view mode:
+En mode affichage:
 
 <figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
-**Change headings from CAPITAL LETTERS to Sentence case**&#x20;
+**Remplacer les titres en MAJUSCULES par des titres en minuscules.**
 
-Example of text that requires change&#x20;
+Exemple de texte à modifier&#x20;
 
 <figure><img src="../.gitbook/assets/Headings in Capitals.png" alt=""><figcaption></figcaption></figure>
 
-At top of screen Click Analysis then Click Make headings sentence case
+En haut de l'écran, cliquez sur Analyse, puis sur Faire des intitulés des cas de phrases.
 
 <figure><img src="../.gitbook/assets/Analysis makes headings sentence case.png" alt=""><figcaption></figcaption></figure>
 
@@ -65,11 +63,11 @@ Text of headings to sentence case and accents are automatically inserted:
 
 <figure><img src="../.gitbook/assets/After running Analysis.png" alt=""><figcaption></figcaption></figure>
 
-You still need to change the words PREMIER to premier. Correct mark up:
+Vous devez encore remplacer les mots PREMIER par premier. Correction de l'annotation :
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-**Paragraphe which contains Articles**&#x20;
+**Paragraphe qui contient des articles**
 
 
 
@@ -77,7 +75,7 @@ You still need to change the words PREMIER to premier. Correct mark up:
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-In edit mode: mark up as a SUBPART, include ‘paragraphe’ as part of the number (not the heading)
+En mode édition : marquer comme SOUS-PARTIE, inclure « paragraphe » dans le numéro (pas dans le titre))
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
