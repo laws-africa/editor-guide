@@ -83,9 +83,9 @@ In view mode:
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Irregular numbering of documents: annotation to be inserted**&#x20;
+**Numérotation irrégulière des documents : annotation à insérer**
 
-Edit mode:
+Mode édition:
 
 ```bluebell
 {{*[Attention: numérotation comme à l'original.]}}
@@ -93,27 +93,27 @@ Edit mode:
 
 **Annexes**&#x20;
 
-Found at end of works, mark up as a SCHEDULE
+Se trouve à la fin des travaux, à marquer comme un HORAIRE
 
-**Table and Forms in Annexes**
+**Tableau et formulaires en Annexe**
 
-**Tables** in document Schedules/Annexes **must** be imported.
+**Les Tableaux** dans le document des annexes **doivent** être importées.
 
-**Forms**
+**Formulaires**
 
-Forms are not to reproduced&#x20;
+Les formulaires ne peuvent être reproduits
 
-For Forms, please still insert the heading of form and style as usual, with an editorial note (in French) underneath, as shown below:
+Pour les formulaires, veuillez continuer à insérer la rubrique de forme et de style comme d'habitude, avec une note éditoriale (en français) en dessous, comme indiqué ci-dessous :
 
 
 
 ```
 ANNEXURE - Annexure 1
-    SUBHEADING Formulaires
+    SOUS-TITRES Formulaires
     {{*[Note éditoriale : Les formulaires n’ont pas été reproduits.]}}
 ```
 
-If forms are subsequently amended /substituted an annotation should be included to that effect
+Si les formulaires sont modifiés/substitués par la suite, une annotation doit être incluse à cet effet.
 
 
 
@@ -124,35 +124,35 @@ If forms are subsequently amended /substituted an annotation should be included 
 ```
 ````
 
-**Applying Amendments**
+**Application des Amendments**
 
-The word **(nouveau)** is added in brackets to the article after the number to indicate that an entire article was substituted.&#x20;
+Le mot **(nouveau)** est ajouté entre parenthèses à l'article après le numéro pour indiquer qu'un article entier a été remplacé.
 
-The annotation is placed below the article number and above the text.
+L'annotation est placée sous le numéro de l'article et au-dessus du texte.
 
-&#x20;View mode ↓
+&#x20;Mode d'affichage ↓
 
 &#x20;![](../.gitbook/assets/image.png)
 
-&#x20;Edit mode ↓
+Mode édition ↓
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Where an article is substituted, use the word **remplacé**
+&#x20;En cas de remplacement d'un article, utiliser le mot **remplacé**
 
-Where an article is repealed use the word **abrogé**
+En cas d'abrogation d'un article, utiliser le terme **abrogé**
 
-Where an article is amended, or substituted several times, join the annotations together into one consolidated annotation.
+Lorsqu'un article est modifié ou remplacé plusieurs fois, les annotations sont regroupées en une seule annotation consolidée.
 
-In View mode ↓
+Mode d'affichage ↓
 
 &#x20;![](<../.gitbook/assets/image (3).png>)
 
-Edit mode ↓
+Mode édition ↓
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
+&#x20;Veuillez lire la section « Comment insérer une annotation créée automatiquement dans Laws.Africa ». Guide de l'éditeur.
 
 [https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments](https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments)
 
