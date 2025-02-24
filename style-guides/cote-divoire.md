@@ -15,7 +15,7 @@ description: >-
 * Chapitre 1 apparaît comme **CHAPITRE PREMIER** dans le docx, marquer comme `CHAP premier`
 * &#x20;Article 1 apparaît comme  **ARTICLE PREMIER** dans le docx, marquer comme`ART premier`&#x20;
 * Title 1 apparaît comme **TITRE PREMIER** dans le docx, marquer comme TITRE `premier`
-* **BUT** Section 1 apparaît comme  **SECTION PREMIERE** dans le docx, marquer comme **PARTIE PREMIERE** marquer comme `PART première`
+* **MAIS** Section 1 apparaît comme  **SECTION PREMIERE** dans le docx, marquer comme **PARTIE PREMIERE** marquer comme `PARTIE première`
 * Les mots français pour BOOK (Livre), CHAPTER (Chapitre), TITLE (Titre) et PART (Partie) apparaîtront automatiquement traduits sur l'écran de visualisation lorsque vous les marquerez de la manière habituelle, par exemple Chapter apparaîtra automatiquement comme Chapitre lorsque vous le marquerez en utilisant CHAP.
 * Marquer comme **Sous-titre** comme **SUBTITLE**
 * Marquer comme **Sous-section** comme **SUBSEC**
@@ -59,7 +59,7 @@ En haut de l'écran, cliquez sur Analyse, puis sur Faire des intitulés des cas 
 
 <figure><img src="../.gitbook/assets/Analysis makes headings sentence case.png" alt=""><figcaption></figcaption></figure>
 
-Text of headings to sentence case and accents are automatically inserted:
+Insertion automatique du texte des titres jusqu'à la case de la phrase et des accents:
 
 <figure><img src="../.gitbook/assets/After running Analysis.png" alt=""><figcaption></figcaption></figure>
 
@@ -79,7 +79,7 @@ En mode édition : marquer comme SOUS-PARTIE, inclure « paragraphe » dans le n
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-In view mode:
+En mode édition:
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
