@@ -1,11 +1,6 @@
----
-description: >-
-  Importing the docx documents : use docx files to import and for reference when
-  cleaning up the imports.  Docx files are saved here :
-  https://drive.google.com/drive/u/0/folders/1Ljr3T2AvqSY8ssKKVNGDJQ2
----
-
 # Côte d'Ivoire
+
+Importing the docx documents : use docx files to import and for reference when cleaning up the imports. Docx files are saved here : https://drive.google.com/drive/u/0/folders/1Ljr3T2AvqSY8ssKKVNGDJQ2&#x20;
 
 **Things to look out for in Côte d'Ivoire**
 
@@ -17,7 +12,8 @@ description: >-
 * Chapitre 1 appears as **CHAPITRE PREMIER** in the docx, mark up as `CHAP premier`
 * &#x20;Article 1 appears as  **ARTICLE PREMIER** in the docx,  mark up as `ART premier`&#x20;
 * Title 1 appears as  **TITRE PREMIER** in the docx,  mark up as TITLE `premier`
-* **BUT** Section 1 appears as  **SECTION PREMIERE** in the docx,  mark up as **PARTIE PREMIERE** mark up as `PART première`
+* Section 1 appears as  **SECTION PREMIERE** in the docx,  mark up as `SEC première` &#x20;
+* Part 1 appears as **PARTIE PREMIERE** in the docx, mark up as `PART première`
 * French words for BOOK (Livre), CHAPTER (Chapitre), TITLE (Titre) and PART (Partie) will automatically appear translated on the view screen when you mark them up in the usual way eg. Chapter will automatically come up as Chapitre when you mark it up using CHAP
 * Mark up **Sous-titre** as **SUBTITLE**
 * Mark up **Sous-section** as **SUBSEC**
