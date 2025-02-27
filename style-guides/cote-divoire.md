@@ -1,73 +1,75 @@
 ---
 description: >-
-  Importation des documents docx : utilisez les fichiers docx pour importer et
-  pour vous référer lors du nettoyage des importations :
+  Importing the docx documents : use docx files to import and for reference when
+  cleaning up the imports.  Docx files are saved here :
   https://drive.google.com/drive/u/0/folders/1Ljr3T2AvqSY8ssKKVNGDJQ2
 ---
 
 # Côte d'Ivoire
 
-**Ce qu'il faut savoir en Côte d'Ivoire**
+**Things to look out for in Côte d'Ivoire**
 
-* **Hiérarchie de documents**:
+
+
+* **Hierarchy of Documents**:
 * &#x20;Livre (Book), Titre (Title), Sous-titre, Chapitre (Chapter), Section, Sous-section, Article&#x20;
-* Livre 1 apparaît comme **LIVRE PREMIER** dans le docx, marquer comme `LIVRE premier`
-* Chapitre 1 apparaît comme **CHAPITRE PREMIER** dans le docx, marquer comme `CHAP premier`
-* &#x20;Article 1 apparaît comme  **ARTICLE PREMIER** dans le docx, marquer comme`ART premier`&#x20;
-* Title 1 apparaît comme **TITRE PREMIER** dans le docx, marquer comme TITRE `premier`
-* **MAIS** Section 1 apparaît comme  **SECTION PREMIERE** dans le docx, marquer comme **PARTIE PREMIERE** marquer comme `PARTIE première`
-* Les mots français pour BOOK (Livre), CHAPTER (Chapitre), TITLE (Titre) et PART (Partie) apparaîtront automatiquement traduits sur l'écran de visualisation lorsque vous les marquerez de la manière habituelle, par exemple Chapter apparaîtra automatiquement comme Chapitre lorsque vous le marquerez en utilisant CHAP.
-* Marquer comme **Sous-titre** comme **SUBTITLE**
-* Marquer comme **Sous-section** comme **SUBSEC**
-*   **Historique de la législation**
+* Livre 1 appears as **LIVRE PREMIER** in the docx, mark up as `BOOK premier`
+* Chapitre 1 appears as **CHAPITRE PREMIER** in the docx, mark up as `CHAP premier`
+* &#x20;Article 1 appears as  **ARTICLE PREMIER** in the docx,  mark up as `ART premier`&#x20;
+* Title 1 appears as  **TITRE PREMIER** in the docx,  mark up as TITLE `premier`
+* **BUT** Section 1 appears as  **SECTION PREMIERE** in the docx,  mark up as **PARTIE PREMIERE** mark up as `PART première`
+* French words for BOOK (Livre), CHAPTER (Chapitre), TITLE (Titre) and PART (Partie) will automatically appear translated on the view screen when you mark them up in the usual way eg. Chapter will automatically come up as Chapitre when you mark it up using CHAP
+* Mark up **Sous-titre** as **SUBTITLE**
+* Mark up **Sous-section** as **SUBSEC**
+*   **Legislation history**
 
-    Les références à l'historique de la législation, aux amendements/modifications figurant en tête de l'ouvrage doivent être reprises sous forme d'annotation dans la préface.
+    References to legislation history, amendments/modifications reflecting at the top of the work should be captured as an annotation in the Preface
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-En mode édition:
+In edit mode:
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-En mode affichage:
+In view mode:
 
 ![](<../.gitbook/assets/image (12).png>)
 
-Exemple d'annotation de plusieurs amendements [https://edit.laws.africa/documents/15249/](https://edit.laws.africa/documents/15249/)
+Example of annotation of multiple amendments [https://edit.laws.africa/documents/15249/](https://edit.laws.africa/documents/15249/)
 
-**Modification des Amendements**
+**Amendment of Articles**
 
-Le mot (nouveau) sera ajouté entre crochets après le numéro de l'article. L'annotation avec les détails du travail de modification doit apparaître immédiatement sous le titre de l'article, sans crochets ronds.
+Word nouveau (new) will be added in round brackets after article number. Annotation with details of amending work should appear immediately below Article heading, with no round brackets.
 
 <figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
-En mode édition:
+In edit mode:
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-En mode affichage:
+In view mode:
 
 <figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
-**Remplacer les titres en MAJUSCULES par des titres en minuscules.**
+**Change headings from CAPITAL LETTERS to Sentence case**&#x20;
 
-Exemple de texte à modifier&#x20;
+Example of text that requires change&#x20;
 
 <figure><img src="../.gitbook/assets/Headings in Capitals.png" alt=""><figcaption></figcaption></figure>
 
-En haut de l'écran, cliquez sur Analyse, puis sur Faire des intitulés des cas de phrases.
+At top of screen Click Analysis then Click Make headings sentence case
 
 <figure><img src="../.gitbook/assets/Analysis makes headings sentence case.png" alt=""><figcaption></figcaption></figure>
 
-Insertion automatique du texte des titres jusqu'à la case de la phrase et des accents:
+Text of headings to sentence case and accents are automatically inserted:
 
 <figure><img src="../.gitbook/assets/After running Analysis.png" alt=""><figcaption></figcaption></figure>
 
-Vous devez encore remplacer les mots PREMIER par premier. Correction de l'annotation :
+You still need to change the words PREMIER to premier. Correct mark up:
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-**Paragraphe qui contient des articles**
+**Paragraphe which contains Articles**&#x20;
 
 
 
@@ -75,17 +77,17 @@ Vous devez encore remplacer les mots PREMIER par premier. Correction de l'annota
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-En mode édition : marquer comme SOUS-PARTIE, inclure « paragraphe » dans le numéro (pas dans le titre))
+In edit mode: mark up as a SUBPART, include ‘paragraphe’ as part of the number (not the heading)
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-En mode édition:
+In view mode:
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Numérotation irrégulière des documents : annotation à insérer**
+**Irregular numbering of documents: annotation to be inserted**&#x20;
 
-Mode édition:
+Edit mode:
 
 ```bluebell
 {{*[Attention: numérotation comme à l'original.]}}
@@ -93,27 +95,27 @@ Mode édition:
 
 **Annexes**&#x20;
 
-Se trouve à la fin des travaux, à marquer comme un HORAIRE
+Found at end of works, mark up as a SCHEDULE
 
-**Tableau et formulaires en Annexe**
+**Table and Forms in Annexes**
 
-**Les Tableaux** dans le document des annexes **doivent** être importées.
+**Tables** in document Schedules/Annexes **must** be imported.
 
-**Formulaires**
+**Forms**
 
-Les formulaires ne peuvent être reproduits
+Forms are not to reproduced&#x20;
 
-Pour les formulaires, veuillez continuer à insérer la rubrique de forme et de style comme d'habitude, avec une note éditoriale (en français) en dessous, comme indiqué ci-dessous :
+For Forms, please still insert the heading of form and style as usual, with an editorial note (in French) underneath, as shown below:
 
 
 
 ```
 ANNEXURE - Annexure 1
-    SOUS-TITRES Formulaires
+    SUBHEADING Formulaires
     {{*[Note éditoriale : Les formulaires n’ont pas été reproduits.]}}
 ```
 
-Si les formulaires sont modifiés/substitués par la suite, une annotation doit être incluse à cet effet.
+If forms are subsequently amended /substituted an annotation should be included to that effect
 
 
 
@@ -124,35 +126,35 @@ Si les formulaires sont modifiés/substitués par la suite, une annotation doit 
 ```
 ````
 
-**Application des Amendments**
+**Applying Amendments**
 
-Le mot **(nouveau)** est ajouté entre parenthèses à l'article après le numéro pour indiquer qu'un article entier a été remplacé.
+The word **(nouveau)** is added in brackets to the article after the number to indicate that an entire article was substituted.&#x20;
 
-L'annotation est placée sous le numéro de l'article et au-dessus du texte.
+The annotation is placed below the article number and above the text.
 
-&#x20;Mode d'affichage ↓
+&#x20;View mode ↓
 
 &#x20;![](../.gitbook/assets/image.png)
 
-Mode édition ↓
+&#x20;Edit mode ↓
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;En cas de remplacement d'un article, utiliser le mot **remplacé**
+&#x20;Where an article is substituted, use the word **remplacé**
 
-En cas d'abrogation d'un article, utiliser le terme **abrogé**
+Where an article is repealed use the word **abrogé**
 
-Lorsqu'un article est modifié ou remplacé plusieurs fois, les annotations sont regroupées en une seule annotation consolidée.
+Where an article is amended, or substituted several times, join the annotations together into one consolidated annotation.
 
-Mode d'affichage ↓
+In View mode ↓
 
 &#x20;![](<../.gitbook/assets/image (3).png>)
 
-Mode édition ↓
+Edit mode ↓
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Veuillez lire la section « Comment insérer une annotation créée automatiquement dans Laws.Africa ». Guide de l'éditeur.
+&#x20;Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
 
 [https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments](https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments)
 
