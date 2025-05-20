@@ -108,7 +108,7 @@ For Forms, please still insert the heading of form and style as usual, with an e
 ```
 ANNEXURE - Annexure 1
     SUBHEADING Formulaires
-    {{*[Note éditoriale : Les formulaires n’ont pas été reproduits.]}}
+    {{*[Note éditoriale: Les formulaires n’ont pas été reproduits.]}}
 ```
 
 If forms are subsequently amended /substituted an annotation should be included to that effect
@@ -138,7 +138,11 @@ The annotation is placed below the article number and above the text.
 
 &#x20;Where an article is substituted, use the word **remplacé**
 
-Where an article is repealed use the word **abrogé**
+Where an article is repealed, use the word **abrogé**
+
+Where an article is  inserted, use the word **inséré**
+
+
 
 Where an article is amended, or substituted several times, join the annotations together into one consolidated annotation.
 
