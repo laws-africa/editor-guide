@@ -124,6 +124,8 @@ If forms are subsequently amended /substituted an annotation should be included 
 
 **Applying Amendments**
 
+Example of Loi with Amendments and several points in time:  Loi Portant Code de la Nationalité Ivoirienne, 1961 [https://edit.laws.africa/works/akn/ci/act/1961/415/](https://edit.laws.africa/works/akn/ci/act/1961/415/)
+
 The word **(nouveau)** is added in brackets to the article after the number to indicate that an entire article was substituted.&#x20;
 
 The annotation is placed below the article number and above the text.
