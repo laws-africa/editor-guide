@@ -140,7 +140,9 @@ The annotation is placed below the article number and above the text.
 
 Where an article is repealed, use the word **abrogé**
 
-Where an article (eg. Article 9 bis) is  inserted, use the word **inséré**
+Where an article is  inserted, use the word **inséré**&#x20;
+
+eg. \[**article 9 bis** inséré par article 3 de [Ordonnance 99 de 2019](https://edit.laws.africa/works/akn/ci/act/ord/2019/99)]
 
 
 
