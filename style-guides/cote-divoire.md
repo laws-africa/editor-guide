@@ -116,7 +116,7 @@ If forms are subsequently amended /substituted an annotation should be included 
 
 
 ````
-  {{*[Note éditoriale : Les formulaires n’ont pas été reproduits.]}}
+  {{*[Note éditoriale: Les formulaires n’ont pas été reproduits.]}}
 
   {{*[Le formulaire 4 est remplacé par .........]}}
 ```
@@ -140,7 +140,7 @@ The annotation is placed below the article number and above the text.
 
 Where an article is repealed, use the word **abrogé**
 
-Where an article is  inserted, use the word **inséré**
+Where an article (eg. Article 9 bis) is  inserted, use the word **inséré**
 
 
 
