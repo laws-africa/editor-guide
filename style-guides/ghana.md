@@ -44,9 +44,11 @@ For years after 1992, the date of Gazette notification is the same as the public
 
 Documents commence on the publication date unless stated otherwise.
 
+The date Gazette notification which appears at the end of the task should be deleted.
+
 ## Things to note
 
-* Some original publications have incomplete words. This may lead to OCR errors in the imported tasks. Look out for these when cleaning the imports.
+* Some original publications have incomplete words. This may lead to OCR errors in the imported tasks e.g the currency symbol for Ghana appearing as '€, £ or 0' instead of '₵'. Look out for these when cleaning the imports.
 * The format of some Schedules deviate from the usual ones, where instead of paragraphs, we have Articles and Rules.
 * In some documents, there is a reference to Rules in the main body, but in the Schedules, these Rules are referred to as paragraphs. When marking these up in the Schedule, we should use PARA instead of RULE.
 
