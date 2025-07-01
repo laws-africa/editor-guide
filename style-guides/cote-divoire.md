@@ -71,15 +71,15 @@ You still need to change the words PREMIER to premier. Correct mark up:
 
 
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In edit mode: mark up as a SUBPART, include ‘paragraphe’ as part of the number (not the heading)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In view mode:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Irregular numbering of documents: annotation to be inserted**&#x20;
 
@@ -132,11 +132,11 @@ The annotation is placed below the article number and above the text.
 
 &#x20;View mode ↓
 
-&#x20;![](../.gitbook/assets/image.png)
+&#x20;![](<../.gitbook/assets/image (2).png>)
 
 &#x20;Edit mode ↓
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Where an article is substituted, use the word **remplacé**
 
