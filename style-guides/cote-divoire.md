@@ -138,11 +138,13 @@ The annotation is placed below the article number and above the text.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Where an article is substituted, use the word **remplacé**
+&#x20;Where an article is substituted, use the words **remplacé par**
 
-Where an article is repealed, use the word **abrogé**
+When an article is amended, use the words **modifié par**
 
-Where an article is  inserted, use the word **inséré**&#x20;
+Where an article is repealed, use the words **abrogé par**
+
+Where an article is  inserted, use the words **inséré par**
 
 eg. \[**article 9 bis** inséré par article 3 de [Ordonnance 99 de 2019](https://edit.laws.africa/works/akn/ci/act/ord/2019/99)]
 
