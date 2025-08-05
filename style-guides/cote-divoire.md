@@ -146,7 +146,15 @@ Where an article is repealed, use the words **abrogé par**
 
 Where an article is  inserted, use the words **inséré par**
 
+Where an article is added, use the words **ajouté par**
+
+Where a new bis provision is inserted or added, do not add the word (nouveau) after bis
+
 eg. \[**article 9 bis** inséré par article 3 de [Ordonnance 99 de 2019](https://edit.laws.africa/works/akn/ci/act/ord/2019/99)]
+
+Note: where an existing article (nouveau)  is substituted, do not add the word (nouveau) in the annotation.  eg:
+
+<figure><img src="../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
 
 
 
