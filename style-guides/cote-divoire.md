@@ -148,9 +148,11 @@ Where an article is  inserted, use the words **inséré par**
 
 Where an article is added, use the words **ajouté par**
 
-Where a new bis provision is inserted or added, do not add the word (nouveau) after bis
+Where a new bis provision is inserted or added, do not add the word (nouveau) after bis in the Article heading. eg:
 
-eg. \[**article 9 bis** inséré par article 3 de [Ordonnance 99 de 2019](https://edit.laws.africa/works/akn/ci/act/ord/2019/99)]
+<figure><img src="../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Note: where an existing article (nouveau)  is substituted, do not add the word (nouveau) in the annotation.  eg:
 
