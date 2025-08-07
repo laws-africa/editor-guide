@@ -5,9 +5,9 @@ description: >-
   a later amendment.
 ---
 
-# Amended Amendments
+# Amended amendments
 
-## **How to Identify an Amended Amendment**
+## **How to Identify an amended amendment**
 
 A description indicating this will be provided on the amendment task. Since it is straightforward, proceed with making the corrections.\
 
