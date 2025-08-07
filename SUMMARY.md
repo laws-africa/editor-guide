@@ -55,6 +55,7 @@
 * [Search and rescue](how-tos/search-and-rescue.md)
 * [How to handle different language documents](how-tos/how-to-handle-different-language-documents.md)
 * [How to mark up defined terms which do not occur in a Definitions section](how-tos/how-to-mark-up-defined-terms-which-do-not-occur-in-a-definitions-section.md)
+* [Amended Amendments](how-tos/amended-amendments.md)
 * [Very complicated amendments](how-tos/very-complicated-amendments/README.md)
   * [Research](how-tos/very-complicated-amendments/research.md)
   * [Undo some amendments?](how-tos/very-complicated-amendments/undo-some-amendments.md)
