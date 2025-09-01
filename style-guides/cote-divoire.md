@@ -160,7 +160,11 @@ Note: where an existing article (nouveau)  is substituted, do not add the word (
 
 
 
-Where an article is amended, or substituted several times, join the annotations together into one consolidated annotation.
+**Where an article is amended, or substituted several times**, join the annotations together into a consolidated annotation. Always check if there is an existing annotation from the consolidation before applying the amendment; if one exists include it at the beginning of the annotation: eg.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-01 122541.png" alt=""><figcaption></figcaption></figure>
+
+**Example of annotation with multiple amendments applied:**
 
 In View mode ↓
 
