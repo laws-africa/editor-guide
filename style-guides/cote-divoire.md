@@ -160,7 +160,7 @@ Note: where an existing article (nouveau)  is substituted, do not add the word (
 
 
 
-**Where an article is amended, or substituted several times**, join the annotations together into a consolidated annotation. Always **check if there is an existing annotation from the consolidation before applying the amendment**; if one exists include it at the beginning of the annotation: in example below the part in yellow is the previous annotation which appeared in the consolidation using the verb modifié  and the part in green is where the editor has applied the amendment with the newly substituted article using the verb _remplacé_&#x20;
+**Where an article is amended, or substituted several times**, join the annotations together into a consolidated annotation. Always **check if there is an existing annotation from the consolidation before applying the amendment**; if one exists include it at the beginning of the annotation: in example below the part in yellow is the previous annotation which appeared in the consolidation and we use the verb _modifié;_ the part in green is where the editor has applied the amendment with the newly substituted article and we use the verb _remplacé_&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-01 165604.png" alt=""><figcaption></figcaption></figure>
 
