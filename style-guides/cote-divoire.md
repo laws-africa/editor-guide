@@ -172,7 +172,8 @@ Edit mode ↓
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-**When an entire Title (Titre) is repealed** and this includes Chapters, Sections and Articles, remove these from the work, leave in the Title heading and put one consolidated annotation under the Title eg. See Titre VI in this work [https://edit.laws.africa/documents/19529](https://edit.laws.africa/documents/19529)
+**When an entire Title (Titre) is repealed** which includes Chapters, Sections and Articles, remove these from the work, leave in the Title heading and put one consolidated annotation under the Title. Do not use \*\*\* for repealed provisions.\
+&#x20;eg. See Titre VI in this work [https://edit.laws.africa/documents/19529](https://edit.laws.africa/documents/19529)
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-10 170100.png" alt=""><figcaption></figcaption></figure>
 
