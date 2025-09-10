@@ -144,8 +144,6 @@ When an article is amended or substituted, use the words **modifié par**
 
 Where an article is repealed, use the words **abrogé par**
 
-
-
 Where an article is added or inserted, use the words **ajouté par**
 
 Where a new bis provision is inserted or added, do not add the word (nouveau) after bis in the Article heading. eg:
@@ -174,7 +172,13 @@ Edit mode ↓
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
+**When an entire Title (Titre) is repealed** and this includes Chapters, Sections and Articles, remove these from the work, leave in the Title heading and put one consolidated annotation under the Title eg. See Titre VI in this work [https://edit.laws.africa/documents/19529](https://edit.laws.africa/documents/19529)
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-10 170100.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;
+
+Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
 
 [https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments](https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments)
 
