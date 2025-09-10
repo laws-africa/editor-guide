@@ -138,19 +138,19 @@ The annotation is placed below the article number and above the text.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Where an article is substituted, use the words **remplacé par**
+&#x20;
 
-When an article is amended, use the words **modifié par**
+When an article is amended or substituted, use the words **modifié par**
 
 Where an article is repealed, use the words **abrogé par**
 
-Where an article is  inserted, use the words **inséré par**
 
-Where an article is added, use the words **ajouté par**
+
+Where an article is added or inserted, use the words **ajouté par**
 
 Where a new bis provision is inserted or added, do not add the word (nouveau) after bis in the Article heading. eg:
 
-<figure><img src="../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-10 163922.png" alt=""><figcaption></figcaption></figure>
 
 
 
