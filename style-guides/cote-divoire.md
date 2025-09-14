@@ -177,7 +177,13 @@ Edit mode ↓
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-10 170100.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+&#x20;**When there are no Titles (Titres) and an entire Chapter (Chapitre) is repealed** which includes Sections and Articles, remove these from the work, leave in the Chapter heading and put one consolidated annotation under the Chapter. Do not use \*\*\* for repealed provisions.
+
+&#x20;eg. See Chapters 2 -5 in this work [https://edit.laws.africa/documents/19721](https://edit.laws.africa/documents/19721)
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-14 171338.png" alt=""><figcaption></figcaption></figure>
+
+
 
 Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
 
