@@ -1,6 +1,8 @@
 # Côte d'Ivoire
 
-Importing the docx documents : use docx files to import and for reference when cleaning up the imports. Docx files are saved here : https://drive.google.com/drive/u/0/folders/1Ljr3T2AvqSY8ssKKVNGDJQ2&#x20;
+**Conversion tasks**: Importing documents : Docx files are saved here : [https://drive.google.com/drive/u/0/folders/1Ljr3T2AvqSY8ssKKVNGDJQ2e0nzC7dIF](https://drive.google.com/drive/u/0/folders/1Ljr3T2AvqSY8ssKKVNGDJQ2e0nzC7dIF)
+
+
 
 **Things to look out for in Côte d'Ivoire**
 
@@ -138,15 +140,19 @@ The annotation is placed below the article number and above the text.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+&#x20;When an article is amended or substituted,  use the words **modifié par**
 
-When an article is amended or substituted, use the words **modifié par**
+
 
 Where an article is repealed, use the words **abrogé par**
 
-Where an article is added or inserted, use the words **ajouté par**
+When an article is inserted or added use the words **ajouté par**
 
 Where a new bis provision is inserted or added, do not add the word (nouveau) after bis in the Article heading. eg:
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-10 163922.png" alt=""><figcaption></figcaption></figure>
+
+
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-10 163922.png" alt=""><figcaption></figcaption></figure>
 
