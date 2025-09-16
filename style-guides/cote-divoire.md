@@ -131,8 +131,6 @@ Where a new bis provision **bis** inserted or added, do not add the word (nouvea
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-09-10 163922.png" alt=""><figcaption></figcaption></figure>
-
 
 
 Note: where an existing article (nouveau)  is substituted, do not add the word (nouveau) in the annotation.  eg:
