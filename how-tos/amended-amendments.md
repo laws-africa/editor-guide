@@ -43,6 +43,30 @@ If a correctional amendment commences retrospectively on the same date as the or
 
 Sometimes, an Act _and all its amendments_ will be repealed together. You'll often see this in a table in a Schedule. If the principal Act is repealed at the same time as the amendment (or the whole amendment Act), you don't need to change anything about the amendments that were already applied.&#x20;
 
+{% hint style="info" %}
+For example:&#x20;
+
+* The Marriage Act, 1961 was amended by the Marriage Amendment Act, 1973 and the Marriage Amendment Act, 1981.&#x20;
+* All three Acts are later repealed.
+
+Outcome:
+
+* Just repeal the three Acts; do not undo any of the changes by either of the Marriage Amendment Acts.
+{% endhint %}
+
+Similarly, if a principal Act amends or repeals any other Acts, and that principal Act is later itself repealed (as a whole), nothing about the amendments needs to change.&#x20;
+
+{% hint style="info" %}
+For example:&#x20;
+
+* The Marriage Act, 1961 was amended by the Child Care Act, 1983.&#x20;
+* The Child Care Act was repealed was repealed by the Children's Act, 2005.
+
+Outcome:
+
+* Just repeal the Child Care Act in 2005; do not change or undo any of the amendments already applied to the Marriage Act in 1983.
+{% endhint %}
+
 In rarer cases, a particular amendment will be repealed. These can be treated the same as amended amendments, except for that instead of updating the change, you undo it.&#x20;
 
 If the repeal commences retrospectively, you can undo it at the date on which it should have happened (and at any later points in time). In this case, the text would be unchanged but you would have an annotation that looks something like this:
