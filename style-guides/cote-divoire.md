@@ -121,13 +121,11 @@ The annotation is placed below the article number and above the text.
 
 &#x20;When an article is amended or substituted,  use the words **modifié par**
 
-
-
 Where an article is repealed, use the words **abrogé par**
 
 When an article is inserted or added use the words **ajouté par**
 
-Where a new bis provision is inserted or added, do not add the word (nouveau) after bis in the Article heading. eg:
+Where a new bis provision **bis** inserted or added, do not add the word (nouveau) after bis in the Article heading. eg:
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-10 163922.png" alt=""><figcaption></figcaption></figure>
 
