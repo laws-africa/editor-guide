@@ -135,7 +135,7 @@ Where a new bis provision **bis** inserted or added, do not add the word (nouvea
 
 Note: where an existing article (nouveau)  is substituted, do not add the word (nouveau) in the annotation.  eg:
 
-<figure><img src="../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-17 091848.png" alt=""><figcaption></figcaption></figure>
 
 
 
