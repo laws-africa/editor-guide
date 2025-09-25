@@ -139,19 +139,21 @@ Note: where an existing article (nouveau)  is substituted, do not add the word (
 
 
 
-**Where an article is amended, or substituted several times**, join the annotations together into a consolidated annotation. Always **check if there is an existing annotation from the consolidation before applying the amendment**; if one exists include it at the beginning of the annotation: in example below the part in yellow is the previous annotation which appeared in the consolidation and we use the verb _modifié;_ the part in green is where the editor has applied the amendment with the newly substituted article and we use the verb _remplacé_&#x20;
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-09-01 165604.png" alt=""><figcaption></figcaption></figure>
+**Where an article is amended, or substituted several times**, create separate annotations for each amendment, each on a new line. Use the verb **Modifié**
 
 **Example of annotation with multiple amendments applied:**
 
 In View mode ↓
 
-&#x20;![](<../.gitbook/assets/image (3).png>)
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-25 122354.png" alt=""><figcaption></figcaption></figure>
+
+**Example of annotation with multiple amendments applied:**
+
+
 
 Edit mode ↓
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-25 122733.png" alt=""><figcaption></figcaption></figure>
 
 **When an entire Title (Titre) is repealed** which includes Chapters, Sections and Articles, remove these from the work, leave in the Title heading and put one consolidated annotation under the Title. Do not use \*\*\* for repealed provisions.\
 &#x20;eg. See Titre VI in this work [https://edit.laws.africa/documents/19529](https://edit.laws.africa/documents/19529)
