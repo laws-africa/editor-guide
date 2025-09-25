@@ -164,7 +164,11 @@ Edit mode ↓
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-14 171338.png" alt=""><figcaption></figcaption></figure>
 
+&#x20;**When an entire Chapter (Chapitre) containing articles is inserted** use the verb **ajouté** and insert one annotation under the Chapter title; do not add annotations under each article.&#x20;
 
+&#x20;eg. Chaptire 1 and 2, in Titre V of  this work [https://edit.laws.africa/documents/19851/](https://edit.laws.africa/documents/19851/)
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-25 120831.png" alt=""><figcaption></figcaption></figure>
 
 Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
 
