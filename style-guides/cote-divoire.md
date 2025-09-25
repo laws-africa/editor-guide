@@ -147,11 +147,7 @@ In View mode ↓
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-25 122354.png" alt=""><figcaption></figcaption></figure>
 
-**Example of annotation with multiple amendments applied:**
-
-
-
-Edit mode ↓
+In Edit mode ↓
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-25 122733.png" alt=""><figcaption></figcaption></figure>
 
