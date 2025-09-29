@@ -113,7 +113,7 @@ The annotation is placed below the article number and above the text.
 
 &#x20;View mode ↓
 
-&#x20;![](<../.gitbook/assets/image (2).png>)
+&#x20;![](<../.gitbook/assets/Edit mode.png>)
 
 &#x20;Edit mode ↓
 
