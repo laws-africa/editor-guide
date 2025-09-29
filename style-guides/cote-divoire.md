@@ -111,13 +111,13 @@ The word **(nouveau)** is added in brackets to the article after the number to i
 
 The annotation is placed below the article number and above the text.
 
-&#x20;View mode ↓
+View mode ↓
 
-&#x20;![](<../.gitbook/assets/Edit mode.png>)
+
 
 &#x20;Edit mode ↓
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Edit mode.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;When an article is amended or substituted,  use the words **modifié par**
 
