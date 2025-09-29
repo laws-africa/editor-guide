@@ -111,7 +111,13 @@ Where an article is repealed, use the words **abrogé par**
 
 When an article is inserted or added use the words **ajouté par**
 
+**Constructing the annotation**
 
+In French language, use of **du**, **de la** and **de l'** depends on what the amending work is. This is a sample of which to of these to use:
+
+<figure><img src="../.gitbook/assets/De la.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;
 
 Example of Loi with Amendments and several points in time:  Loi Portant Code de la Nationalité Ivoirienne, 1961 [https://edit.laws.africa/works/akn/ci/act/1961/415/](https://edit.laws.africa/works/akn/ci/act/1961/415/)
 
