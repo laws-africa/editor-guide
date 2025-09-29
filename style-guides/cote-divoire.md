@@ -164,7 +164,7 @@ In Edit mode ↓
 
 &#x20;**When an entire Chapter (Chapitre) containing articles is inserted** use the verb **ajouté** and insert one annotation under the Chapter title; do not add annotations under each article.&#x20;
 
-&#x20;eg. Chaptire 1 and 2, in Titre V of  this work [https://edit.laws.africa/documents/19851/](https://edit.laws.africa/documents/19851/)
+&#x20;eg. Chaptire 1 and 2, in Livre V of  this work [https://edit.laws.africa/documents/19851/](https://edit.laws.africa/documents/19851/)
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-25 120831.png" alt=""><figcaption></figcaption></figure>
 
