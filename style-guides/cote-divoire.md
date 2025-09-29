@@ -135,7 +135,7 @@ View mode ↓
 
 &#x20;There a new bis provision **bis** inserted or added, do not add the word (nouveau) after bis in the Article heading. eg:
 
-<figure><img src="../.gitbook/assets/20 bis.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/20 bis (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
