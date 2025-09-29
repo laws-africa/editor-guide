@@ -131,14 +131,6 @@ Where a new bis provision **bis** inserted or added, do not add the word (nouvea
 
 
 
-
-
-Note: where an existing article (nouveau)  is substituted, do not add the word (nouveau) in the annotation.  eg:
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-09-17 091848.png" alt=""><figcaption></figcaption></figure>
-
-
-
 **Where an article is amended, or substituted several times**, create separate annotations for each amendment, each on a new line. Use the verb **Modifié**
 
 **Example of annotation with multiple amendments applied:**
