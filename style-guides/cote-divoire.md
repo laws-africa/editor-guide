@@ -105,6 +105,14 @@ Found at end of works, mark up as a SCHEDULE
 
 **Applying Amendments**
 
+When an article is amended or substituted,  use the words **modifié par**
+
+Where an article is repealed, use the words **abrogé par**
+
+When an article is inserted or added use the words **ajouté par**
+
+
+
 Example of Loi with Amendments and several points in time:  Loi Portant Code de la Nationalité Ivoirienne, 1961 [https://edit.laws.africa/works/akn/ci/act/1961/415/](https://edit.laws.africa/works/akn/ci/act/1961/415/)
 
 The word **(nouveau)** is added in brackets to the article after the number to indicate that an entire article was substituted.&#x20;
@@ -119,11 +127,7 @@ View mode ↓
 
 <figure><img src="../.gitbook/assets/Edit mode.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;When an article is amended or substituted,  use the words **modifié par**
-
-Where an article is repealed, use the words **abrogé par**
-
-When an article is inserted or added use the words **ajouté par**
+&#x20;
 
 Where a new bis provision **bis** inserted or added, do not add the word (nouveau) after bis in the Article heading. eg:
 
