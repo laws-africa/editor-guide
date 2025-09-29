@@ -154,13 +154,13 @@ In Edit mode ↓
 **When an entire Title (Titre) is repealed** which includes Chapters, Sections and Articles, remove these from the work, leave in the Title heading and put one consolidated annotation under the Title. Do not use \*\*\* for repealed provisions.\
 &#x20;eg. See Titre VI in this work [https://edit.laws.africa/documents/19529](https://edit.laws.africa/documents/19529)
 
-<figure><img src="../.gitbook/assets/new du.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/last last.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;**When there are no Titles (Titres) and an entire Chapter (Chapitre) is repealed** which includes Sections and Articles, remove these from the work, leave in the Chapter heading and put one consolidated annotation under the Chapter. Do not use \*\*\* for repealed provisions.
 
 &#x20;eg. See Chapters 2 -5 in this work [https://edit.laws.africa/documents/19721](https://edit.laws.africa/documents/19721)
 
-<figure><img src="../.gitbook/assets/abroge.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/last.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;**When an entire Chapter (Chapitre) containing articles is inserted** use the verb **ajouté** and insert one annotation under the Chapter title; do not add annotations under each article.&#x20;
 
