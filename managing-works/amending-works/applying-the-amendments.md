@@ -126,7 +126,7 @@ The amending work will give specific instructions as to which words or phrases t
 
 In these cases, follow the instructions and use the verb 'amended' in the annotation.
 
-## Applying multiple amendments at the same point-in-time
+## Applying multiple amendments at the same point in time
 
 If more than one amendment Act/notice has commenced on the same date, they must all be applied in **the same document** at that point in time (see image below as an example)
 
@@ -139,9 +139,6 @@ When applying these amendments, do them one at a time, in chronological order. F
 * make corrections (if there are any)
 * submit for review
 * reviewer will approve once everything is good
-* second reviewer will sign off
 
-Now the amendments made by Act 12 of 2011 can be applied and the same procedure must be followed, once they have been signed off the last amendment (Act 11 of 2017) may be applied.
-
-**NB**: there must only be one document per point in time and the amendments must not be done simultaneously, but one at a time in chronological order as explained above.
+Now the amendments made by Act 12 of 2011 can be applied and the same procedure must be followed; once they have been approved, the last amendment (Act 11 of 2017) may be applied. Then the document can be published and signed off with all the amendments applied.
 

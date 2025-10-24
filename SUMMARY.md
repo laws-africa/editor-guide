@@ -10,51 +10,40 @@
 * [What is Akoma Ntoso](getting-started/what-is-akoma-ntoso.md)
 * [Terminology guide](getting-started/terminology-guide.md)
 
-## Managing Works
+## Editors
 
-* [Creating and editing works](managing-works/creating-and-editing-works/README.md)
-  * [Working with commencements](managing-works/creating-and-editing-works/working-with-commencements.md)
-* [Deleting a document](managing-works/deleting-a-document.md)
-* [Amending works](managing-works/amending-works/README.md)
-  * [Creating the amending work](managing-works/amending-works/creating-the-amending-work.md)
-  * [Linking the amendment](managing-works/amending-works/linking-the-amendment.md)
-  * [Creating a new document at the new point in time](managing-works/amending-works/creating-a-new-document-at-the-new-point-in-time.md)
-  * [Applying the amendments](managing-works/amending-works/applying-the-amendments.md)
-  * [Annotating the amendments](managing-works/amending-works/annotating-the-amendments.md)
-  * [Example](managing-works/amending-works/example.md)
-  * [Exercise](managing-works/amending-works/exercise.md)
-  * [Consolidating the annotations](managing-works/amending-works/consolidating-the-annotations/README.md)
-    * [Simple example](managing-works/amending-works/consolidating-the-annotations/example-1.md)
-    * [Complicated example](managing-works/amending-works/consolidating-the-annotations/complicated-example.md)
-* [Bulk imports (spreadsheet)](managing-works/bulk-imports-spreadsheet.md)
-
-***
-
-* [Unconstitutional provisions](unconstitutional-provisions/README.md)
-  * [Miscellaneous situations](unconstitutional-provisions/miscellaneous-situations.md)
+* [Cleaning up an import](editors/cleaning-up-an-import.md)
+* [Resolving editor warnings](editors/editor-warnings.md)
+* [Reviewing a document](editors/introduction.md)
+* [Reviewer checklist](editors/reviewer-checklist.md)
+* [Signing off a work](editors/signing-off-a-work.md)
+* [Unconstitutional provisions](editors/unconstitutional-provisions/README.md)
+  * [When the document isn't ready](editors/unconstitutional-provisions/when-the-document-isnt-ready.md)
 
 ## How-tos
 
 * [Tasks](how-tos/tasks.md)
-* [Importing a document](how-tos/importing-a-document/README.md)
-  * [The importer](how-tos/importing-a-document/the-importer.md)
-* [Cleaning up an import](how-tos/cleaning-up-an-import.md)
-* [Going back to a previous version of a document](how-tos/going-back-to-a-previous-version-of-a-document.md)
-* [Fixing all-caps headings](how-tos/fix-all-caps-headings.md)
-* [Working with tables](how-tos/tables/README.md)
-  * [Table errors](how-tos/tables/table-errors.md)
-* [Working with links](how-tos/work-with-links.md)
-* [Working with italicised terms](how-tos/italicised-terms.md)
-* [Inserting an image](how-tos/images.md)
-* [Inserting special characters](how-tos/special-characters.md)
-* [Resolving editor warnings](how-tos/editor-warnings.md)
-* [Making comments](how-tos/making-comments.md)
-* [Inserting editorial notes](how-tos/inserting-editorial-notes.md)
-* [Changing a document's date](how-tos/change-a-documents-date.md)
-* [Changing a document's short title or language](how-tos/changing-a-documents-short-title-or-language.md)
+* [Documents and document settings](how-tos/documents-and-document-settings/README.md)
+  * [How to handle non-English documents](how-tos/documents-and-document-settings/how-to-handle-non-english-documents.md)
+  * [Importing a document](how-tos/documents-and-document-settings/importing-a-document/README.md)
+    * [The importer](how-tos/documents-and-document-settings/importing-a-document/the-importer.md)
+  * [Going back to a previous version of a document](how-tos/documents-and-document-settings/going-back-to-a-previous-version-of-a-document.md)
+  * [Changing a document's date](how-tos/documents-and-document-settings/change-a-documents-date.md)
+  * [Changing a document's short title or language](how-tos/documents-and-document-settings/changing-a-documents-short-title-or-language.md)
+  * [Deleting a document](how-tos/documents-and-document-settings/deleting-a-document.md)
+* [Document elements](how-tos/document-elements/README.md)
+  * [Inserting an image](how-tos/document-elements/images.md)
+  * [Inserting special characters](how-tos/document-elements/special-characters.md)
+  * [Making comments](how-tos/document-elements/making-comments.md)
+  * [Inserting editorial notes](how-tos/document-elements/inserting-editorial-notes.md)
+* [Mark-up](how-tos/mark-up/README.md)
+  * [Fixing all-caps headings](how-tos/mark-up/fix-all-caps-headings.md)
+  * [Working with tables](how-tos/mark-up/tables/README.md)
+    * [Table errors](how-tos/mark-up/tables/table-errors.md)
+  * [Working with links](how-tos/mark-up/work-with-links.md)
+  * [Working with italicised terms](how-tos/mark-up/italicised-terms.md)
+* [How to mark up defined terms outside the Definitions section](how-tos/how-to-mark-up-defined-terms-outside-the-definitions-section.md)
 * [Search and rescue](how-tos/search-and-rescue.md)
-* [How to handle different language documents](how-tos/how-to-handle-different-language-documents.md)
-* [How to mark up defined terms which do not occur in a Definitions section](how-tos/how-to-mark-up-defined-terms-which-do-not-occur-in-a-definitions-section.md)
 * [Amended amendments](how-tos/amended-amendments.md)
 * [Very complicated amendments](how-tos/very-complicated-amendments/README.md)
   * [Research](how-tos/very-complicated-amendments/research.md)
@@ -62,6 +51,23 @@
   * [Update the timeline](how-tos/very-complicated-amendments/update-the-timeline.md)
   * [Create the tasks](how-tos/very-complicated-amendments/create-the-tasks.md)
   * [Apply the amendments](how-tos/very-complicated-amendments/apply-the-amendments.md)
+
+## Managing Works
+
+* [Creating and editing works](managing-works/creating-and-editing-works/README.md)
+  * [Working with commencements](managing-works/creating-and-editing-works/working-with-commencements.md)
+* [Amending works](managing-works/amending-works/README.md)
+  * [Creating the amending work](managing-works/amending-works/creating-the-amending-work.md)
+  * [Linking the amendment](managing-works/amending-works/linking-the-amendment.md)
+  * [Creating a new document at the new point in time](managing-works/amending-works/creating-a-new-document-at-the-new-point-in-time.md)
+  * [Applying the amendments](managing-works/amending-works/applying-the-amendments.md)
+  * [Annotating the amendments](managing-works/amending-works/annotating-the-amendments/README.md)
+    * [Consolidating the annotations](managing-works/amending-works/annotating-the-amendments/consolidating-the-annotations/README.md)
+      * [Simple example](managing-works/amending-works/annotating-the-amendments/consolidating-the-annotations/example-1.md)
+      * [Complicated example](managing-works/amending-works/annotating-the-amendments/consolidating-the-annotations/complicated-example.md)
+  * [Example](managing-works/amending-works/example.md)
+  * [Exercise](managing-works/amending-works/exercise.md)
+* [Bulk imports (spreadsheet)](managing-works/bulk-imports-spreadsheet.md)
 
 ## Markup guide
 
@@ -78,12 +84,6 @@
 * [Marking up formatting](markup-guide/marking-up-formatting.md)
 * [Marking up insertions and deletions](markup-guide/marking-up-insertions-and-deletions.md)
 * [Keyword reference](markup-guide/keyword-reference.md)
-
-## Reviewing a document
-
-* [Reviewing a document](reviewing-a-document/introduction.md)
-* [Reviewer checklist](reviewing-a-document/reviewer-checklist.md)
-* [Signing off a work](reviewing-a-document/signing-off-a-work.md)
 
 ## Style Guides
 

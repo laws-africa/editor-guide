@@ -51,8 +51,8 @@ Sentence case capitalises the first word, any proper nouns and acronyms, and def
 If a term is consistently used in the upper case in a work, it should be used in the upper case in headings, even if it isn't explicitly defined.
 {% endhint %}
 
-{% content-ref url="../how-tos/fix-all-caps-headings.md" %}
-[fix-all-caps-headings.md](../how-tos/fix-all-caps-headings.md)
+{% content-ref url="../how-tos/mark-up/fix-all-caps-headings.md" %}
+[fix-all-caps-headings.md](../how-tos/mark-up/fix-all-caps-headings.md)
 {% endcontent-ref %}
 
 ### Marking up headings with or without keywords&#x20;
@@ -67,7 +67,7 @@ In general, we don't mark up bold, italics, or underlined text purely for emphas
 
 Words or phrases that should be bold because they are headings or defined terms should rather be marked up as headings or defined terms.
 
-But some terms are italicised, depending on the jurisdiction: see [Working with italicised terms](../how-tos/italicised-terms.md).
+But some terms are italicised, depending on the jurisdiction: see [Working with italicised terms](../how-tos/mark-up/italicised-terms.md).
 
 And sometimes other formatting should be applied, such as superscript or subscript: see [Marking up formatting](../markup-guide/marking-up-formatting.md).
 

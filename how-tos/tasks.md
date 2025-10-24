@@ -31,7 +31,7 @@ Once you have found a task:
 1. Click on the task title (e.g. 'Import content') to go to that task's page.
 2. Assign the task to yourself by clicking **Assign to** and choosing your name from the dropdown.
 3. Read the instructions.
-   * For 'Import content' tasks follow the instructions at [Importing a document](importing-a-document/).
+   * For 'Import content' tasks follow the instructions at [Importing a document](documents-and-document-settings/importing-a-document/).
    * For 'Apply amendment' tasks follow the instructions at [Amending works](../managing-works/amending-works/).
 4. Once you have completed the task, click **Submit for review**. The content will be reviewed by a second editor. They may return it to you for changes or approve the task and publish the document – you will get an email notification either way.
 

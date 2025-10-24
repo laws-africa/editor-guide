@@ -1,5 +1,9 @@
 # Bulk imports (spreadsheet)
 
+{% hint style="warning" %}
+Bulk imports from a spreadsheet have been deprecated and are no longer supported. The below is retained for archival purposes only.
+{% endhint %}
+
 The spreadsheet has the following columns:
 
 For all **date** columns:
