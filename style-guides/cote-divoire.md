@@ -111,6 +111,8 @@ Where an article is repealed, use the words **abrogé par**
 
 When an article is inserted or added use the words **ajouté par**
 
+When an article is deleted use the words **supprimée par**
+
 **Constructing the annotation**
 
 In French language, use of **du**, **de la** and **de l'** depends on what the amending work is. This is a sample of which to of these to use:
