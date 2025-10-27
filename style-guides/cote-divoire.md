@@ -23,7 +23,7 @@
 
     References to legislation history, amendments/modifications reflecting at the top of the work should be captured as an annotation in the Preface
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In edit mode:
 
@@ -43,7 +43,7 @@ Word nouveau (new) will be added in round brackets after article number. Annotat
 
 In edit mode:
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In view mode:
 
@@ -65,7 +65,7 @@ Text of headings to sentence case and accents are automatically inserted:
 
 You still need to change the words PREMIER to premier. Correct mark up:
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Paragraphe which contains Articles**&#x20;
 
@@ -73,15 +73,15 @@ You still need to change the words PREMIER to premier. Correct mark up:
 
 
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In edit mode: mark up as a SUBPART, include ‘paragraphe’ as part of the number (not the heading)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In view mode:
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Irregular numbering of documents: annotation to be inserted**&#x20;
 

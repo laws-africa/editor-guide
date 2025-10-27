@@ -51,6 +51,13 @@
   * [Update the timeline](how-tos/very-complicated-amendments/update-the-timeline.md)
   * [Create the tasks](how-tos/very-complicated-amendments/create-the-tasks.md)
   * [Apply the amendments](how-tos/very-complicated-amendments/apply-the-amendments.md)
+* [Bulk operations](how-tos/bulk-operations/README.md)
+  * [Works](how-tos/bulk-operations/works/README.md)
+    * [Update selected works](how-tos/bulk-operations/works/update-selected-works.md)
+    * [Approve or unapprove selected works](how-tos/bulk-operations/works/approve-or-unapprove-selected-works.md)
+    * [Link references for selected works](how-tos/bulk-operations/works/link-references-for-selected-works.md)
+    * [Sign off selected works](how-tos/bulk-operations/works/sign-off-selected-works.md)
+  * [Tasks](how-tos/bulk-operations/tasks.md)
 
 ## Managing Works
 

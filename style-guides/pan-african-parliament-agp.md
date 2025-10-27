@@ -81,7 +81,7 @@ In the Preamble of a document, style the first word of each sentence (words high
 
 #### Body <a href="#body" id="body"></a>
 
-The `BODY` in treaties usually begins **after** the phrase "Have agrees as follows", as is highlighted in the example below.![](https://1576826725-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LoitfV0OP-HrMLMazq\_%2Fuploads%2FMaItnlGMIaUGf46n7Bfc%2Fimage.png?alt=media\&token=b24a6f96-cc48-4bec-b29d-7894883ee60d)
+The `BODY` in treaties usually begins **after** the phrase "Have agrees as follows", as is highlighted in the example below.![](https://1576826725-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LoitfV0OP-HrMLMazq_%2Fuploads%2FMaItnlGMIaUGf46n7Bfc%2Fimage.png?alt=media\&token=b24a6f96-cc48-4bec-b29d-7894883ee60d)
 
 #### Documents without a preamble <a href="#documents-without-a-preamble" id="documents-without-a-preamble"></a>
 
@@ -119,7 +119,7 @@ If a document is divided by headings for which a keyword does  not exist, please
 
 **Please** take out underling in headings
 
-![Please take out underling in headings.](<../.gitbook/assets/image (6) (1).png>)
+![Please take out underling in headings.](<../.gitbook/assets/image (6) (1) (1).png>)
 
 **Please** fix spacing errors. Please add a comment in the margin ONLY if adding a space changes the meaning of the sentence.
 

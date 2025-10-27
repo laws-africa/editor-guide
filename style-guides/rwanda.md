@@ -2,9 +2,9 @@
 
 ## Documents for import
 
-Word documents: [https://drive.google.com/drive/folders/1BMk\_kPxg7eEt3HGL-tICcWuwSHPiLGVy?usp=sharing](https://drive.google.com/drive/folders/1BMk\_kPxg7eEt3HGL-tICcWuwSHPiLGVy?usp=sharing)
+Word documents: [https://drive.google.com/drive/folders/1BMk\_kPxg7eEt3HGL-tICcWuwSHPiLGVy?usp=sharing](https://drive.google.com/drive/folders/1BMk_kPxg7eEt3HGL-tICcWuwSHPiLGVy?usp=sharing)
 
-PDF documents: [https://drive.google.com/drive/folders/1O9iigIOJteEp\_XZ2EoVicpUjG0nU0bcP?usp=sharing](https://drive.google.com/drive/folders/1O9iigIOJteEp\_XZ2EoVicpUjG0nU0bcP?usp=sharing)
+PDF documents: [https://drive.google.com/drive/folders/1O9iigIOJteEp\_XZ2EoVicpUjG0nU0bcP?usp=sharing](https://drive.google.com/drive/folders/1O9iigIOJteEp_XZ2EoVicpUjG0nU0bcP?usp=sharing)
 
 
 
@@ -79,4 +79,4 @@ CHAPTER
 
 
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
