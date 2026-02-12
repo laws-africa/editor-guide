@@ -32,7 +32,7 @@ The most common grouping of content is numbered paragraphs.
 
 `SUBPARA`
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-MA7AZ2T7nt0K9rLHnsS" %}
+[Broken link](/broken/pages/-MA7AZ2T7nt0K9rLHnsS)
 {% endcontent-ref %}
 

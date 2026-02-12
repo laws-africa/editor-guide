@@ -9,15 +9,13 @@ description: >-
 
 ## **How to Identify an amended amendment**
 
-A description indicating this will be provided on the amendment task. Since it is straightforward, proceed with making the corrections.\
-
+A description indicating this will be provided on the amendment task. Since it is straightforward, proceed with making the corrections.<br>
 
 <figure><img src="../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
 
 If an amendment appears twice in the principal Act’s timeline (i.e., it has two PITs), and all its provisions share the same commencement date, the second PIT may be a correction that has been made to the original amendment, only that there isn't a comment indicating so.\
 \
-To confirm this, open the amending work. You’ll see a PIT indicating that it has been amended (e.g., “Amended by Rules...”). Then, open the amendment work linked to that PIT and use its  PDF to apply the updated changes where required.\
-
+To confirm this, open the amending work. You’ll see a PIT indicating that it has been amended (e.g., “Amended by Rules...”). Then, open the amendment work linked to that PIT and use its  PDF to apply the updated changes where required.<br>
 
 <figure><img src="../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
 

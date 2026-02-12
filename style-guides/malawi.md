@@ -9,7 +9,7 @@ description: Special instructions for cleaning up Malawi imports
 **NB: Use the Word docs to import, but use the pdfs as reference when cleaning up the imports.**
 
 Word docs and pdfs are saved here:\
-[https://drive.google.com/drive/folders/1ZziBLi5a2249wvyL300wLQMy1Kkqsb-i?usp=share\_link](https://drive.google.com/drive/folders/1ZziBLi5a2249wvyL300wLQMy1Kkqsb-i?usp=share\_link)
+[https://drive.google.com/drive/folders/1ZziBLi5a2249wvyL300wLQMy1Kkqsb-i?usp=share\_link](https://drive.google.com/drive/folders/1ZziBLi5a2249wvyL300wLQMy1Kkqsb-i?usp=share_link)
 
 ## Cleaning up the import
 
@@ -38,11 +38,7 @@ Using the pdf as reference, check that they have been placed correctly by follow
 
 * another example
 
-<div align="center">
-
-<img src="../.gitbook/assets/image (186).png" alt="">
-
-</div>
+<div align="center"><img src="../.gitbook/assets/image (186).png" alt=""></div>
 
 This is how it will look on the platform, **please take note of how the references are indented**:
 
@@ -70,4 +66,4 @@ Please do not make any additional changes to the existing annotations, including
 
 ## Subsidiary legislation
 
-**Subsidiary legislation** which sometimes appears after an Act is not to be included in the import of a document, please remove if it is there.\
+**Subsidiary legislation** which sometimes appears after an Act is not to be included in the import of a document, please remove if it is there.<br>

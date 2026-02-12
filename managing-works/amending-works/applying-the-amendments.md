@@ -86,8 +86,7 @@ Amending work:
 > "(1) Anyone who contravenes section~~\[s]~~ 11~~\[, 12 or 13(a)]~~ will have committed an offence."; and
 >
 > (b) substitute subsection (2) with the following subsection: \
-> "(2) Anyone who has committed an offence may be ~~\[imprisoned]~~ **given a fine**."\
->
+> "(2) Anyone who has committed an offence may be ~~\[imprisoned]~~ **given a fine**."<br>
 
 > 9\. Substitute section 16 with the following: \
 > "**16 Fines** \

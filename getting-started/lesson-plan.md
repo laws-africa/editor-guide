@@ -29,7 +29,7 @@
 3. Editing a document: [Tables](../how-tos/mark-up/tables/)
 4. Editing a document: [Images](../how-tos/document-elements/images.md)
 5. [Resolving editor warnings](../editors/editor-warnings.md)
-6. [Special keywords](broken-reference)
+6. [Special keywords](/broken/pages/-Lrj4WPrBeiNrZRyx68u)
 7. [Special characters](../how-tos/document-elements/special-characters.md)
 8. [Italicised terms](../how-tos/mark-up/italicised-terms.md)
 9. [Search and rescue](../how-tos/search-and-rescue.md)

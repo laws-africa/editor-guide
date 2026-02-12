@@ -96,7 +96,7 @@
 
 * [Laws.Africa](style-guides/laws.africa.md)
 * [Côte d'Ivoire](style-guides/cote-divoire.md)
-* [Page 1](style-guides/page-1.md)
+* [Senegal](style-guides/senegal.md)
 * [Ghana](style-guides/ghana.md)
 * [Namibia](style-guides/namibia/README.md)
   * [Regulations](style-guides/namibia/regulations.md)

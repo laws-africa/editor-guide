@@ -4,10 +4,9 @@
 
 **NB: Use the HTML files to import and for reference when cleaning up the imports.**
 
-HTML files are saved here:\
+HTML files are saved here:<br>
 
-
-[https://drive.google.com/drive/folders/13Qx11isfHmciPjCQOAhIhNis7vS6H3E1?usp=share\_link](https://drive.google.com/drive/folders/13Qx11isfHmciPjCQOAhIhNis7vS6H3E1?usp=share\_link)
+[https://drive.google.com/drive/folders/13Qx11isfHmciPjCQOAhIhNis7vS6H3E1?usp=share\_link](https://drive.google.com/drive/folders/13Qx11isfHmciPjCQOAhIhNis7vS6H3E1?usp=share_link)
 
 ## Cleaning up the import - 2002 consolidation
 
@@ -72,11 +71,7 @@ Using the pdf as reference, check that they have been placed correctly by follow
 
 * another example
 
-<div align="center">
-
-<img src="../.gitbook/assets/image (186).png" alt="">
-
-</div>
+<div align="center"><img src="../.gitbook/assets/image (186).png" alt=""></div>
 
 This is how it will look on the platform, **please take note of how the references are indented**:
 
@@ -126,4 +121,4 @@ Should look like this: `{{*[Acts Nos. 2 of 2010 s. 19; 13 of 2017 s. 4]}}`
 
 ## Subsidiary legislation
 
-**Subsidiary legislation** which sometimes appears after an Act is not to be included in the import of a document, please remove if it is there.\
+**Subsidiary legislation** which sometimes appears after an Act is not to be included in the import of a document, please remove if it is there.<br>

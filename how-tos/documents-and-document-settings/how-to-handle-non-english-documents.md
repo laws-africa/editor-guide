@@ -34,9 +34,8 @@ If a document exists in more than one language and you wish to add different ver
 <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 \
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
-### &#x20;
+### <br>
