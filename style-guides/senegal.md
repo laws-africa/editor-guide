@@ -13,7 +13,9 @@
 *
 * French words for BOOK (Livre), CHAPTER (Chapitre), TITLE (Titre) and PART (Partie) will automatically appear translated on the view screen when you mark them up in the usual way eg. Chapter will automatically come up as Chapitre when you mark it up using CHAP
 
-**Convert headings in capital letters to sentence case,** run headings through this programme to make sure French accents are put on to the lower case letters:&#x20;
+**Convert headings in capital letters to sentence case,** run headings through this programme to make sure French accents are put on to the lower case letters: [https://www.reverso.net/spell-checker/french-spelling-grammar/](https://www.reverso.net/spell-checker/french-spelling-grammar/)
+
+
 
 
 
