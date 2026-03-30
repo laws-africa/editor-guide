@@ -18,11 +18,11 @@
 
 
 **EXPOSE DES MOTIFS** \
-Leave it, this is an explanatory statement\
+Leave this in, it is an explanatory statement\
 \
-Mark up in PREFACE and leave words in capital letters\
+Mark up in PREFACE and leave heading in capital letters\
 \
-Take out material which is already duplicated in the table of contents eg. \
+Take out material which is already duplicated and is visible in the table of contents eg. \
 \
 Le présent projet de loi est articulé autour de sept titres:\
 le titre premier est relatif aux dispositions générales;\
