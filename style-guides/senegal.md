@@ -17,6 +17,28 @@
 
 
 
+**EXPOSE DES MOTIFS** \
+Leave it, this is an explanatory statement\
+\
+Mark up in PREFACE and leave words in capital letters\
+\
+Take out material which is already duplicated in the table of contents eg. \
+\
+Le présent projet de loi est articulé autour de sept titres:\
+le titre premier est relatif aux dispositions générales;\
+le titre II porte sur les instruments de protection de l’Environnement;\
+le titre III traite des évaluations environnementales;\
+le titre IV concerne la prévention et la lutte contre les pollutions, risques et nuisances;\
+le titre V vise la protection et la mise en valeur des milieux récepteurs et sites sensibles;\
+le titre VI prévoit les sanctions administratives et pénales;\
+le titre VII porte sur les dispositions transitoires et finales.\
+\
+Example: see PREFACE in [https://edit.laws.africa/works/akn/sn/act/2023/15/](https://edit.laws.africa/works/akn/sn/act/2023/15/)\
+\
+<br>
+
+
+
 
 
 Forms: insert as images
