@@ -48,6 +48,8 @@ Edit mode:
 
 \{{\*\[Attention: numérotation comme à l'original.]\}}
 
-Forms: insert as images
 
-Tables: mark up
+
+**Forms:** insert as images
+
+**Tables:** mark up
