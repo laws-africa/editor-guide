@@ -35,11 +35,18 @@ le titre VII porte sur les dispositions transitoires et finales.\
 \
 Example: see PREFACE in [https://edit.laws.africa/works/akn/sn/act/2023/15/](https://edit.laws.africa/works/akn/sn/act/2023/15/)\
 \
-<br>
+\
+**Paragraphe which contains Articles**
+
+In edit mode: mark up as a SUBPART, include ‘paragraphe’ as part of the number (not the heading)
 
 
 
+**Irregular numbering of documents: annotation to be inserted**
 
+Edit mode:
+
+\{{\*\[Attention: numérotation comme à l'original.]\}}
 
 Forms: insert as images
 
