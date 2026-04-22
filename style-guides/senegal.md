@@ -40,7 +40,12 @@ Example: see PREFACE in [https://edit.laws.africa/works/akn/sn/act/2023/15/](htt
 
 In edit mode: mark up as a SUBPART, include ‘paragraphe’ as part of the number (not the heading)
 
+In view mode: \
+![](<../.gitbook/assets/Screenshot 2026-04-22 155445.png>)
 
+In edit mode:
+
+![](<../.gitbook/assets/Screenshot 2026-04-22 154730 (1).png>)
 
 **Irregular numbering of documents: annotation to be inserted**
 
