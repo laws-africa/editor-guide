@@ -58,3 +58,25 @@ Edit mode:
 **Forms:** insert as images
 
 **Tables:** mark up
+
+**Applying Amendments**
+
+When an article is amended or substituted, use the words **modifié par**
+
+Where an article is repealed, use the words **abrogé par**
+
+When an article is inserted or added use the words **ajouté par**
+
+When an article is deleted use the words **supprimée par**
+
+**Constructing the annotation**
+
+In French language, use of **du**, **de la** and **de l'** depends on what the amending work is. This is a sample of which to of these to use:
+
+<img src="https://docs.laws.africa/~gitbook/image?url=https%3A%2F%2F672843079-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-LoitfV0OP-HrMLMazq_%252Fuploads%252FuVqOVnThUQBa2Cc1GWqt%252FDe%2520la.png%3Falt%3Dmedia%26token%3Da2d2f4bd-8cc6-48d3-af98-7ebd1d4828b7&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=2a119a64&#x26;sv=2" alt="" height="231" width="606">
+
+**Where an article is amended, or substituted several times**, create separate annotations for each amendment, each on a new line. Use the verb **Modifié**
+
+Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
+
+[https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments](https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments)
