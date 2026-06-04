@@ -81,13 +81,16 @@ for the word and use **et** in French
 
 Examples:&#x20;
 
-View mode ↓\
-![](<../.gitbook/assets/image (304).png>)
+View mode ↓
 
-Edit mode ↓
+<figure><img src="../.gitbook/assets/view mode.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
+&#x20;Edit mode ↓
+
+<figure><img src="../.gitbook/assets/Edit mode (2).png" alt=""><figcaption></figcaption></figure>
 
 Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
+
+<figure><img src="../.gitbook/assets/Edit mode (1).png" alt=""><figcaption></figcaption></figure>
 
 [https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments](https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments)
