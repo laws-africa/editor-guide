@@ -5,7 +5,7 @@
 3. Under 'Expression date', select the right date, and Close the pop-up.
 4. Save.
 
-![](<../../.gitbook/assets/image (261).png>)
+<img src="../../.gitbook/assets/image (261).png" alt="" width="188">
 
 ![](<../../.gitbook/assets/image (26).png>)
 

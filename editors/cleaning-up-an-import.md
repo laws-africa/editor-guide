@@ -10,8 +10,8 @@ Content and structure is more important than matching exactly what the text look
 [the-importer.md](../how-tos/documents-and-document-settings/importing-a-document/the-importer.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/-MA7AZ2T7nt0K9rLHnsS" %}
-[Broken link](/broken/pages/-MA7AZ2T7nt0K9rLHnsS)
+{% content-ref url="https://app.gitbook.com/s/-LoitfV0OP-HrMLMazq_/markup-guide" %}
+[Markup guide](https://app.gitbook.com/s/-LoitfV0OP-HrMLMazq_/markup-guide)
 {% endcontent-ref %}
 
 {% hint style="info" %}
