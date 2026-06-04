@@ -83,7 +83,7 @@ Examples:&#x20;
 
 View mode ↓&#x20;
 
-
+<figure><img src="../.gitbook/assets/view mode (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Edit mode ↓
 
