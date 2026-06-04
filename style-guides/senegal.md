@@ -87,6 +87,8 @@ View mode ↓&#x20;
 
 &#x20;Edit mode ↓
 
+<figure><img src="../.gitbook/assets/Edit mode (3).png" alt=""><figcaption></figcaption></figure>
+
 Please read the section on How to insert an automatically created annotation in the Laws.Africa Editor Guide
 
 [https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments](https://docs.laws.africa/managing-works/amending-works/annotating-the-amendments)
