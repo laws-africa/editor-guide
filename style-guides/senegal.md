@@ -67,7 +67,7 @@ Where an article is repealed, use the words **abrogé par**
 
 When an article is added use the words **ajouté par**
 
-When an article is inserted or added use the words **inséré par**
+When an article is inserted use the words **inséré par**
 
 When an article is deleted use the words **supprimée par**
 
