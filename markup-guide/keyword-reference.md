@@ -20,6 +20,7 @@
 | `SCHEDULE`               | Introduces a Schedule (see the full list of Schedule-like blocks below)      |
 | `QUOTE{startQuote “}`    | Introduces a quote                                                           |
 | `FOOTNOTE`               | Introduces a footnote                                                        |
+| `PROVISO`                | Used to markup provisios                                                     |
 
 ### Schedule-like blocks
 
