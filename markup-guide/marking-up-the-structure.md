@@ -173,6 +173,8 @@ CHAP
         SUBPARA [ii]
         
           Content of subparagraph ii; and
+        PROVISO
+          Provisio to subparagraphs (i) and (ii).
           
       PARA b)
       
@@ -313,7 +315,8 @@ SEC 1. - Definitions
     ITEM (b)
       a country pigeon,
 
-    but not a pigeon that has been bred in captivity;
+    PROVISO
+      but not a pigeon that has been bred in captivity;
     
   "another term" means something else.
 
