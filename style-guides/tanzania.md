@@ -52,6 +52,20 @@ For references in the Schedule heading: change “s.” to “Section”
 
 ### Things to look out for in Tanzania
 
+#### Preface to be included in subsidiary legislation eg. Orders
+
+Where legislation is enacted according to a provision in an Act, include details in PREFACE\
+\
+In view mode\
+![](<../.gitbook/assets/image (306).png>)
+
+In edit mode
+
+\
+![](<../.gitbook/assets/image (308).png>)
+
+
+
 #### Margin references
 
 The references and date that appear alongside/under the Long Title of the Act must be deleted. The images of the logo that appear in the pdf must be removed. This has already been done in the Word docs, if you see any that have accidently been left in, please remove them.
