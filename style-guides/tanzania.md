@@ -38,6 +38,11 @@ If references include a section number, include this too:
 
 #### ![](<../.gitbook/assets/image (1) (3).png>)
 
+#### Where two annotations need to be inserted below a section: an earlier section number in square brackets and an annotation for references&#x20;
+
+the order is section number annotation at the top (in square brackets this refers to an earlier numbering of this section), followed by the annotation for the references underneath \
+![](<../.gitbook/assets/image (309).png>)
+
 #### Footnotes
 
 The asterisks (\*) used to denote the footnotes should be deleted. Only numbers should be retained.
