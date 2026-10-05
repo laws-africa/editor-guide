@@ -26,11 +26,17 @@ When importing Swahili HTML files, the language (Swahili) must be selected as de
 
 #### Legislation history
 
-References to legislation history, as highlighted in the image below, must be captured in a single annotation above the LONGTITLE. Each reference should be separated by a semi-colon.
+References to legislation history, as highlighted in the image below, must be captured in a single annotation above the LONGTITLE. Each reference should be separated by a semi-colon.&#x20;
 
 <figure><img src="../.gitbook/assets/image (288).png" alt=""><figcaption><p>An example of how to mark up the text in this image is captured below. </p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+
+If references include a section number, include this too:
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-10 092719 (1).png" alt=""><figcaption></figcaption></figure>
+
+#### ![](<../.gitbook/assets/image (1) (3).png>)
 
 #### Footnotes
 
