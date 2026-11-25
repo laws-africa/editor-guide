@@ -27,16 +27,42 @@ You can copy and paste a table from a Word document.
 
 ## How to edit a table
 
-![](../../../.gitbook/assets/table-editor-buttons.png)
+![Table editor toolbar, with the Table Formatting gear button and selected-cell text size control](../../../.gitbook/assets/table-formatting-toolbar.jpg)
 
 1. Click **Edit table** to enter table edit mode.
-2. Make your changes to the table.
-3. Insert and delete columns and rows by clicking **Insert** and **Delete**.
-4. Merge cells by highlighting them and clicking **Merge cells**.
-5. Mark up heading cells by highlighting them and clicking **Heading**.
-6. Resize columns by clicking and dragging on the border between them.
-7. Left align, center and right-align text by clicking the editor alignment buttons.
-8. Click **Update** to save your changes, or click **Cancel** to discard the&#x6D;**.**
+2. Insert or delete columns and rows using **Insert** and **Delete**.
+3. Merge cells by highlighting them and clicking **Merge cells**.
+4. Mark heading cells by highlighting them and clicking **Heading**.
+5. Resize columns by dragging the border between them.
+6. Adjust the formatting using the controls described below.
+7. Click **Update** to apply your changes, or **Cancel** to discard them. Save the document when you have finished editing.
+
+### Format the whole table
+
+Click the **gear button** (**Table Formatting**) to open the table-wide settings. You do not need to select any cells.
+
+* **Text size**: choose Default, Normal, Small, Extra small or Extra-extra small.
+* **Alignment**: choose Default, Left, Centre, Right or Justify. Justify aligns text with both sides of the cell.
+* **Remove cell padding**: remove the space between the cell contents and its edges throughout the table.
+* **Remove cell borders**: hide the borders throughout the table. Dotted guides remain visible in the editor so that you can find the cells; they are not publication borders.
+
+Uncheck either checkbox to remove that table-wide setting. Padding and borders are separate settings; padding classes on individual cells remain in place.
+
+### Format selected cells
+
+Click inside a cell, or drag across cells to select several. Use the **A (font) dropdown** beside Bold, Italic and Underline to change the selected cells' text size. Use the alignment buttons to choose Default, Left, Centre, Right or Justify for those cells.
+
+Cell controls are disabled when no cells are selected. If selected cells have different size settings, the size control shows **Mixed**. Choosing a size applies it to all selected cells. Alignment buttons show the setting shared by the selection; a mixed selection has no shared alignment highlighted.
+
+A cell's own setting takes precedence over the table's setting. For example, you can make a table Small and its heading cells Normal. Paragraphs with their own formatting inside a cell keep that formatting when the table is saved.
+
+### Default and Normal
+
+**Default** removes the size or alignment setting from the table or selected cells, allowing the surrounding content and publication defaults to determine the result. It does not remove other formatting. For a cell, Default usually means following the table's setting.
+
+**Normal** explicitly selects the document's normal text size, even inside a smaller table. Similarly, **Left** explicitly selects left alignment; use Default to follow the inherited alignment instead.
+
+The exact sizes and defaults can differ between publications. See the [formatting reference](../../../markup-guide/marking-up-formatting.md#text-size-and-alignment-classes) for the available classes, and the [Kenya Annual Supplement guide](../../../style-guides/kenya-annual-supplement.md) for its specific rules.
 
 ## **Exercise**
 

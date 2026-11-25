@@ -2,6 +2,12 @@
 
 The 'Broken table' error will tell you what the system thinks the total rows and columns for the table are.
 
+## What saving a table can fix
+
+When you click **Update** in the table editor, Indigo simplifies redundant column spans where the table has a valid grid. For example, if every cell spans two columns and the division between those columns is never used, the table can be represented with fewer columns. This keeps genuine merged cells, row spans and column widths. Nested tables are handled separately.
+
+This can change the `colspan` values you see in markup without changing the intended layout. **Cancel** leaves the table unchanged. Saving cannot resolve every malformed table: missing cells, overlapping spans or conflicting widths may still need manual correction. Use the examples below to diagnose such problems, checking any row spans as well as the cells in the current row.
+
 ## Incorrect colspan
 
 ### Example 1
@@ -68,7 +74,7 @@ In Edit mode, search for `colspan` and either:&#x20;
 as appropriate.
 
 {% hint style="info" %}
-You can tell which cells legitimately span columns by looking at how many cells there are in that row:&#x20;
+For this example, which has no row spans, you can tell which cells legitimately span columns by looking at how many cells there are in that row:&#x20;
 
 * If there's only one cell, it should have `{colspan 3}`, and
 * If there's only two cells, one of them should have `{colspan 2}`,

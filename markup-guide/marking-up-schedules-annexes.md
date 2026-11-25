@@ -15,6 +15,8 @@ The pattern for Schedules / Annexes is as follows:
 Don't use italics or bold markup on any headings, including in Schedules / Annexes.
 {% endhint %}
 
+For form layout in Kenya Annual Supplement PDFs, see [Declaring a form](../style-guides/kenya-annual-supplement.md#declaring-a-form).
+
 ### Examples
 
 ```

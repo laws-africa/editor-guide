@@ -98,6 +98,7 @@
 * [Côte d'Ivoire](style-guides/cote-divoire.md)
 * [Senegal](style-guides/senegal.md)
 * [Ghana](style-guides/ghana.md)
+* [Kenya Annual Supplement](style-guides/kenya-annual-supplement.md)
 * [Namibia](style-guides/namibia/README.md)
   * [Regulations](style-guides/namibia/regulations.md)
 * [Lesotho](style-guides/lesotho.md)
