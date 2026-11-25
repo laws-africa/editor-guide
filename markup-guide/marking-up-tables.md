@@ -6,7 +6,8 @@ After working through this section, you should be able to:
 * Mark up heading and content cells
 * Mark up quoted content in a table cell
 * Merge cells horizontally and vertically
-* Mark the end of a table.
+* Mark the end of a table
+* Set table and cell formatting with classes.
 
 ## Marking up a table <a href="#marking-up-a-footnote" id="marking-up-a-footnote"></a>
 
@@ -182,6 +183,39 @@ Note how the third row in Edit mode only has one `TC`, which will be in the seco
 
 If `{rowspan 2}` had been applied to the second column in the second row instead, the third row's one `TC` would be in the first column in View mode, but unchanged in Edit mode.
 {% endhint %}
+
+## Formatting tables and cells
+
+Add formatting classes immediately after `TABLE`, `TH` or `TC`, with a full stop before each class. Keep any `colspan` or `rowspan` attributes after the classes.
+
+```
+TABLE.akn--text-small.akn--text-justify
+    TR
+        TH.akn--text-normal{colspan 2}
+            Fees
+    TR
+        TC
+            Application fee
+        TC.akn--text-right
+            100.00
+```
+
+This table uses Small, justified text. Its heading uses Normal text, and the amount is right-aligned. Cells without their own setting follow the table. Repeating Small on a cell would keep the same size; it would not make the text smaller again.
+
+To remove padding from every cell, use `TABLE.akn--no-padding`. To remove it from just one cell, use `TH.akn--no-padding` or `TC.akn--no-padding`.
+
+To remove the whole table's borders, use `TABLE.akn--no-border`. Put this class on the table rather than on its cells. Padding and borders can be combined with size and alignment classes:
+
+```
+TABLE.akn--no-border.akn--no-padding.akn--text-small
+    TR
+        TC
+            Name:
+        TC
+            ........................................
+```
+
+For the complete list of sizes, alignments and inheritance rules, see [Marking up formatting](marking-up-formatting.md#text-size-and-alignment-classes). You can also apply these settings using the [table editor](../how-tos/mark-up/tables/README.md#how-to-edit-a-table).
 
 ## Exercises
 
